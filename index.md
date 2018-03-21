@@ -364,8 +364,3 @@ Søgaard, Anders; Haugereid, Petter. 2004. The noun phrase in Mainland Scandinav
 Søgaard, Anders. 2003. A compound algorithm. Computational Linguistics in the Netherlands 2003. Antwerpen, Belgium.
 
 Søgaard, Anders. 2003. Compounding and the generative lexicon. Sprache, Wissen, Wissenschaft. Munich, Germany.
-
-You can use the [editor on GitHub](https://github.com/anderssoegaard/anderssoegaard.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
