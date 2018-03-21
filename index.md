@@ -4,8 +4,6 @@ Professor in Natural Language Processing and Machine Learning, Dpt. of Computer 
 ### News
 I will be area chair of NAACL 2018, ACL 2018, COLING 2018, and IJCAI 2018. I am also writing a book for Morgan & Claypool on cross-lingual learning, with Ivan Vulic (Cambridge), Manaal Faruqui (Google), and Sebastian Ruder (Aylien).
 
-Short-cuts: Research publications, Reviews, Editorial work, Danish journals, Invited seminars, Projects, Other research activities, Interviews (Danish).
-
 ## Research publications
 ### 2018
 Augenstein, Isabelle; Ruder, Sebastian; Søgaard, Anders. 2018. Multi-task learning of pairwise sequence classification tasks over disparate label spaces. North American Chapter of the Association for Computational Linguistics (NAACL). New Orleans, Louisiana.
