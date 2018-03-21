@@ -8,13 +8,13 @@ Short-cuts: Research publications, Reviews, Editorial work, Danish journals, Inv
 
 ## Research publications
 ### 2018
-Augenstein, Isabelle; Ruder, Sebastian; Søgaard, Anders. 2018. Multi-task learning of pairwise sequence classification tasks over disparate label spaces. North American Chapter of the Association for COmputational Linguistics (NAACL). New Orleans, Louisiana.
+Augenstein, Isabelle; Ruder, Sebastian; Søgaard, Anders. 2018. Multi-task learning of pairwise sequence classification tasks over disparate label spaces. North American Chapter of the Association for Computational Linguistics (NAACL). New Orleans, Louisiana.
 
-Rønning, Ola; Hardt, Daniel; Søgaard, Anders. 2018. Sluice resolution without hand-crafted features over brittle syntax. North American Chapter of the Association for COmputational Linguistics (NAACL). New Orleans, Louisiana.
+Rønning, Ola; Hardt, Daniel; Søgaard, Anders. 2018. Sluice resolution without hand-crafted features over brittle syntax. North American Chapter of the Association for Computational Linguistics (NAACL). New Orleans, Louisiana.
 
-Barrett, Maria; Frermann, Lea; Gonzalez-Garduno, Ana Valeria; Søgaard, Anders. 2018. Unsupervised induction of linguistic categories with records of reading, speaking, and writing. North American Chapter of the Association for COmputational Linguistics (NAACL). New Orleans, Louisiana.
+Barrett, Maria; Frermann, Lea; Gonzalez-Garduno, Ana Valeria; Søgaard, Anders. 2018. Unsupervised induction of linguistic categories with records of reading, speaking, and writing. North American Chapter of the Association for Computational Linguistics (NAACL). New Orleans, Louisiana.
 
-Rei, Marek; Søgaard, Anders. 2018. Zero-shot sequence labeling through transfer learning. North American Chapter of the Association for COmputational Linguistics (NAACL). New Orleans, Louisiana.
+Rei, Marek; Søgaard, Anders. 2018. Zero-shot sequence labeling through transfer learning. North American Chapter of the Association for Computational Linguistics (NAACL). New Orleans, Louisiana.
 
 Gonzalez-Garduno, Ana Valeria; Søgaard, Anders. 2018. Learning to predict readability using eye-movement data from natives and learners. The 32nd AAAI Conference on Artificial Intelligence (AAAI). New Orleans, Louisiana.
 
