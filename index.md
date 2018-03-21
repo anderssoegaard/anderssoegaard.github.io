@@ -6,7 +6,7 @@ I will be area chair of NAACL 2018, ACL 2018, COLING 2018, and IJCAI 2018. I am 
 
 ## Research publications
 ### 2018
-Augenstein, Isabelle; Ruder, Sebastian; Søgaard, Anders. 2018. Multi-task learning of pairwise sequence classification tasks over disparate label spaces. North American Chapter of the Association for Computational Linguistics (NAACL). New Orleans, Louisiana.
+Augenstein, Isabelle; Ruder, Sebastian; Søgaard, Anders. 2018. Multi-task learning of pairwise sequence classification tasks over disparate label spaces. North American Chapter of the Association for Computational Linguistics (NAACL). New Orleans, Louisiana. [Arxiv](https://arxiv.org/abs/1802.09913)
 
 Rønning, Ola; Hardt, Daniel; Søgaard, Anders. 2018. Sluice resolution without hand-crafted features over brittle syntax. North American Chapter of the Association for Computational Linguistics (NAACL). New Orleans, Louisiana.
 
@@ -16,7 +16,7 @@ Rei, Marek; Søgaard, Anders. 2018. Zero-shot sequence labeling through transfer
 
 Gonzalez-Garduno, Ana Valeria; Søgaard, Anders. 2018. Learning to predict readability using eye-movement data from natives and learners. The 32nd AAAI Conference on Artificial Intelligence (AAAI). New Orleans, Louisiana.
 
-Søgaard, Anders. 2018. What I think when I think about treebanks. 16th International Workshop on Treebanks and Linguistic Theories. Prague, Czech.
+Søgaard, Anders. 2018. What I think when I think about treebanks. 16th International Workshop on Treebanks and Linguistic Theories. Prague, Czech. [PDF](http://www.aclweb.org/anthology/W17-7620)
 
 Pedersen, Bolette; Nimb, Sanni; Søgaard, Anders; Hartmann, Mareike; Olsen, Sussi. 2018. A Danish FrameNet Lexicon and an Annotated Corpus Used for Training and Evaluating a Semantic Frame Classifier. Language Resources and Evaluation Conference (LREC) 2018. Miyazaki, Japan.
 
