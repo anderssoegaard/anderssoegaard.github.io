@@ -21,51 +21,51 @@ Søgaard, Anders. 2018. What I think when I think about treebanks. 16th Internat
 Pedersen, Bolette; Nimb, Sanni; Søgaard, Anders; Hartmann, Mareike; Olsen, Sussi. 2018. A Danish FrameNet Lexicon and an Annotated Corpus Used for Training and Evaluating a Semantic Frame Classifier. Language Resources and Evaluation Conference (LREC) 2018. Miyazaki, Japan.
 
 ### 2017
-Ruder, Sebastian; Vulic, Ivan; Søgaard, Anders. 2017. A survey of cross-lingual word embedding models.
+Ruder, Sebastian; Vulic, Ivan; Søgaard, Anders. 2017. A survey of cross-lingual word embedding models. [Arxiv](https://arxiv.org/abs/1706.04902)
 
-Felbo, Bjarke; Mislove, Alan; Søgaard, Anders; Rahwan, Iyan; Lehmann, Sune. 2017. Using millions of emoji occurrences to pretrain any-domain models for detecting emotion, sentiment, and sarcasm. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2017. Copenhagen, Denmark.
+Felbo, Bjarke; Mislove, Alan; Søgaard, Anders; Rahwan, Iyan; Lehmann, Sune. 2017. Using millions of emoji occurrences to pretrain any-domain models for detecting emotion, sentiment, and sarcasm. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2017. Copenhagen, Denmark. [PDF](http://www.aclweb.org/anthology/D17-1169)
 
-Braud, Chloe; Lacroix, Ophelie; Søgaard, Anders. 2017. Does syntax help discourse segmentation? Not so much. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2017. Copenhagen, Denmark.
+Braud, Chloe; Lacroix, Ophelie; Søgaard, Anders. 2017. Does syntax help discourse segmentation? Not so much. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2017. Copenhagen, Denmark. [PDF](http://aclweb.org/anthology/D17-1258)
 
-Gonzalez-Garduno, Ana; Søgaard, Anders. 2017. Using gaze to predict text readability. 12th Workshop on Innovative Use of NLP for Building Educational Applications, EMNLP 2017. Copenhagen, Denmark.
+Gonzalez-Garduno, Ana; Søgaard, Anders. 2017. Using gaze to predict text readability. 12th Workshop on Innovative Use of NLP for Building Educational Applications, EMNLP 2017. Copenhagen, Denmark. [PDF](http://www.aclweb.org/anthology/W17-5050)
 
-Braud, Chloe; Søgaard, Anders. 2017. Is writing style predictive of scientific fraud? Workshop on Stylistic Variation, EMNLP 2017. Copenhagen, Denmark.
+Braud, Chloe; Søgaard, Anders. 2017. Is writing style predictive of scientific fraud? Workshop on Stylistic Variation, EMNLP 2017. Copenhagen, Denmark. [PDF](http://www.aclweb.org/anthology/W17-4905)
 
-Salehi, Bahar; Søgaard, Anders. 2017. Evaluating hypotheses in geolocation on a very large sample of Twitter. Workshop on Noisy User-generated Text (W-NUT), EMNLP 2017. Copenhagen, Denmark.
+Salehi, Bahar; Søgaard, Anders. 2017. Evaluating hypotheses in geolocation on a very large sample of Twitter. Workshop on Noisy User-generated Text (W-NUT), EMNLP 2017. Copenhagen, Denmark. [PDF](http://www.aclweb.org/anthology/W17-4409)
 
-Salehi, Bahar; Hovy, Dirk; Hovy, Eduard; Søgaard, Anders. 2017. Huntsville, hospitals, and hockey teams: Names can reveal your location. Workshop on Noisy User-generated Text (W-NUT), EMNLP 2017. Copenhagen, Denmark.
+Salehi, Bahar; Hovy, Dirk; Hovy, Eduard; Søgaard, Anders. 2017. Huntsville, hospitals, and hockey teams: Names can reveal your location. Workshop on Noisy User-generated Text (W-NUT), EMNLP 2017. Copenhagen, Denmark. [PDF](http://www.aclweb.org/anthology/W17-4415)
 
-Søgaard, Anders. 2017. Using hyperlinks to train multilingual partial parsers. The 15th International Conference on Parsing Technologies (IWPT). Pisa, Italy.
+Søgaard, Anders. 2017. Using hyperlinks to train multilingual partial parsers. The 15th International Conference on Parsing Technologies (IWPT). Pisa, Italy. [PDF](https://www.aclweb.org/anthology/W/W17/W17-6310.pdf)
 
-Ruder, Sebastian; Bingel, Joachim; Augenstein, Isabelle; Søgaard, Anders. 2017. Sluice networks: Learning what to share between loosely related tasks.
+Ruder, Sebastian; Bingel, Joachim; Augenstein, Isabelle; Søgaard, Anders. 2017. Learning what to share between loosely related tasks. [Arxiv](https://arxiv.org/abs/1705.08142)
 
-Hartmann, Mareike; Søgaard, Anders. 2017. Limitations of cross-lingual learning from image search.
+Hartmann, Mareike; Søgaard, Anders. 2017. Limitations of cross-lingual learning from image search. [Arxiv](https://arxiv.org/abs/1709.05914)
 
-Bollmann, Marcel; Bingel, Joachim; Søgaard, Anders. 2017. Learning attention for historical text normalization by learning to pronounce. The 55th Annual Meeting of the Association for Computational Linguistics (ACL). Vancouver, Canada.
+Bollmann, Marcel; Bingel, Joachim; Søgaard, Anders. 2017. Learning attention for historical text normalization by learning to pronounce. The 55th Annual Meeting of the Association for Computational Linguistics (ACL). Vancouver, Canada. [PDF](http://www.aclweb.org/anthology/P17-1031)
 
-Braud, Chloe; Lacroix, Ophelie; Søgaard, Anders. 2017. Cross-lingual and cross-domain discourse segmentation of entire documents. The 55th Annual Meeting of the Association for Computational Linguistics (ACL). Vancouver, Canada.
+Braud, Chloe; Lacroix, Ophelie; Søgaard, Anders. 2017. Cross-lingual and cross-domain discourse segmentation of entire documents. The 55th Annual Meeting of the Association for Computational Linguistics (ACL). Vancouver, Canada. [PDF](http://www.aclweb.org/anthology/P17-2037)
 
-Augenstein, Isabelle; Søgaard, Anders. 2017. Multi-task learning of keyphrase boundary classification. The 55th Annual Meeting of the Association for Computational Linguistics (ACL). Vancouver, Canada.
+Augenstein, Isabelle; Søgaard, Anders. 2017. Multi-task learning of keyphrase boundary classification. The 55th Annual Meeting of the Association for Computational Linguistics (ACL). Vancouver, Canada. [PDF](http://www.aclweb.org/anthology/P17-2054)
 
 Felbo, Bjarke; Mislove, Allan; Søgaard, Anders; Rahwan, Iyad; Lehmann, Sune. 2017. Using millions of emoji occurrences to pretrain any-domain models for detecting emotion, sentiment and sarcasm. 2nd Workshop on Representation Learning for NLP, ACL 2017. Vancouver, Canada.
 
-Nimb, Sanni; Olsen, Sussi; Pedersen, Bolette; Braasch, Anna; Sørensen, Nicolai; Søgaard, Anders. 2017. From thesaurus to framenet and annotated text. Electronic Lexicography in the 21st Century (eLex). Leiden, the Netherlands.
+Nimb, Sanni; Olsen, Sussi; Pedersen, Bolette; Braasch, Anna; Sørensen, Nicolai; Søgaard, Anders. 2017. From thesaurus to framenet and annotated text. Electronic Lexicography in the 21st Century (eLex). Leiden, the Netherlands. [PDF](https://elex.link/elex2017/wp-content/uploads/2017/09/paper01.pdf)
 
 Gonzalez-Garduño, Ana Valeria; Søgaard, Anders. 2017. Using gaze data to evaluate text readability: a multi-task learning approach. 19th European Conference on Eye Movements (ECEM). Wuppertal, Germany.
 
-Søgaard, Anders. 2017. Spikes as regularizers. European Symposium on Artificial Neural Networks, Computational Intelligence, and Machine Learning. Brugge, Belgium.
+Søgaard, Anders. 2017. Spikes as regularizers. European Symposium on Artificial Neural Networks, Computational Intelligence, and Machine Learning. Brugge, Belgium. [Arxiv](https://arxiv.org/abs/1611.06245)
 
-Bingel, Joachim; Søgaard, Anders. 2017. Identifying beneficial task relations for multi-task learning in deep neural networks. The 15th Conference of the European Chapter of the Association for Computational Linguistics (EACL). Valencia, Spain.
+Bingel, Joachim; Søgaard, Anders. 2017. Identifying beneficial task relations for multi-task learning in deep neural networks. The 15th Conference of the European Chapter of the Association for Computational Linguistics (EACL). Valencia, Spain. [PDF](http://www.aclweb.org/anthology/E17-2026)
 
-Agic, Zeljko; Plank, Barbara; Søgaard, Anders. 2017. Cross-lingual tagger evaluation without test data. The 15th Conference of the European Chapter of the Association for Computational Linguistics (EACL). Valencia, Spain.
+Agic, Zeljko; Plank, Barbara; Søgaard, Anders. 2017. Cross-lingual tagger evaluation without test data. The 15th Conference of the European Chapter of the Association for Computational Linguistics (EACL). Valencia, Spain. [PDF](https://aclweb.org/anthology/E/E17/E17-2040.pdf)
 
-Schlichtkrull, Michael; Søgaard, Anders. 2017. Cross-lingual dependency parsing with late decoding for truly low-resource parsing. The 15th Conference of the European Chapter of the Association for Computational Linguistics (EACL). Valencia, Spain.
+Schlichtkrull, Michael; Søgaard, Anders. 2017. Cross-lingual dependency parsing with late decoding for truly low-resource parsing. The 15th Conference of the European Chapter of the Association for Computational Linguistics (EACL). Valencia, Spain. [PDF](http://www.aclweb.org/anthology/E17-1021)
 
-Braud, Chloe; Coavoux, Maximin; Søgaard, Anders. 2017. Cross-lingual RST discourse parsing. The 15th Conference of the European Chapter of the Association for Computational Linguistics (EACL). Valencia, Spain.
+Braud, Chloe; Coavoux, Maximin; Søgaard, Anders. 2017. Cross-lingual RST discourse parsing. The 15th Conference of the European Chapter of the Association for Computational Linguistics (EACL). Valencia, Spain. [PDF](http://www.aclweb.org/anthology/E17-1028)
 
-Levy, Omer; Søgaard, Anders; Goldberg, Yoav. 2017. A strong baseline for learning cross-lingual word embeddings from sentence alignments. The 15th Conference of the European Chapter of the Association for Computational Linguistics (EACL). Valencia, Spain.
+Levy, Omer; Søgaard, Anders; Goldberg, Yoav. 2017. A strong baseline for learning cross-lingual word embeddings from sentence alignments. The 15th Conference of the European Chapter of the Association for Computational Linguistics (EACL). Valencia, Spain. [PDF](http://www.aclweb.org/anthology/E17-1072)
 
-Alonso, Hector Martinez; Plank, Barbara; Søgaard, Anders. 2017. Parsing universal dependencies without training. The 15th Conference of the European Chapter of the Association for Computational Linguistics (EACL). Valencia, Spain.
+Alonso, Hector Martinez; Plank, Barbara; Søgaard, Anders. 2017. Parsing universal dependencies without training. The 15th Conference of the European Chapter of the Association for Computational Linguistics (EACL). Valencia, Spain. [PDF](http://www.aclweb.org/anthology/E17-1022)
 
 ### 2016
 Braud, Chloe; Plank, Barbara; Søgaard, Anders. 2016. Multi-view and multi-task training of RST discourse parsers. The 26th International Conference on Computational Linguistics (COLING). Osaka, Japan.
