@@ -6,6 +6,8 @@ I will be area chair of NAACL 2018, ACL 2018, COLING 2018, and IJCAI 2018. I am 
 
 ## Research publications
 ### 2018
+Ruder, Sebastian; Vulic, Ivan; Søgaard, Anders. 2018. A survey of cross-lingual word embedding models. Journal of Artificial Intelligence Research. To appear. [Arxiv](https://arxiv.org/abs/1706.04902)
+
 Augenstein, Isabelle; Ruder, Sebastian; Søgaard, Anders. 2018. Multi-task learning of pairwise sequence classification tasks over disparate label spaces. North American Chapter of the Association for Computational Linguistics (NAACL). New Orleans, Louisiana. [Arxiv](https://arxiv.org/abs/1802.09913)
 
 Rønning, Ola; Hardt, Daniel; Søgaard, Anders. 2018. Sluice resolution without hand-crafted features over brittle syntax. North American Chapter of the Association for Computational Linguistics (NAACL). New Orleans, Louisiana.
@@ -21,8 +23,6 @@ Søgaard, Anders. 2018. What I think when I think about treebanks. 16th Internat
 Pedersen, Bolette; Nimb, Sanni; Søgaard, Anders; Hartmann, Mareike; Olsen, Sussi. 2018. A Danish FrameNet Lexicon and an Annotated Corpus Used for Training and Evaluating a Semantic Frame Classifier. Language Resources and Evaluation Conference (LREC) 2018. Miyazaki, Japan.
 
 ### 2017
-Ruder, Sebastian; Vulic, Ivan; Søgaard, Anders. 2017. A survey of cross-lingual word embedding models. [Arxiv](https://arxiv.org/abs/1706.04902)
-
 Felbo, Bjarke; Mislove, Alan; Søgaard, Anders; Rahwan, Iyan; Lehmann, Sune. 2017. Using millions of emoji occurrences to pretrain any-domain models for detecting emotion, sentiment, and sarcasm. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2017. Copenhagen, Denmark. [PDF](http://www.aclweb.org/anthology/D17-1169)
 
 Braud, Chloe; Lacroix, Ophelie; Søgaard, Anders. 2017. Does syntax help discourse segmentation? Not so much. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2017. Copenhagen, Denmark. [PDF](http://aclweb.org/anthology/D17-1258)
