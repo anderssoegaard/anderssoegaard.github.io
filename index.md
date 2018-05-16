@@ -2,11 +2,15 @@
 Professor in Natural Language Processing and Machine Learning, Dpt. of Computer Science, University of Copenhagen.
 
 ### News
-I will be area chair of NAACL 2018, ACL 2018, COLING 2018, and IJCAI 2018. I am also writing a book for Morgan & Claypool on cross-lingual learning, with Ivan Vulic (Cambridge), Manaal Faruqui (Google), and Sebastian Ruder (Aylien).
+I have been awarded a Google Focused Research Award for a project on multilingual semantic parsing using multi-task reinforcement learning. I will be area chair of NAACL 2018, ACL 2018, COLING 2018, and IJCAI 2018. I am also writing a new book for Morgan & Claypool.
 
 ## Research publications
 ### 2018
-Ruder, Sebastian; Vulic, Ivan; Søgaard, Anders. 2018. A survey of cross-lingual word embedding models. Journal of Artificial Intelligence Research. To appear. [Arxiv](https://arxiv.org/abs/1706.04902)
+Ruder, Sebastian; Vulic, Ivan; Søgaard, Anders. 2018. A survey of cross-lingual word embedding models. Journal of Artificial Intelligence Research (JAIR). To appear. [Arxiv](https://arxiv.org/abs/1706.04902)
+
+Søgaard, Anders; Ruder, Sebastian; Vulic, Ivan. 2018. On the limitations of unsupervised bilingual dictionary induction. The 56th Annual Meeting of the Association for Computational Linguistics (ACL). Melbourne, Australia.
+
+Bingel, Joachim; Paetzold, Gustavo; Søgaard, Anders. 2018. Lexi: A tool for adaptive, personalized text simplification. The 27th International Conference on Computational Linguistics (COLING), Demo Session. Santa Fe, New Mexico.
 
 Augenstein, Isabelle; Ruder, Sebastian; Søgaard, Anders. 2018. Multi-task learning of pairwise sequence classification tasks over disparate label spaces. North American Chapter of the Association for Computational Linguistics (NAACL). New Orleans, Louisiana. [Arxiv](https://arxiv.org/abs/1802.09913)
 
