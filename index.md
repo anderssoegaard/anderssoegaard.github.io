@@ -10,6 +10,10 @@ Ruder, Sebastian; Vulic, Ivan; Søgaard, Anders. 2018. A survey of cross-lingual
 
 Søgaard, Anders; Ruder, Sebastian; Vulic, Ivan. 2018. On the limitations of unsupervised bilingual dictionary induction. The 56th Annual Meeting of the Association for Computational Linguistics (ACL). Melbourne, Australia.
 
+Bollman, Marcel; Bingel, Joachim; Søgaard, Anders. 2018. Multi-task learning for historical text normalization: Size matters. Deep Learning Approaches for Low Resource Natural Language Processing. Melbourne, Australia. 
+
+Kann, Katharina; Bjerva, Johannes; Augenstein, Isabelle; Plank, Barbara; Søgaard, Anders. 2018. Character-level Supervision for Low-resource POS Tagging. Deep Learning Approaches for Low Resource Natural Language Processing. Melbourne, Australia. 
+
 Bingel, Joachim; Paetzold, Gustavo; Søgaard, Anders. 2018. Lexi: A tool for adaptive, personalized text simplification. The 27th International Conference on Computational Linguistics (COLING), Demo Session. Santa Fe, New Mexico.
 
 Augenstein, Isabelle; Ruder, Sebastian; Søgaard, Anders. 2018. Multi-task learning of pairwise sequence classification tasks over disparate label spaces. North American Chapter of the Association for Computational Linguistics (NAACL). New Orleans, Louisiana. [Arxiv](https://arxiv.org/abs/1802.09913)
