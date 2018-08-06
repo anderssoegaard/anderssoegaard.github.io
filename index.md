@@ -12,6 +12,8 @@ Kementchedjhieva, Yova; Ruder, Sebastian; Cotterell, Ryan; Søgaard, Anders. 201
 
 Barrett, Maria; Bingel, Joachim; Hollenstein, Nora; Rei, Marek; Søgaard, Anders. 2018. Sentence classification with human attention. Conference on Computational Natural Language Learning (CoNLL). Brussels, Belgium.
 
+Rønning, Ola; Hardt, Daniel; Søgaard, Anders. 2018. Ellipsis resolution in neural networks. EMNLP Workshop on Analyzing and interpreting neural networks for NLP. Brussels, Belgium. 
+
 Kerinec, Emma; Braud, Chloe; Søgaard, Anders. 2018. When does deep multi-task learning work for loosely related document classification tasks? EMNLP Workshop on Analyzing and interpreting neural networks for NLP. Brussels, Belgium. 
 
 Søgaard, Anders; de Lhoneux, Miryam; Augenstein, Isabelle. 2018. Nightmare at test time: How punctuation prevents parsers from generalizing. EMNLP Workshop on Analyzing and interpreting neural networks for NLP. Brussels, Belgium. 
