@@ -8,6 +8,14 @@ I have been awarded a Google Focused Research Award for a project on multilingua
 ### 2018
 Ruder, Sebastian; Vulic, Ivan; Søgaard, Anders. 2018. A survey of cross-lingual word embedding models. Journal of Artificial Intelligence Research (JAIR). To appear. [Arxiv](https://arxiv.org/abs/1706.04902)
 
+Kementchedjhieva, Yova; Ruder, Sebastian; Cotterell, Ryan; Søgaard, Anders. 2018. Generalizing Procrustes Analysis for Better Bilingual Dictionary Induction. Conference on Computational Natural Language Learning (CoNLL). Brussels, Belgium.
+
+Barrett, Maria; Bingel, Joachim; Hollenstein, Nora; Rei, Marek; Søgaard, Anders. 2018. Sentence classification with human attention. Conference on Computational Natural Language Learning (CoNLL). Brussels, Belgium.
+
+Kerinec, Emma; Braud, Chloe; Søgaard, Anders. 2018. When does deep multi-task learning work for loosely related document classification tasks? EMNLP Workshop on Analyzing and interpreting neural networks for NLP. Brussels, Belgium. 
+
+Søgaard, Anders; de Lhoneux, Miryam; Augenstein, Isabelle. 2018. Nightmare at test time: How punctuation prevents parsers from generalizing. EMNLP Workshop on Analyzing and interpreting neural networks for NLP. Brussels, Belgium. 
+
 Søgaard, Anders; Ruder, Sebastian; Vulic, Ivan. 2018. On the limitations of unsupervised bilingual dictionary induction. The 56th Annual Meeting of the Association for Computational Linguistics (ACL). Melbourne, Australia.
 
 Bollman, Marcel; Bingel, Joachim; Søgaard, Anders. 2018. Multi-task learning for historical text normalization: Size matters. Deep Learning Approaches for Low Resource Natural Language Processing (ACL). Melbourne, Australia. 
