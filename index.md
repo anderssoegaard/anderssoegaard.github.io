@@ -2,7 +2,7 @@
 Professor in Natural Language Processing and Machine Learning, Dpt. of Computer Science, University of Copenhagen.
 
 ### News
-I have been awarded a Google Focused Research Award for a project on multilingual semantic parsing using multi-task reinforcement learning. I will be area chair of NAACL 2018, ACL 2018, COLING 2018, and IJCAI 2018. I am also writing a new book for Morgan & Claypool.
+I have been awarded a Google Focused Research Award for a project on multilingual semantic parsing using multi-task reinforcement learning. I am also writing a book on cross-lingual learning for Morgan & Claypool with Ivan Vulic (Cambridge), Manaal Faruqui (Google), and Sebastian Ruder (INSIGHT).
 
 ## Research publications
 ### 2018
