@@ -8,6 +8,14 @@ I have been awarded a Google Focused Research Award for a project on multilingua
 ### 2018
 Ruder, Sebastian; Vulic, Ivan; Søgaard, Anders. 2018. A survey of cross-lingual word embedding models. Journal of Artificial Intelligence Research (JAIR). To appear. [Arxiv](https://arxiv.org/abs/1706.04902)
 
+Hartmann, Mareike; Kementchedjhieva, Yova; Søgaard, Anders. 2018. Why is unsupervised alignment of English embeddings from different algorithms so hard? Conference on Empirical Methods in Natural Language Processing (EMNLP) 2018. Brussels, Belgium.
+
+Ruder, Sebastian; Cotterell, Ryan; Kementchedjhieva, Yova; Søgaard, Anders. 2018. A discriminative latent-variable model for bilingual lexicon induction. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2018. Brussels, Belgium.
+
+de Lhoneux, Miryam; Bjerva, Johannes; Augenstein, Isabelle; Søgaard, Anders. 2018. Parameter sharing between dependency parsers for related languages. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2018. Brussels, Belgium.
+
+Gonzalez-Garduno, Ana Valeria; Augenstein, Isabelle; Søgaard, Anders. 2018. A strong baseline for question relevancy ranking. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2018. Brussels, Belgium.
+
 Kementchedjhieva, Yova; Ruder, Sebastian; Cotterell, Ryan; Søgaard, Anders. 2018. Generalizing Procrustes Analysis for Better Bilingual Dictionary Induction. Conference on Computational Natural Language Learning (CoNLL). Brussels, Belgium.
 
 Barrett, Maria; Bingel, Joachim; Hollenstein, Nora; Rei, Marek; Søgaard, Anders. 2018. Sentence classification with human attention. Conference on Computational Natural Language Learning (CoNLL). Brussels, Belgium.
