@@ -26,6 +26,8 @@ Kerinec, Emma; Braud, Chloe; Søgaard, Anders. 2018. When does deep multi-task l
 
 Søgaard, Anders; de Lhoneux, Miryam; Augenstein, Isabelle. 2018. Nightmare at test time: How punctuation prevents parsers from generalizing. EMNLP Workshop on Analyzing and interpreting neural networks for NLP. Brussels, Belgium. 
 
+Lukes, Jan; Søgaard, Anders. 2018. Sentiment analysis under temporal drift. EMNLP Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis (WASSA). Brussels, Belgium. 
+
 Søgaard, Anders; Ruder, Sebastian; Vulic, Ivan. 2018. On the limitations of unsupervised bilingual dictionary induction. The 56th Annual Meeting of the Association for Computational Linguistics (ACL). Melbourne, Australia.
 
 Bollman, Marcel; Bingel, Joachim; Søgaard, Anders. 2018. Multi-task learning for historical text normalization: Size matters. Deep Learning Approaches for Low Resource Natural Language Processing (ACL). Melbourne, Australia. 
