@@ -30,12 +30,12 @@ Lukes, Jan; Søgaard, Anders. 2018. Sentiment analysis under temporal drift. EMN
 
 Søgaard, Anders; Ruder, Sebastian; Vulic, Ivan. 2018. On the limitations of unsupervised bilingual dictionary induction. The 56th Annual Meeting of the Association for Computational Linguistics (ACL). Melbourne, Australia. [PDF](http://aclweb.org/anthology/P18-1072)
 
-Bollman, Marcel; Bingel, Joachim; Søgaard, Anders. 2018. Multi-task learning for historical text normalization: Size matters. Deep Learning Approaches for Low Resource Natural Language Processing (ACL). Melbourne, Australia. [PDF] (http://www.aclweb.org/anthology/W18-3403)
+Bollman, Marcel; Bingel, Joachim; Søgaard, Anders. 2018. Multi-task learning for historical text normalization: Size matters. Deep Learning Approaches for Low Resource Natural Language Processing (ACL). Melbourne, Australia. [PDF](http://www.aclweb.org/anthology/W18-3403)
 
 Kann, Katharina; Bjerva, Johannes; Augenstein, Isabelle; Plank, Barbara; Søgaard, Anders. 2018. Character-level Supervision for Low-resource POS Tagging. Deep Learning Approaches for Low Resource Natural Language Processing (ACL). Melbourne, Australia. [PDF](http://aclweb.org/anthology/W18-3401)
 
-Hartmann, Mareike; Søgaard, Anders. 2018. Limitations of cross-lingual learning from image search. 3rd Workshop on Representation Learning for NLP (ACL). Melbourne, Australia. [PDF](http://www.aclweb.org/anthology/W18-3021) [Data](https://github.com/coastalcph/cldi_from_
-image_search/)
+Hartmann, Mareike; Søgaard, Anders. 2018. Limitations of cross-lingual learning from image search. 3rd Workshop on Representation Learning for NLP (ACL). Melbourne, Australia. [PDF](http://www.aclweb.org/anthology/W18-3021) [Data]("https://github.com/coastalcph/cldi_from_
+image_search/")
 
 Bingel, Joachim; Paetzold, Gustavo; Søgaard, Anders. 2018. Lexi: A tool for adaptive, personalized text simplification. The 27th International Conference on Computational Linguistics (COLING), Demo Session. Santa Fe, New Mexico. [PDF](http://aclweb.org/anthology/C18-1021) [Code](https://www.readwithlexi.net/)
 
