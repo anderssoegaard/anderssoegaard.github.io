@@ -30,7 +30,7 @@ Lukes, Jan; Søgaard, Anders. 2018. Sentiment analysis under temporal drift. EMN
 
 Søgaard, Anders; Ruder, Sebastian; Vulic, Ivan. 2018. On the limitations of unsupervised bilingual dictionary induction. The 56th Annual Meeting of the Association for Computational Linguistics (ACL). Melbourne, Australia. [PDF](http://aclweb.org/anthology/P18-1072)
 
-Bollman, Marcel; Bingel, Joachim; Søgaard, Anders. 2018. Multi-task learning for historical text normalization: Size matters. Deep Learning Approaches for Low Resource Natural Language Processing (ACL). Melbourne, Australia. [PDF](http://www.aclweb.org/anthology/W18-3403)
+Bollmann, Marcel; Bingel, Joachim; Søgaard, Anders. 2018. Multi-task learning for historical text normalization: Size matters. Deep Learning Approaches for Low Resource Natural Language Processing (ACL). Melbourne, Australia. [PDF](http://www.aclweb.org/anthology/W18-3403)
 
 Kann, Katharina; Bjerva, Johannes; Augenstein, Isabelle; Plank, Barbara; Søgaard, Anders. 2018. Character-level Supervision for Low-resource POS Tagging. Deep Learning Approaches for Low Resource Natural Language Processing (ACL). Melbourne, Australia. [PDF](http://aclweb.org/anthology/W18-3401)
 
@@ -102,7 +102,7 @@ Alonso, Hector Martinez; Plank, Barbara; Søgaard, Anders. 2017. Parsing univers
 ### 2016
 Braud, Chloe; Plank, Barbara; Søgaard, Anders. 2016. Multi-view and multi-task training of RST discourse parsers. The 26th International Conference on Computational Linguistics (COLING). Osaka, Japan.
 
-Bollman, Marcel; Søgaard, Anders. 2016. Improving historical spelling normalization with bi-directional LSTMs and multi-task learning. The 26th International Conference on Computational Linguistics (COLING). Osaka, Japan.
+Bollmann, Marcel; Søgaard, Anders. 2016. Improving historical spelling normalization with bi-directional LSTMs and multi-task learning. The 26th International Conference on Computational Linguistics (COLING). Osaka, Japan.
 
 Barrett, Maria; Keller, Frank; Søgaard, Anders. 2016. Cross-lingual transfer of correlations between parts of speech and gaze features. The 26th International Conference on Computational Linguistics (COLING). Osaka, Japan.
 
