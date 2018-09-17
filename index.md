@@ -28,29 +28,31 @@ Søgaard, Anders; de Lhoneux, Miryam; Augenstein, Isabelle. 2018. Nightmare at t
 
 Lukes, Jan; Søgaard, Anders. 2018. Sentiment analysis under temporal drift. EMNLP Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis (WASSA). Brussels, Belgium. 
 
-Søgaard, Anders; Ruder, Sebastian; Vulic, Ivan. 2018. On the limitations of unsupervised bilingual dictionary induction. The 56th Annual Meeting of the Association for Computational Linguistics (ACL). Melbourne, Australia.
+Søgaard, Anders; Ruder, Sebastian; Vulic, Ivan. 2018. On the limitations of unsupervised bilingual dictionary induction. The 56th Annual Meeting of the Association for Computational Linguistics (ACL). Melbourne, Australia. [PDF] (http://aclweb.org/anthology/P18-1072)
 
-Bollman, Marcel; Bingel, Joachim; Søgaard, Anders. 2018. Multi-task learning for historical text normalization: Size matters. Deep Learning Approaches for Low Resource Natural Language Processing (ACL). Melbourne, Australia. 
+Bollman, Marcel; Bingel, Joachim; Søgaard, Anders. 2018. Multi-task learning for historical text normalization: Size matters. Deep Learning Approaches for Low Resource Natural Language Processing (ACL). Melbourne, Australia. [PDF] (http://www.aclweb.org/anthology/W18-3403)
 
-Kann, Katharina; Bjerva, Johannes; Augenstein, Isabelle; Plank, Barbara; Søgaard, Anders. 2018. Character-level Supervision for Low-resource POS Tagging. Deep Learning Approaches for Low Resource Natural Language Processing (ACL). Melbourne, Australia. 
+Kann, Katharina; Bjerva, Johannes; Augenstein, Isabelle; Plank, Barbara; Søgaard, Anders. 2018. Character-level Supervision for Low-resource POS Tagging. Deep Learning Approaches for Low Resource Natural Language Processing (ACL). Melbourne, Australia. [PDF] (http://aclweb.org/anthology/W18-3401)
 
-Hartmann, Mareike; Søgaard, Anders. 2018. Limitations of cross-lingual learning from image search. 3rd Workshop on Representation Learning for NLP (ACL). Melbourne, Australia. 
+Hartmann, Mareike; Søgaard, Anders. 2018. Limitations of cross-lingual learning from image search. 3rd Workshop on Representation Learning for NLP (ACL). Melbourne, Australia. [PDF] (http://www.aclweb.org/anthology/W18-3021) [Data] (https://github.com/coastalcph/cldi_from_
+image_search/)
 
-Bingel, Joachim; Paetzold, Gustavo; Søgaard, Anders. 2018. Lexi: A tool for adaptive, personalized text simplification. The 27th International Conference on Computational Linguistics (COLING), Demo Session. Santa Fe, New Mexico.
+Bingel, Joachim; Paetzold, Gustavo; Søgaard, Anders. 2018. Lexi: A tool for adaptive, personalized text simplification. The 27th International Conference on Computational Linguistics (COLING), Demo Session. Santa Fe, New Mexico. [PDF] (http://aclweb.org/anthology/C18-1021) [Code] (https://www.readwithlexi.net/)
 
-Augenstein, Isabelle; Ruder, Sebastian; Søgaard, Anders. 2018. Multi-task learning of pairwise sequence classification tasks over disparate label spaces. North American Chapter of the Association for Computational Linguistics (NAACL). New Orleans, Louisiana. [Arxiv](https://arxiv.org/abs/1802.09913)
+Augenstein, Isabelle; Ruder, Sebastian; Søgaard, Anders. 2018. Multi-task learning of pairwise sequence classification tasks over disparate label spaces. North American Chapter of the Association for Computational Linguistics (NAACL). New Orleans, Louisiana. [PDF] (http://www.aclweb.org/anthology/N18-1172) [Arxiv](https://arxiv.org/abs/1802.09913) [Code] (https://github.com/coastalcph/mtl-disparate)
 
-Rønning, Ola; Hardt, Daniel; Søgaard, Anders. 2018. Sluice resolution without hand-crafted features over brittle syntax. North American Chapter of the Association for Computational Linguistics (NAACL). New Orleans, Louisiana.
+Rønning, Ola; Hardt, Daniel; Søgaard, Anders. 2018. Sluice resolution without hand-crafted features over brittle syntax. North American Chapter of the Association for Computational Linguistics (NAACL). New Orleans, Louisiana. [PDF] (http://aclweb.org/anthology/N18-2038)
 
-Barrett, Maria; Frermann, Lea; Gonzalez-Garduno, Ana Valeria; Søgaard, Anders. 2018. Unsupervised induction of linguistic categories with records of reading, speaking, and writing. North American Chapter of the Association for Computational Linguistics (NAACL). New Orleans, Louisiana.
+Barrett, Maria; Frermann, Lea; Gonzalez-Garduno, Ana Valeria; Søgaard, Anders. 2018. Unsupervised induction of linguistic categories with records of reading, speaking, and writing. North American Chapter of the Association for Computational Linguistics (NAACL). New Orleans, Louisiana. [PDF] (http://aclweb.org/anthology/N18-1184)
 
-Rei, Marek; Søgaard, Anders. 2018. Zero-shot sequence labeling through transfer learning. North American Chapter of the Association for Computational Linguistics (NAACL). New Orleans, Louisiana.
+Rei, Marek; Søgaard, Anders. 2018. Zero-shot Sequence Labeling:
+Transferring Knowledge from Sentences to Tokens. North American Chapter of the Association for Computational Linguistics (NAACL). New Orleans, Louisiana. [PDF] (http://aclweb.org/anthology/N18-1027)
 
-Gonzalez-Garduno, Ana Valeria; Søgaard, Anders. 2018. Learning to predict readability using eye-movement data from natives and learners. The 32nd AAAI Conference on Artificial Intelligence (AAAI). New Orleans, Louisiana.
+Gonzalez-Garduno, Ana Valeria; Søgaard, Anders. 2018. Learning to predict readability using eye-movement data from natives and learners. The 32nd AAAI Conference on Artificial Intelligence (AAAI). New Orleans, Louisiana. [PDF] (https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16713/16058)
 
 Søgaard, Anders. 2018. What I think when I think about treebanks. 16th International Workshop on Treebanks and Linguistic Theories. Prague, Czech. [PDF](http://www.aclweb.org/anthology/W17-7620)
 
-Pedersen, Bolette; Nimb, Sanni; Søgaard, Anders; Hartmann, Mareike; Olsen, Sussi. 2018. A Danish FrameNet Lexicon and an Annotated Corpus Used for Training and Evaluating a Semantic Frame Classifier. Language Resources and Evaluation Conference (LREC) 2018. Miyazaki, Japan.
+Pedersen, Bolette; Nimb, Sanni; Søgaard, Anders; Hartmann, Mareike; Olsen, Sussi. 2018. A Danish FrameNet Lexicon and an Annotated Corpus Used for Training and Evaluating a Semantic Frame Classifier. Language Resources and Evaluation Conference (LREC) 2018. Miyazaki, Japan. [PDF] (http://www.lrec-conf.org/proceedings/lrec2018/pdf/586.pdf)
 
 ### 2017
 Felbo, Bjarke; Mislove, Alan; Søgaard, Anders; Rahwan, Iyan; Lehmann, Sune. 2017. Using millions of emoji occurrences to pretrain any-domain models for detecting emotion, sentiment, and sarcasm. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2017. Copenhagen, Denmark. [PDF](http://www.aclweb.org/anthology/D17-1169)
