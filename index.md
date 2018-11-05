@@ -6,7 +6,7 @@ I have been awarded a Google Focused Research Award for a project on multilingua
 
 ## Research publications
 ### 2019
-Ruder, Sebastian; Vulic, Ivan; Søgaard, Anders. 2018. A survey of cross-lingual word embedding models. Journal of Artificial Intelligence Research (JAIR). To appear. [Arxiv](https://arxiv.org/abs/1706.04902)
+Ruder, Sebastian; Vulic, Ivan; Søgaard, Anders. to appear. A survey of cross-lingual word embedding models. Journal of Artificial Intelligence Research (JAIR). [Arxiv](https://arxiv.org/abs/1706.04902)
 
 Rei, Marek; Søgaard, Anders. 2019. Jointly learning to label sentences and tokens. The 33rd AAAI Conference on Artificial Intelligence (AAAI). Honolulu, Hawaii.
 
