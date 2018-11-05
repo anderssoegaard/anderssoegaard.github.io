@@ -8,6 +8,12 @@ I have been awarded a Google Focused Research Award for a project on multilingua
 ### 2018
 Ruder, Sebastian; Vulic, Ivan; Søgaard, Anders. 2018. A survey of cross-lingual word embedding models. Journal of Artificial Intelligence Research (JAIR). To appear. [Arxiv](https://arxiv.org/abs/1706.04902)
 
+Rei, Marek; Søgaard, Anders. 2019. Jointly learning to label sentences and tokens. The 33rd AAAI Conference on Artificial Intelligence (AAAI). Honolulu, Hawaii.
+
+Ruder, Sebastian; Bingel, Joachim, Augenstein, Isabelle; Søgaard, Anders. 2019. Latent multi-task architecture learning. The 33rd AAAI Conference on Artificial Intelligence (AAAI). Honolulu, Hawaii.
+
+Caccavale, Fiammetta; Søgaard, Anders. 2019. Predicting concrete and abstract entities in modern poetry. The 33rd AAAI Conference on Artificial Intelligence (AAAI). Honolulu, Hawaii.
+
 Hartmann, Mareike; Kementchedjhieva, Yova; Søgaard, Anders. 2018. Why is unsupervised alignment of English embeddings from different algorithms so hard? Conference on Empirical Methods in Natural Language Processing (EMNLP) 2018. Brussels, Belgium.
 
 Ruder, Sebastian; Cotterell, Ryan; Kementchedjhieva, Yova; Søgaard, Anders. 2018. A discriminative latent-variable model for bilingual lexicon induction. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2018. Brussels, Belgium.
