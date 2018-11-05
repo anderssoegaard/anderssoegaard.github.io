@@ -5,7 +5,7 @@ Professor in Natural Language Processing and Machine Learning, Dpt. of Computer 
 I have been awarded a Google Focused Research Award for a project on multilingual semantic parsing using multi-task reinforcement learning. I am also writing a book on cross-lingual learning for Morgan & Claypool with Ivan Vulic (Cambridge), Manaal Faruqui (Google), and Sebastian Ruder (INSIGHT).
 
 ## Research publications
-### 2018
+### 2019
 Ruder, Sebastian; Vulic, Ivan; Søgaard, Anders. 2018. A survey of cross-lingual word embedding models. Journal of Artificial Intelligence Research (JAIR). To appear. [Arxiv](https://arxiv.org/abs/1706.04902)
 
 Rei, Marek; Søgaard, Anders. 2019. Jointly learning to label sentences and tokens. The 33rd AAAI Conference on Artificial Intelligence (AAAI). Honolulu, Hawaii.
@@ -14,6 +14,7 @@ Ruder, Sebastian; Bingel, Joachim, Augenstein, Isabelle; Søgaard, Anders. 2019.
 
 Caccavale, Fiammetta; Søgaard, Anders. 2019. Predicting concrete and abstract entities in modern poetry. The 33rd AAAI Conference on Artificial Intelligence (AAAI). Honolulu, Hawaii.
 
+### 2018
 Hartmann, Mareike; Kementchedjhieva, Yova; Søgaard, Anders. 2018. Why is unsupervised alignment of English embeddings from different algorithms so hard? Conference on Empirical Methods in Natural Language Processing (EMNLP) 2018. Brussels, Belgium.
 
 Ruder, Sebastian; Cotterell, Ryan; Kementchedjhieva, Yova; Søgaard, Anders. 2018. A discriminative latent-variable model for bilingual lexicon induction. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2018. Brussels, Belgium.
@@ -33,6 +34,8 @@ Kerinec, Emma; Braud, Chloe; Søgaard, Anders. 2018. When does deep multi-task l
 Søgaard, Anders; de Lhoneux, Miryam; Augenstein, Isabelle. 2018. Nightmare at test time: How punctuation prevents parsers from generalizing. EMNLP Workshop on Analyzing and interpreting neural networks for NLP. Brussels, Belgium. 
 
 Lukes, Jan; Søgaard, Anders. 2018. Sentiment analysis under temporal drift. EMNLP Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis (WASSA). Brussels, Belgium. 
+
+Petrén Bach Hansen, Victor; Søgaard, Anders. 2018. Learning language-independent representations of verbs and adjectives from multimodal retrieval. SITIS Workshop on Multimedia Information Retrieval and Applications. Las Palmas, Gran Canaria. 
 
 Søgaard, Anders; Ruder, Sebastian; Vulic, Ivan. 2018. On the limitations of unsupervised bilingual dictionary induction. The 56th Annual Meeting of the Association for Computational Linguistics (ACL). Melbourne, Australia. [PDF](http://aclweb.org/anthology/P18-1072)
 
