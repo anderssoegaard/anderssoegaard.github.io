@@ -8,20 +8,20 @@ In 2018, I was awarded a Google Focused Research Award and a Facebook Research A
 ### 2019
 Ruder, Sebastian; Vulic, Ivan; Søgaard, Anders. to appear. A survey of cross-lingual word embedding models. Journal of Artificial Intelligence Research (JAIR). [Arxiv](https://arxiv.org/abs/1706.04902)
 
-Rei, Marek; Søgaard, Anders. 2019. Jointly learning to label sentences and tokens. The 33rd AAAI Conference on Artificial Intelligence (AAAI). Honolulu, Hawaii.
+Rei, Marek; Søgaard, Anders. 2019. Jointly learning to label sentences and tokens. The 33rd AAAI Conference on Artificial Intelligence (AAAI). Honolulu, Hawaii. [Arxiv](https://arxiv.org/pdf/1811.05949.pdf)
 
-Ruder, Sebastian; Bingel, Joachim, Augenstein, Isabelle; Søgaard, Anders. 2019. Latent multi-task architecture learning. The 33rd AAAI Conference on Artificial Intelligence (AAAI). Honolulu, Hawaii.
+Ruder, Sebastian; Bingel, Joachim, Augenstein, Isabelle; Søgaard, Anders. 2019. Latent multi-task architecture learning. The 33rd AAAI Conference on Artificial Intelligence (AAAI). Honolulu, Hawaii. [Arxiv](https://arxiv.org/abs/1705.08142)
 
 Caccavale, Fiammetta; Søgaard, Anders. 2019. Predicting concrete and abstract entities in modern poetry. The 33rd AAAI Conference on Artificial Intelligence (AAAI). Honolulu, Hawaii.
 
 ### 2018
-Hartmann, Mareike; Kementchedjhieva, Yova; Søgaard, Anders. 2018. Why is unsupervised alignment of English embeddings from different algorithms so hard? Conference on Empirical Methods in Natural Language Processing (EMNLP) 2018. Brussels, Belgium.
+Hartmann, Mareike; Kementchedjhieva, Yova; Søgaard, Anders. 2018. Why is unsupervised alignment of English embeddings from different algorithms so hard? Conference on Empirical Methods in Natural Language Processing (EMNLP) 2018. Brussels, Belgium. [PDF](http://aclweb.org/anthology/D18-1056)
 
-Ruder, Sebastian; Cotterell, Ryan; Kementchedjhieva, Yova; Søgaard, Anders. 2018. A discriminative latent-variable model for bilingual lexicon induction. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2018. Brussels, Belgium.
+Ruder, Sebastian; Cotterell, Ryan; Kementchedjhieva, Yova; Søgaard, Anders. 2018. A discriminative latent-variable model for bilingual lexicon induction. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2018. Brussels, Belgium. [PDF](http://aclweb.org/anthology/D18-1042)
 
-de Lhoneux, Miryam; Bjerva, Johannes; Augenstein, Isabelle; Søgaard, Anders. 2018. Parameter sharing between dependency parsers for related languages. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2018. Brussels, Belgium.
+de Lhoneux, Miryam; Bjerva, Johannes; Augenstein, Isabelle; Søgaard, Anders. 2018. Parameter sharing between dependency parsers for related languages. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2018. Brussels, Belgium. [PDF](http://aclweb.org/anthology/D18-1543)
 
-Gonzalez-Garduno, Ana Valeria; Augenstein, Isabelle; Søgaard, Anders. 2018. A strong baseline for question relevancy ranking. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2018. Brussels, Belgium.
+Gonzalez-Garduno, Ana Valeria; Augenstein, Isabelle; Søgaard, Anders. 2018. A strong baseline for question relevancy ranking. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2018. Brussels, Belgium. [PDF](http://aclweb.org/anthology/D18-1515)
 
 Kementchedjhieva, Yova; Ruder, Sebastian; Cotterell, Ryan; Søgaard, Anders. 2018. Generalizing Procrustes Analysis for Better Bilingual Dictionary Induction. Conference on Computational Natural Language Learning (CoNLL). Brussels, Belgium.
 
