@@ -2,7 +2,7 @@
 Professor in Natural Language Processing and Machine Learning, Dpt. of Computer Science, University of Copenhagen.
 
 ### News
-In 2018, I was awarded a Google Focused Research Award and a Facebook Research Award. I am also writing a book on cross-lingual learning for Morgan & Claypool with Ivan Vulic (Cambridge), Manaal Faruqui (Google), and Sebastian Ruder (INSIGHT).
+In 2018, I was awarded a [Google Focused Research Award](https://ai.google/research/outreach/focused-research-awards/) and a [Facebook Research Award](https://research.fb.com/announcing-the-winners-of-the-facebook-global-literacy-accessibility-challenge-research-awards/). I am also writing a book on cross-lingual learning for Morgan & Claypool with Ivan Vulic (Cambridge), Manaal Faruqui (Google), and Sebastian Ruder (INSIGHT).
 
 ## Research publications
 ### 2019
@@ -23,19 +23,19 @@ de Lhoneux, Miryam; Bjerva, Johannes; Augenstein, Isabelle; Søgaard, Anders. 20
 
 Gonzalez-Garduno, Ana Valeria; Augenstein, Isabelle; Søgaard, Anders. 2018. A strong baseline for question relevancy ranking. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2018. Brussels, Belgium. [PDF](http://aclweb.org/anthology/D18-1515)
 
-Kementchedjhieva, Yova; Ruder, Sebastian; Cotterell, Ryan; Søgaard, Anders. 2018. Generalizing Procrustes Analysis for Better Bilingual Dictionary Induction. Conference on Computational Natural Language Learning (CoNLL). Brussels, Belgium.
+Kementchedjhieva, Yova; Ruder, Sebastian; Cotterell, Ryan; Søgaard, Anders. 2018. Generalizing Procrustes Analysis for Better Bilingual Dictionary Induction. Conference on Computational Natural Language Learning (CoNLL). Brussels, Belgium. [PDF](http://aclweb.org/anthology/K18-1021)
 
-Barrett, Maria; Bingel, Joachim; Hollenstein, Nora; Rei, Marek; Søgaard, Anders. 2018. Sentence classification with human attention. Conference on Computational Natural Language Learning (CoNLL). Brussels, Belgium.
+Barrett, Maria; Bingel, Joachim; Hollenstein, Nora; Rei, Marek; Søgaard, Anders. 2018. Sequence classification with human attention. Conference on Computational Natural Language Learning (CoNLL). Brussels, Belgium. <b>Received Best Paper Award.</b> [PDF](https://aclweb.org/anthology/K18-1030)
 
-Rønning, Ola; Hardt, Daniel; Søgaard, Anders. 2018. Ellipsis resolution in neural networks. EMNLP Workshop on Analyzing and interpreting neural networks for NLP. Brussels, Belgium. 
+Rønning, Ola; Hardt, Daniel; Søgaard, Anders. 2018. Linguistic representations in multi-task neural networks for ellipsis resolution. EMNLP Workshop on Analyzing and interpreting neural networks for NLP. Brussels, Belgium. [PDF](http://aclweb.org/anthology/W18-5409)
 
-Kerinec, Emma; Braud, Chloe; Søgaard, Anders. 2018. When does deep multi-task learning work for loosely related document classification tasks? EMNLP Workshop on Analyzing and interpreting neural networks for NLP. Brussels, Belgium. 
+Kerinec, Emma; Braud, Chloe; Søgaard, Anders. 2018. When does deep multi-task learning work for loosely related document classification tasks? EMNLP Workshop on Analyzing and interpreting neural networks for NLP. Brussels, Belgium. [PDF](http://aclweb.org/anthology/W18-5401)
 
-Søgaard, Anders; de Lhoneux, Miryam; Augenstein, Isabelle. 2018. Nightmare at test time: How punctuation prevents parsers from generalizing. EMNLP Workshop on Analyzing and interpreting neural networks for NLP. Brussels, Belgium. 
+Søgaard, Anders; de Lhoneux, Miryam; Augenstein, Isabelle. 2018. Nightmare at test time: How punctuation prevents parsers from generalizing. EMNLP Workshop on Analyzing and interpreting neural networks for NLP. Brussels, Belgium. [PDF](http://aclweb.org/anthology/W18-5404)
 
-Lukes, Jan; Søgaard, Anders. 2018. Sentiment analysis under temporal drift. EMNLP Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis (WASSA). Brussels, Belgium. 
+Lukes, Jan; Søgaard, Anders. 2018. Sentiment analysis under temporal shift. EMNLP Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis (WASSA). Brussels, Belgium. [PDF](http://aclweb.org/anthology/W18-6210)
 
-Petrén Bach Hansen, Victor; Søgaard, Anders. 2018. Learning language-independent representations of verbs and adjectives from multimodal retrieval. SITIS Workshop on Multimedia Information Retrieval and Applications. Las Palmas, Gran Canaria. 
+Petrén Bach Hansen, Victor; Søgaard, Anders. 2018. Learning language-independent representations of verbs and adjectives from multimodal retrieval. SITIS Workshop on Multimedia Information Retrieval and Applications. Las Palmas, Gran Canaria. [Proceedings](http://rms.mcru.ac.th/uploads/471629.pdf)
 
 Søgaard, Anders; Ruder, Sebastian; Vulic, Ivan. 2018. On the limitations of unsupervised bilingual dictionary induction. The 56th Annual Meeting of the Association for Computational Linguistics (ACL). Melbourne, Australia. [PDF](http://aclweb.org/anthology/P18-1072)
 
@@ -109,15 +109,15 @@ Levy, Omer; Søgaard, Anders; Goldberg, Yoav. 2017. A strong baseline for learni
 Alonso, Hector Martinez; Plank, Barbara; Søgaard, Anders. 2017. Parsing universal dependencies without training. The 15th Conference of the European Chapter of the Association for Computational Linguistics (EACL). Valencia, Spain. [PDF](http://www.aclweb.org/anthology/E17-1022)
 
 ### 2016
-Braud, Chloe; Plank, Barbara; Søgaard, Anders. 2016. Multi-view and multi-task training of RST discourse parsers. The 26th International Conference on Computational Linguistics (COLING). Osaka, Japan.
+Braud, Chloe; Plank, Barbara; Søgaard, Anders. 2016. Multi-view and multi-task training of RST discourse parsers. The 26th International Conference on Computational Linguistics (COLING). Osaka, Japan. [PDF](http://www.aclweb.org/anthology/C16-1179)
 
-Bollmann, Marcel; Søgaard, Anders. 2016. Improving historical spelling normalization with bi-directional LSTMs and multi-task learning. The 26th International Conference on Computational Linguistics (COLING). Osaka, Japan.
+Bollmann, Marcel; Søgaard, Anders. 2016. Improving historical spelling normalization with bi-directional LSTMs and multi-task learning. The 26th International Conference on Computational Linguistics (COLING). Osaka, Japan. [PDF](http://www.aclweb.org/anthology/C16-1013)
 
-Barrett, Maria; Keller, Frank; Søgaard, Anders. 2016. Cross-lingual transfer of correlations between parts of speech and gaze features. The 26th International Conference on Computational Linguistics (COLING). Osaka, Japan.
+Barrett, Maria; Keller, Frank; Søgaard, Anders. 2016. Cross-lingual transfer of correlations between parts of speech and gaze features. The 26th International Conference on Computational Linguistics (COLING). Osaka, Japan. [PDF](http://aclweb.org/anthology/C16-1126)
 
-Søgaard, Anders. 2016. Spikes as regularizers. NIPS Workshop on Computing with Spikes. Barcelona, Spain.
+Søgaard, Anders. 2016. Spikes as regularizers. NIPS Workshop on Computing with Spikes. Barcelona, Spain. [Arxiv](https://arxiv.org/abs/1611.06245)
 
-Agic, Zeljko; Johannsen, Anders; Plank, Barbara; Martinez, Hector; Schluter, Natalie; Søgaard, Anders. 2016. Multi-lingual projection for parsing truly low resource languages. Transactions of the Association for Computational Linguistics (TACL) 4: 301-312.
+Agic, Zeljko; Johannsen, Anders; Plank, Barbara; Martinez, Hector; Schluter, Natalie; Søgaard, Anders. 2016. Multi-lingual projection for parsing truly low resource languages. Transactions of the Association for Computational Linguistics (TACL) 4: 301-312. [PDF](https://pdfs.semanticscholar.org/5ffe/bd7f8b0919a80247efe1a72b0217457ceffe.pdf)
 
 Søgaard, Anders. 2016. Evaluating word embeddings with fMRI and eye-tracking. RepEval, The 54th Annual Meeting of the Association for Computational Linguistics (ACL). Berlin, Germany. Nominated for Best Paper Award.
 
