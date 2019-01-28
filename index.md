@@ -133,7 +133,7 @@ Johannsen, Anders; Agic, Zeljko; Søgaard, Anders. 2016. Joint part-of-speech an
 
 Barrett, Maria; Bingel, Joachim; Keller, Frank; Søgaard, Anders. 2016. Weakly supervised part-of-speech tagging using eye-tracking data. The 54th Annual Meeting of the Association for Computational Linguistics (ACL). Berlin, Germany.
 
-Klerke, Sigrid; Goldberg, Yoav; Søgaard, Anders. 2016. Improving sentence compression by learning to predict gaze. North American Chapter of the Association for Computational Linguistics (NAACL). San Diego, CA. Received Best Short Paper Award.
+Klerke, Sigrid; Goldberg, Yoav; Søgaard, Anders. 2016. Improving sentence compression by learning to predict gaze. North American Chapter of the Association for Computational Linguistics (NAACL). San Diego, CA. <b>Received Best Short Paper Award.</b> [PDF](http://www.aclweb.org/anthology/N16-1179)
 
 Jørgensen, Anna; Hovy, Dirk; Søgaard, Anders. 2016. Learning a POS tagger for AAVE-like language. North American Chapter of the Association for Computational Linguistics (NAACL). San Diego, CA.
 
@@ -170,7 +170,7 @@ Barrett, Maria; Søgaard, Anders. 2015. Reading behavior predicts syntactic cate
 
 Wullf, Julie; Søgaard, Anders. 2015. Learning finite state word representations for unsupervised Twitter adaptation of POS taggers. ACL 2015 Workshop on Noisy User-generated Text (W-NUT). Beijing, China.
 
-Jørgensen, Anna Katrine; Hovy, Dirk; Søgaard, Anders. 2015. Challenges of studying and processing dialects in social media. ACL 2015 Workshop on Noisy User-generated Text (W-NUT). Beijing, China.
+Jørgensen, Anna Katrine; Hovy, Dirk; Søgaard, Anders. 2015. Challenges of studying and processing dialects in social media. ACL 2015 Workshop on Noisy User-generated Text (W-NUT). Beijing, China. <b>Received Best Paper Award.</b> [PDF](http://aclweb.org/anthology/W15-4302)
 
 Søgaard, Anders. 2015. Where is language? ACL 2015 Workshop on Noisy User-generated Text (W-NUT). Beijing, China.
 
@@ -199,7 +199,7 @@ Plank, Barbara; Hovy, Dirk; McDonald, Ryan; Søgaard, Anders. 2014. Adapting tag
 
 Søgaard, Anders; Plank, Barbara; Hovy, Dirk. 2014. Selection bias, label bias, and bias in ground truth (tutorial). The 25th International Conference on Computational Linguistics (COLING). Dublin, Ireland.
 
-Johannsen, Anders; Hovy, Dirk; Martinez, Hector; Søgaard, Anders. 2014. More or less supervised super-sense tagging of Twitter. The 3rd Joint Conference on Lexical and Computational Semantics (*SEM). Dublin, Ireland. Received Best Paper Award.
+Johannsen, Anders; Hovy, Dirk; Martinez, Hector; Søgaard, Anders. 2014. More or less supervised supersense tagging of Twitter. The 3rd Joint Conference on Lexical and Computational Semantics (\*SEM). Dublin, Ireland. <b>Received Best Paper Award.</b> [PDF](http://aclweb.org/anthology/S14-1001)
 
 Søgaard, Anders; Johannsen, Anders; Plank, Barbara; Hovy, Dirk; Martinez, Hector. 2014. What is in a p-value in NLP? The 18th Conference on Computational Natural Language Learning (CoNLL). Baltimore, MD.
 
@@ -207,7 +207,7 @@ Plank, Barbara; Hovy, Dirk; Søgaard, Anders. 2014. Linguistically debatable or 
 
 Hovy, Dirk; Plank, Barbara; Søgaard, Anders. 2014. Experiments with a crowd-sourced re-annotation of a POS tagging dataset. The 52nd Annual Meeting of the Association for Computational Linguistics (ACL). Baltimore, MD.
 
-Plank, Barbara; Hovy, Dirk; Søgaard, Anders. 2014. Learning part-of-speech taggers with inter-annotator agreement loss. The 14th Conference of the European Chapter of the Association for Computational Linguistics (EACL). Gothenburg, Sweden. Received Best Long Paper Award.
+Plank, Barbara; Hovy, Dirk; Søgaard, Anders. 2014. Learning part-of-speech taggers with inter-annotator agreement loss. The 14th Conference of the European Chapter of the Association for Computational Linguistics (EACL). Gothenburg, Sweden. <b>Received Best Long Paper Award.</b> [PDF](http://aclweb.org/anthology/E14-1078)
 
 Fromreide, Hege; Søgaard, Anders. 2014. NER in tweets using a small crowdsourced dataset. The 9th International Conference on Natural Language Processing (PolTAL). Warsaw, Poland.
 
