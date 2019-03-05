@@ -4,7 +4,7 @@ Professor in Natural Language Processing and Machine Learning, Dpt. of Computer 
 ### News
 In 2018, I was awarded a [Google Focused Research Award](https://ai.google/research/outreach/focused-research-awards/) and a [Facebook Research Award](https://research.fb.com/announcing-the-winners-of-the-facebook-global-literacy-accessibility-challenge-research-awards/). I am also writing a book on cross-lingual learning for Morgan & Claypool with Ivan Vulic (Cambridge), Manaal Faruqui (Google), and Sebastian Ruder (Deepmind).
 
-## Research publications
+## Publications
 ### 2019
 Flachs, Simon; Lacroix, Ophélie; Rei, Marek; Yannakoudakis, Helen; Søgaard, Anders. 2019. A simple and robust approach to detecting subject-verb agreement errors. North American Chapter of the Association for Computational Linguistics (NAACL). Minneapolis, Minnesota.
 
