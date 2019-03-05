@@ -6,6 +6,12 @@ In 2018, I was awarded a [Google Focused Research Award](https://ai.google/resea
 
 ## Research publications
 ### 2019
+Flachs, Simon; Lacroix, Ophélie; Rei, Marek; Yannakoudakis, Helen; Søgaard, Anders. 2019. A simple and robust approach to detecting subject-verb agreement errors. North American Chapter of the Association for Computational Linguistics (NAACL). Minneapolis, Minnesota.
+
+Hartmann, Mareike; Jansen, Tallulah; Augenstein, Isabelle; Søgaard, Anders. 2019. Issue Framing in Online Discussion Fora. North American Chapter of the Association for Computational Linguistics (NAACL). Minneapolis, Minnesota.
+
+Vilares, David; Abdou, Mostafa; Søgaard, Anders. 2019. Better, faster, stronger sequence tagging constituent parsers. North American Chapter of the Association for Computational Linguistics (NAACL). Minneapolis, Minnesota.
+
 Ruder, Sebastian; Vulic, Ivan; Søgaard, Anders. to appear. A survey of cross-lingual word embedding models. Journal of Artificial Intelligence Research (JAIR). [Arxiv](https://arxiv.org/abs/1706.04902)
 
 Rei, Marek; Søgaard, Anders. 2019. Jointly learning to label sentences and tokens. The 33rd AAAI Conference on Artificial Intelligence (AAAI). Honolulu, Hawaii. [Arxiv](https://arxiv.org/pdf/1811.05949.pdf)
