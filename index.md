@@ -2,7 +2,7 @@
 Professor in Natural Language Processing and Machine Learning, Dpt. of Computer Science, University of Copenhagen.
 
 ### News
-In 2018, I was awarded a [Google Focused Research Award](https://ai.google/research/outreach/focused-research-awards/) and a [Facebook Research Award](https://research.fb.com/announcing-the-winners-of-the-facebook-global-literacy-accessibility-challenge-research-awards/). I am also writing a book on cross-lingual learning for Morgan & Claypool with Ivan Vulic (Cambridge), Manaal Faruqui (Google), and Sebastian Ruder (INSIGHT).
+In 2018, I was awarded a [Google Focused Research Award](https://ai.google/research/outreach/focused-research-awards/) and a [Facebook Research Award](https://research.fb.com/announcing-the-winners-of-the-facebook-global-literacy-accessibility-challenge-research-awards/). I am also writing a book on cross-lingual learning for Morgan & Claypool with Ivan Vulic (Cambridge), Manaal Faruqui (Google), and Sebastian Ruder (Deepmind).
 
 ## Research publications
 ### 2019
