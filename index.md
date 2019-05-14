@@ -6,6 +6,10 @@ In 2018, I was awarded a [Google Focused Research Award](https://ai.google/resea
 
 ## Publications
 ### 2019
+Kurita, Shuhei; Søgaard, Anders. 2019. Multi-Task Semantic Dependency Parsing with Policy Gradient for Learning Easy-First Strategies. The 56th Annual Meeting of the Association for Computational Linguistics (ACL). Florence, Italy.
+
+Flachs, Simon; Bollmann, Marcel; Søgaard, Anders. 2019. Historical Text Normalization with Delayed Rewards. The 56th Annual Meeting of the Association for Computational Linguistics (ACL). Florence, Italy.
+
 Flachs, Simon; Lacroix, Ophélie; Rei, Marek; Yannakoudakis, Helen; Søgaard, Anders. 2019. A simple and robust approach to detecting subject-verb agreement errors. North American Chapter of the Association for Computational Linguistics (NAACL). Minneapolis, Minnesota.
 
 Hartmann, Mareike; Jansen, Tallulah; Augenstein, Isabelle; Søgaard, Anders. 2019. Issue Framing in Online Discussion Fora. North American Chapter of the Association for Computational Linguistics (NAACL). Minneapolis, Minnesota.
