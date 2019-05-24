@@ -10,6 +10,8 @@ Kurita, Shuhei; Søgaard, Anders. 2019. Multi-Task Semantic Dependency Parsing w
 
 Flachs, Simon; Bollmann, Marcel; Søgaard, Anders. 2019. Historical Text Normalization with Delayed Rewards. The 56th Annual Meeting of the Association for Computational Linguistics (ACL). Florence, Italy.
 
+Lacroix, Ophelie; Flachs, Simon; Søgaard, Anders. 2019. Noisy channel for low resource grammatical error correction. 14th Workshop on Innovative Use of NLP for Building Educational Applications, ACL 2019. Florence, Italy.
+
 Flachs, Simon; Lacroix, Ophélie; Rei, Marek; Yannakoudakis, Helen; Søgaard, Anders. 2019. A simple and robust approach to detecting subject-verb agreement errors. North American Chapter of the Association for Computational Linguistics (NAACL). Minneapolis, Minnesota.
 
 Hartmann, Mareike; Jansen, Tallulah; Augenstein, Isabelle; Søgaard, Anders. 2019. Issue Framing in Online Discussion Fora. North American Chapter of the Association for Computational Linguistics (NAACL). Minneapolis, Minnesota.
