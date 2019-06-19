@@ -18,6 +18,8 @@ Hartmann, Mareike; Jansen, Tallulah; Augenstein, Isabelle; Søgaard, Anders. 201
 
 Vilares, David; Abdou, Mostafa; Søgaard, Anders. 2019. Better, faster, stronger sequence tagging constituent parsers. North American Chapter of the Association for Computational Linguistics (NAACL). Minneapolis, Minnesota.
 
+Gonzalez-Garduno, Ana Valeria; Petrén Bach Hansen, Victor; Bingel, Joachim; Søgaard, Anders. 2019. CoAStaL at SemEval-2019 Task 3: Affect Classification in Dialogue using Attentive BiLSTMs. The 13th International Workshop on Semantic Evaluation (SemEval). Minneapolis, Minnesota. 
+
 Ruder, Sebastian; Vulic, Ivan; Søgaard, Anders. to appear. A survey of cross-lingual word embedding models. Journal of Artificial Intelligence Research (JAIR). [Arxiv](https://arxiv.org/abs/1706.04902)
 
 Rei, Marek; Søgaard, Anders. 2019. Jointly learning to label sentences and tokens. The 33rd AAAI Conference on Artificial Intelligence (AAAI). Honolulu, Hawaii. [Arxiv](https://arxiv.org/pdf/1811.05949.pdf)
