@@ -2,10 +2,22 @@
 Professor in Natural Language Processing and Machine Learning, Dpt. of Computer Science, University of Copenhagen.
 
 ### News
-In 2018, I was awarded a [Google Focused Research Award](https://ai.google/research/outreach/focused-research-awards/) and a [Facebook Research Award](https://research.fb.com/announcing-the-winners-of-the-facebook-global-literacy-accessibility-challenge-research-awards/). I am also writing a book on cross-lingual learning for Morgan & Claypool with Ivan Vulic (Cambridge), Manaal Faruqui (Google), and Sebastian Ruder (Deepmind).
+I am currently a visiting scientist at Google, Berlin. 
 
 ## Publications
 ### 2019
+Aralikatte, Rahul; Lent, Heather; Gonzalez, Ana Valeria; Herschcovich, Daniel; Qiu, Chen; Sandholm, Anders; Ringgaard, Michael; Søgaard, Anders. Rewarding Coreference Resolvers for Being Consistent with World Knowledge. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2019. Hong Kong, China. 
+
+Kementchedjhieva, Yova; Hartmann, Mareike; Søgaard, Anders. 2019. Lost in Evaluation: Misleading Benchmarks for Bilingual Dictionary Induction. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2019. Hong Kong, China. 
+
+Barrett, Maria; Kementchedjhieva, Yova; Elazar, Yanai; Elliott, Desmond; Søgaard, Anders. 2019. Adversarial Removal of Demographic Attributes Revisited. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2019. Hong Kong, China. 
+
+Abdou, Mostafa; Kulmizev, Artur; Hill, Felix; Low, Daniel; Søgaard, Anders. 2019. Analysing the Representational Geometry of Neural Language Encoders. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2019. Hong Kong, China. 
+
+Vania, Clara; Kementchedjhieva, Yova; Søgaard, Anders; Lopez, Adam. 2019. A systematic comparison of methods for low-resource dependency parsing on genuinely low-resource languages. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2019. Hong Kong, China. 
+
+Søgaard, Anders; Vulic, Ivan; Ruder, Sebastian; Faruqui, Manaal. Cross-lingual word embeddings. Morgan & Claypool. [PDF](https://www.morganclaypool.com/doi/abs/10.2200/S00920ED2V01Y201904HLT042)
+
 Kurita, Shuhei; Søgaard, Anders. 2019. Multi-Task Semantic Dependency Parsing with Policy Gradient for Learning Easy-First Strategies. The 56th Annual Meeting of the Association for Computational Linguistics (ACL). Florence, Italy.
 
 Flachs, Simon; Bollmann, Marcel; Søgaard, Anders. 2019. Historical Text Normalization with Delayed Rewards. The 56th Annual Meeting of the Association for Computational Linguistics (ACL). Florence, Italy.
