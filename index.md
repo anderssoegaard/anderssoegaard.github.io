@@ -18,6 +18,8 @@ Vania, Clara; Kementchedjhieva, Yova; Søgaard, Anders; Lopez, Adam. 2019. A sys
 
 Søgaard, Anders; Vulic, Ivan; Ruder, Sebastian; Faruqui, Manaal. Cross-lingual word embeddings. Morgan & Claypool. [PDF](https://www.morganclaypool.com/doi/abs/10.2200/S00920ED2V01Y201904HLT042)
 
+Ruder, Sebastian; Vulic, Ivan; Søgaard, Anders. to appear. A survey of cross-lingual word embedding models. Journal of Artificial Intelligence Research (JAIR) 65. [PDF](https://jair.org/index.php/jair/article/view/11640) [Arxiv](https://arxiv.org/abs/1706.04902)
+
 Kurita, Shuhei; Søgaard, Anders. 2019. Multi-Task Semantic Dependency Parsing with Policy Gradient for Learning Easy-First Strategies. The 56th Annual Meeting of the Association for Computational Linguistics (ACL). Florence, Italy.
 
 Flachs, Simon; Bollmann, Marcel; Søgaard, Anders. 2019. Historical Text Normalization with Delayed Rewards. The 56th Annual Meeting of the Association for Computational Linguistics (ACL). Florence, Italy.
@@ -31,8 +33,6 @@ Hartmann, Mareike; Jansen, Tallulah; Augenstein, Isabelle; Søgaard, Anders. 201
 Vilares, David; Abdou, Mostafa; Søgaard, Anders. 2019. Better, faster, stronger sequence tagging constituent parsers. North American Chapter of the Association for Computational Linguistics (NAACL). Minneapolis, Minnesota.
 
 Gonzalez-Garduno, Ana Valeria; Petrén Bach Hansen, Victor; Bingel, Joachim; Søgaard, Anders. 2019. CoAStaL at SemEval-2019 Task 3: Affect Classification in Dialogue using Attentive BiLSTMs. The 13th International Workshop on Semantic Evaluation (SemEval). Minneapolis, Minnesota. 
-
-Ruder, Sebastian; Vulic, Ivan; Søgaard, Anders. to appear. A survey of cross-lingual word embedding models. Journal of Artificial Intelligence Research (JAIR). [Arxiv](https://arxiv.org/abs/1706.04902)
 
 Rei, Marek; Søgaard, Anders. 2019. Jointly learning to label sentences and tokens. The 33rd AAAI Conference on Artificial Intelligence (AAAI). Honolulu, Hawaii. [Arxiv](https://arxiv.org/pdf/1811.05949.pdf)
 
