@@ -22,19 +22,19 @@ Beloucif, Meriem; Gonzalez, Ana Valeria; Bollmann, Marcel; Søgaard, Anders. 201
 
 Søgaard, Anders; Vulic, Ivan; Ruder, Sebastian; Faruqui, Manaal. Cross-lingual word embeddings. Morgan & Claypool. [PDF](https://www.morganclaypool.com/doi/abs/10.2200/S00920ED2V01Y201904HLT042)
 
-Ruder, Sebastian; Vulic, Ivan; Søgaard, Anders. to appear. A survey of cross-lingual word embedding models. Journal of Artificial Intelligence Research (JAIR) 65. [PDF](https://jair.org/index.php/jair/article/view/11640) [Arxiv](https://arxiv.org/abs/1706.04902)
+Ruder, Sebastian; Vulic, Ivan; Søgaard, Anders. 2019. A survey of cross-lingual word embedding models. Journal of Artificial Intelligence Research (JAIR) 65. [PDF](https://jair.org/index.php/jair/article/view/11640) [Arxiv](https://arxiv.org/abs/1706.04902)
 
-Kurita, Shuhei; Søgaard, Anders. 2019. Multi-Task Semantic Dependency Parsing with Policy Gradient for Learning Easy-First Strategies. The 56th Annual Meeting of the Association for Computational Linguistics (ACL). Florence, Italy.
+Kurita, Shuhei; Søgaard, Anders. 2019. Multi-Task Semantic Dependency Parsing with Policy Gradient for Learning Easy-First Strategies. The 56th Annual Meeting of the Association for Computational Linguistics (ACL). Florence, Italy. [PDF](https://www.aclweb.org/anthology/P19-1232)
 
-Flachs, Simon; Bollmann, Marcel; Søgaard, Anders. 2019. Historical Text Normalization with Delayed Rewards. The 56th Annual Meeting of the Association for Computational Linguistics (ACL). Florence, Italy.
+Flachs, Simon; Bollmann, Marcel; Søgaard, Anders. 2019. Historical Text Normalization with Delayed Rewards. The 56th Annual Meeting of the Association for Computational Linguistics (ACL). Florence, Italy. [PDF](https://www.aclweb.org/anthology/P19-1157)
 
-Lacroix, Ophelie; Flachs, Simon; Søgaard, Anders. 2019. Noisy channel for low resource grammatical error correction. 14th Workshop on Innovative Use of NLP for Building Educational Applications, ACL 2019. Florence, Italy.
+Flachs, Simon; Lacroix, Ophélie; Søgaard, Anders. 2019. Noisy channel for low resource grammatical error correction. 14th Workshop on Innovative Use of NLP for Building Educational Applications, ACL 2019. Florence, Italy. [PDF](https://www.aclweb.org/anthology/W19-4420)
 
-Flachs, Simon; Lacroix, Ophélie; Rei, Marek; Yannakoudakis, Helen; Søgaard, Anders. 2019. A simple and robust approach to detecting subject-verb agreement errors. North American Chapter of the Association for Computational Linguistics (NAACL). Minneapolis, Minnesota.
+Flachs, Simon; Lacroix, Ophélie; Rei, Marek; Yannakoudakis, Helen; Søgaard, Anders. 2019. A simple and robust approach to detecting subject-verb agreement errors. North American Chapter of the Association for Computational Linguistics (NAACL). Minneapolis, Minnesota. [PDF](https://www.aclweb.org/anthology/N19-1251)
 
-Hartmann, Mareike; Jansen, Tallulah; Augenstein, Isabelle; Søgaard, Anders. 2019. Issue Framing in Online Discussion Fora. North American Chapter of the Association for Computational Linguistics (NAACL). Minneapolis, Minnesota.
+Hartmann, Mareike; Jansen, Tallulah; Augenstein, Isabelle; Søgaard, Anders. 2019. Issue Framing in Online Discussion Fora. North American Chapter of the Association for Computational Linguistics (NAACL). Minneapolis, Minnesota. [PDF](https://www.aclweb.org/anthology/N19-1142)
 
-Vilares, David; Abdou, Mostafa; Søgaard, Anders. 2019. Better, faster, stronger sequence tagging constituent parsers. North American Chapter of the Association for Computational Linguistics (NAACL). Minneapolis, Minnesota.
+Vilares, David; Abdou, Mostafa; Søgaard, Anders. 2019. Better, faster, stronger sequence tagging constituent parsers. North American Chapter of the Association for Computational Linguistics (NAACL). Minneapolis, Minnesota. [PDF](https://www.aclweb.org/anthology/N19-1341)
 
 Gonzalez-Garduno, Ana Valeria; Petrén Bach Hansen, Victor; Bingel, Joachim; Søgaard, Anders. 2019. CoAStaL at SemEval-2019 Task 3: Affect Classification in Dialogue using Attentive BiLSTMs. The 13th International Workshop on Semantic Evaluation (SemEval). Minneapolis, Minnesota. 
 
@@ -42,7 +42,7 @@ Rei, Marek; Søgaard, Anders. 2019. Jointly learning to label sentences and toke
 
 Ruder, Sebastian; Bingel, Joachim, Augenstein, Isabelle; Søgaard, Anders. 2019. Latent multi-task architecture learning. The 33rd AAAI Conference on Artificial Intelligence (AAAI). Honolulu, Hawaii. [Arxiv](https://arxiv.org/abs/1705.08142)
 
-Caccavale, Fiammetta; Søgaard, Anders. 2019. Predicting concrete and abstract entities in modern poetry. The 33rd AAAI Conference on Artificial Intelligence (AAAI). Honolulu, Hawaii.
+Caccavale, Fiammetta; Søgaard, Anders. 2019. Predicting concrete and abstract entities in modern poetry. The 33rd AAAI Conference on Artificial Intelligence (AAAI). Honolulu, Hawaii. [PDF](https://aaai.org/ojs/index.php/AAAI/article/view/3873)
 
 ### 2018
 Hartmann, Mareike; Kementchedjhieva, Yova; Søgaard, Anders. 2018. Why is unsupervised alignment of English embeddings from different algorithms so hard? Conference on Empirical Methods in Natural Language Processing (EMNLP) 2018. Brussels, Belgium. [PDF](http://aclweb.org/anthology/D18-1056)
