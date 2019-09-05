@@ -6,6 +6,8 @@ I am currently a visiting scientist at Google, Berlin.
 
 ## Publications
 ### 2019
+Hartmann, Mareike; Kementchedjhieva, Yova; Søgaard. Anders. 2019. Comparing Unsupervised Word Translation Methods Step by Step. The 33rd Conference on Neural Information Processing Systems (NeurIPS 2019). Vancouver, Canada. 
+
 Aralikatte, Rahul; Lent, Heather; Gonzalez, Ana Valeria; Herschcovich, Daniel; Qiu, Chen; Sandholm, Anders; Ringgaard, Michael; Søgaard, Anders. Rewarding Coreference Resolvers for Being Consistent with World Knowledge. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2019. Hong Kong, China. 
 
 Kementchedjhieva, Yova; Hartmann, Mareike; Søgaard, Anders. 2019. Lost in Evaluation: Misleading Benchmarks for Bilingual Dictionary Induction. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2019. Hong Kong, China. 
