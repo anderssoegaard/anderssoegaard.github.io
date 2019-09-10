@@ -8,15 +8,15 @@ I am currently a visiting scientist at Google, Berlin.
 ### 2019
 Hartmann, Mareike; Kementchedjhieva, Yova; Søgaard. Anders. 2019. Comparing Unsupervised Word Translation Methods Step by Step. The 33rd Conference on Neural Information Processing Systems (NeurIPS 2019). Vancouver, Canada. 
 
-Aralikatte, Rahul; Lent, Heather; Gonzalez, Ana Valeria; Herschcovich, Daniel; Qiu, Chen; Sandholm, Anders; Ringgaard, Michael; Søgaard, Anders. Rewarding Coreference Resolvers for Being Consistent with World Knowledge. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2019. Hong Kong, China. 
+Aralikatte, Rahul; Lent, Heather; Gonzalez, Ana Valeria; Herschcovich, Daniel; Qiu, Chen; Sandholm, Anders; Ringgaard, Michael; Søgaard, Anders. Rewarding Coreference Resolvers for Being Consistent with World Knowledge. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2019. Hong Kong, China. [ArXiv](https://arxiv.org/pdf/1909.02392.pdf)
 
 Kementchedjhieva, Yova; Hartmann, Mareike; Søgaard, Anders. 2019. Lost in Evaluation: Misleading Benchmarks for Bilingual Dictionary Induction. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2019. Hong Kong, China. 
 
 Barrett, Maria; Kementchedjhieva, Yova; Elazar, Yanai; Elliott, Desmond; Søgaard, Anders. 2019. Adversarial Removal of Demographic Attributes Revisited. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2019. Hong Kong, China. 
 
-Abdou, Mostafa; Kulmizev, Artur; Hill, Felix; Low, Daniel; Søgaard, Anders. 2019. Analysing the Representational Geometry of Neural Language Encoders. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2019. Hong Kong, China. 
+Abdou, Mostafa; Kulmizev, Artur; Hill, Felix; Low, Daniel; Søgaard, Anders. 2019. Higher-order Comparisons of Sentence Encoder Representations. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2019. Hong Kong, China. [ArXiv](https://arxiv.org/pdf/1909.00303.pdf)
 
-Vania, Clara; Kementchedjhieva, Yova; Søgaard, Anders; Lopez, Adam. 2019. A systematic comparison of methods for low-resource dependency parsing on genuinely low-resource languages. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2019. Hong Kong, China. 
+Vania, Clara; Kementchedjhieva, Yova; Søgaard, Anders; Lopez, Adam. 2019. A systematic comparison of methods for low-resource dependency parsing on genuinely low-resource languages. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2019. Hong Kong, China. [ArXiv](https://arxiv.org/pdf/1909.02857.pdf)
 
 Beloucif, Meriem; Gonzalez, Ana Valeria; Bollmann, Marcel; Søgaard, Anders. 2019. Naive regularizers for low-resource neural machine translation. Recent Advances in Natural Language Processing 2019. Borovets, Bulgaria.
 
@@ -29,6 +29,12 @@ Kurita, Shuhei; Søgaard, Anders. 2019. Multi-Task Semantic Dependency Parsing w
 Flachs, Simon; Bollmann, Marcel; Søgaard, Anders. 2019. Historical Text Normalization with Delayed Rewards. The 56th Annual Meeting of the Association for Computational Linguistics (ACL). Florence, Italy. [PDF](https://www.aclweb.org/anthology/P19-1157)
 
 Flachs, Simon; Lacroix, Ophélie; Søgaard, Anders. 2019. Noisy channel for low resource grammatical error correction. 14th Workshop on Innovative Use of NLP for Building Educational Applications, ACL 2019. Florence, Italy. [PDF](https://www.aclweb.org/anthology/W19-4420)
+
+Aralikatte, Rahul; Lamm, Matthew; Hardt, Daniel; Søgaard, Anders. 2019. Ellipsis and coreference resolution as question answering. [ArXiv](https://arxiv.org/pdf/1908.11141.pdf)
+
+Abdou, Mostafa; Sas, Cezar; Aralikatte, Rahul; Augenstein, Isabelle; Søgaard, Anders. 2019. X-WikiRE: A Large, Multilingual Resource for Relation Extraction as Machine Comprehension. [ArXiv](https://arxiv.org/pdf/1908.05111.pdf)
+
+Aralikatte, Rahul; Søgaard, Anders. 2019. Model-based annotation of coreference. [ArXiv](https://arxiv.org/pdf/1906.10724.pdf)
 
 Flachs, Simon; Lacroix, Ophélie; Rei, Marek; Yannakoudakis, Helen; Søgaard, Anders. 2019. A simple and robust approach to detecting subject-verb agreement errors. North American Chapter of the Association for Computational Linguistics (NAACL). Minneapolis, Minnesota. [PDF](https://www.aclweb.org/anthology/N19-1251)
 
