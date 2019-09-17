@@ -18,6 +18,10 @@ Abdou, Mostafa; Kulmizev, Artur; Hill, Felix; Low, Daniel; Søgaard, Anders. 201
 
 Vania, Clara; Kementchedjhieva, Yova; Søgaard, Anders; Lopez, Adam. 2019. A systematic comparison of methods for low-resource dependency parsing on genuinely low-resource languages. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2019. Hong Kong, China. [ArXiv](https://arxiv.org/pdf/1909.02857.pdf)
 
+Abdou, Mostafa; Sas, Cezar; Aralikatte, Rahul; Augenstein, Isabelle; Søgaard, Anders. 2019. X-WikiRE: A Large, Multilingual Resource for Relation Extraction as Machine Comprehension. Workshop on Deep Learning Approaches for Low-Resource NLP, EMNLP 2019. [ArXiv](https://arxiv.org/pdf/1908.05111.pdf)
+
+Bollmann, Marcel; Korchagina, Natalia; Søgaard, Anders. 2019. Few-Shot and Zero-Shot Learning for Historical Text Normalization. Workshop on Deep Learning Approaches for Low-Resource NLP, EMNLP 2019.
+
 Beloucif, Meriem; Gonzalez, Ana Valeria; Bollmann, Marcel; Søgaard, Anders. 2019. Naive regularizers for low-resource neural machine translation. Recent Advances in Natural Language Processing 2019. Borovets, Bulgaria.
 
 Søgaard, Anders; Vulic, Ivan; Ruder, Sebastian; Faruqui, Manaal. Cross-lingual word embeddings. Morgan & Claypool. [PDF](https://www.morganclaypool.com/doi/abs/10.2200/S00920ED2V01Y201904HLT042)
@@ -32,7 +36,7 @@ Flachs, Simon; Lacroix, Ophélie; Søgaard, Anders. 2019. Noisy channel for low 
 
 Aralikatte, Rahul; Lamm, Matthew; Hardt, Daniel; Søgaard, Anders. 2019. Ellipsis and coreference resolution as question answering. [ArXiv](https://arxiv.org/pdf/1908.11141.pdf)
 
-Abdou, Mostafa; Sas, Cezar; Aralikatte, Rahul; Augenstein, Isabelle; Søgaard, Anders. 2019. X-WikiRE: A Large, Multilingual Resource for Relation Extraction as Machine Comprehension. [ArXiv](https://arxiv.org/pdf/1908.05111.pdf)
+Bingel, Joachim; Hansen, Victor Petrén Bach; Gonzalez, Ana Valeria; Budzianowski, Paweł; Augenstein, Isabelle; Søgaard, Anders. 2019. Domain Transfer in Dialogue Systems without Turn-Level Supervision. [ArXiv](https://arxiv.org/abs/1909.07101)
 
 Aralikatte, Rahul; Søgaard, Anders. 2019. Model-based annotation of coreference. [ArXiv](https://arxiv.org/pdf/1906.10724.pdf)
 
