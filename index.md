@@ -38,8 +38,6 @@ Flachs, Simon; Lacroix, Ophélie; Søgaard, Anders. 2019. Noisy channel for low 
 
 Aralikatte, Rahul; Lamm, Matthew; Hardt, Daniel; Søgaard, Anders. 2019. Ellipsis and coreference resolution as question answering. [ArXiv](https://arxiv.org/pdf/1908.11141.pdf)
 
-Bingel, Joachim; Hansen, Victor Petrén Bach; Gonzalez, Ana Valeria; Budzianowski, Paweł; Augenstein, Isabelle; Søgaard, Anders. 2019. Domain Transfer in Dialogue Systems without Turn-Level Supervision. [ArXiv](https://arxiv.org/abs/1909.07101)
-
 Aralikatte, Rahul; Søgaard, Anders. 2019. Model-based annotation of coreference. [ArXiv](https://arxiv.org/pdf/1906.10724.pdf)
 
 Flachs, Simon; Lacroix, Ophélie; Rei, Marek; Yannakoudakis, Helen; Søgaard, Anders. 2019. A simple and robust approach to detecting subject-verb agreement errors. North American Chapter of the Association for Computational Linguistics (NAACL). Minneapolis, Minnesota. [PDF](https://www.aclweb.org/anthology/N19-1251)
