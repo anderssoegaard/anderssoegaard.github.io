@@ -10,6 +10,8 @@ Hartmann, Mareike; Kementchedjhieva, Yova; Søgaard. Anders. 2019. Comparing Uns
 
 Bingel, Joachim; Petrén Bach Hansen, Victor; Gonzalez, Ana Valeria; Budzianowski, Pavel; Augenstein, Isabelle; Søgaard, Anders. 2019. Domain Transfer in Dialogue Systems without Turn-Level Supervision. The 3rd NeurIPS workshop on Conversational AI: Today's Practice and Tomorrow's Potential. Vancouver, Canada. [ArXiv](https://arxiv.org/abs/1909.07101)
 
+Gonzalez, Ana Valeria; Augenstein, Isabelle; Søgaard, Anders. 2019. Retrieval-based goal-directed dialogue generation. The 3rd NeurIPS workshop on Conversational AI: Today's Practice and Tomorrow's Potential. Vancouver, Canada. 
+
 Aralikatte, Rahul; Lent, Heather; Gonzalez, Ana Valeria; Herschcovich, Daniel; Qiu, Chen; Sandholm, Anders; Ringgaard, Michael; Søgaard, Anders. Rewarding Coreference Resolvers for Being Consistent with World Knowledge. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2019. Hong Kong, China. [ArXiv](https://arxiv.org/pdf/1909.02392.pdf)
 
 Kementchedjhieva, Yova; Hartmann, Mareike; Søgaard, Anders. 2019. Lost in Evaluation: Misleading Benchmarks for Bilingual Dictionary Induction. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2019. Hong Kong, China. 
