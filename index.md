@@ -12,6 +12,8 @@ Petrén Bach Hansen, Victor; Søgaard, Anders. 2020. What Do You Mean 'Why?': Re
 
 Kann, Katharina; Lacroix, Ophelie; Søgaard, Anders. 2020. Weakly Supervised POS Taggers Perform Poorly on Truly Low-Resource Languages. The 34th AAAI Conference on Artificial Intelligence (AAAI). New York, New York.
 
+Vilares, David; Strzyz, Michalina; Søgaard, Anders; Gomez-Rodriquez, Carlos. 2020. Parsing as pretraining. The 34th AAAI Conference on Artificial Intelligence (AAAI). New York, New York.
+
 ### 2019
 Hartmann, Mareike; Kementchedjhieva, Yova; Søgaard. Anders. 2019. Comparing Unsupervised Word Translation Methods Step by Step. The 33rd Conference on Neural Information Processing Systems (NeurIPS 2019). Vancouver, Canada. 
 
