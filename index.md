@@ -5,6 +5,13 @@ Professor in Natural Language Processing and Machine Learning, Dpt. of Computer 
 I am currently a visiting scientist at Google, Berlin. 
 
 ## Publications
+
+### 2020 
+
+Petrén Bach Hansen, Victor; Søgaard, Anders. 2020. What Do You Mean 'Why?': Resolving Sluices in Conversations. The 34th AAAI Conference on Artificial Intelligence (AAAI). New York, New York. 
+
+Kann, Katharina; Lacroix, Ophelie; Søgaard, Anders. 2020. Weakly Supervised POS Taggers Perform Poorly on Truly Low-Resource Languages. The 34th AAAI Conference on Artificial Intelligence (AAAI). New York, New York.
+
 ### 2019
 Hartmann, Mareike; Kementchedjhieva, Yova; Søgaard. Anders. 2019. Comparing Unsupervised Word Translation Methods Step by Step. The 33rd Conference on Neural Information Processing Systems (NeurIPS 2019). Vancouver, Canada. 
 
