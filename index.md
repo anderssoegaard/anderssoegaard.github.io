@@ -14,6 +14,12 @@ Kann, Katharina; Lacroix, Ophelie; Søgaard, Anders. 2020. Weakly Supervised POS
 
 Vilares, David; Strzyz, Michalina; Søgaard, Anders; Gomez-Rodriquez, Carlos. 2020. Parsing as pretraining. The 34th AAAI Conference on Artificial Intelligence (AAAI). New York, New York.
 
+Sas, Cezar; Beloucif, Meriem; Søgaard, Anders. 2020. WikiBank: Using Wikidata to Improve Multilingual Frame-Semantic Parsing. The 12th International Conference on Language Resources and Evaluation (LREC). Marseille, France.
+
+Aralikatte, Rahul; Søgaard, Anders. 2020. Model-based annotation of coreference. The 12th International Conference on Language Resources and Evaluation (LREC). Marseille, France. 
+
+Hvingelby, Rasmus; Paul, Amalie Brogaard; Barrett, Maria; Rosted, Christina; Lidegaard, Lasse Malm; Søgaard, Anders. 2020. DaNE: A Named Entity Resource for Danish. The 12th International Conference on Language Resources and Evaluation (LREC). Marseille, France. 
+
 ### 2019
 Hartmann, Mareike; Kementchedjhieva, Yova; Søgaard. Anders. 2019. Comparing Unsupervised Word Translation Methods Step by Step. The 33rd Conference on Neural Information Processing Systems (NeurIPS 2019). Vancouver, Canada. 
 
