@@ -8,6 +8,8 @@ I am currently a visiting scientist at Google, Berlin.
 
 ### 2020 
 
+Abdou, Mostafa; Ravishankar, Vinit; Barrett, Maria; Belinkov, Yonatan; Elliott, Desmond; Søgaard, Anders. 2020. The Sensitivity of Language Models and Humans to Winograd Schema Perturbations. The 57th Annual Meeting of the Association for Computational Linguistics (ACL). Seattle, Washington. 
+
 Petrén Bach Hansen, Victor; Søgaard, Anders. 2020. What Do You Mean 'Why?': Resolving Sluices in Conversations. The 34th AAAI Conference on Artificial Intelligence (AAAI). New York, New York. 
 
 Kann, Katharina; Lacroix, Ophelie; Søgaard, Anders. 2020. Weakly Supervised POS Taggers Perform Poorly on Truly Low-Resource Languages. The 34th AAAI Conference on Artificial Intelligence (AAAI). New York, New York.
