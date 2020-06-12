@@ -178,29 +178,29 @@ Søgaard, Anders. 2016. Spikes as regularizers. NIPS Workshop on Computing with 
 
 Agic, Zeljko; Johannsen, Anders; Plank, Barbara; Martinez, Hector; Schluter, Natalie; Søgaard, Anders. 2016. Multi-lingual projection for parsing truly low resource languages. Transactions of the Association for Computational Linguistics (TACL) 4: 301-312. [PDF](https://pdfs.semanticscholar.org/5ffe/bd7f8b0919a80247efe1a72b0217457ceffe.pdf)
 
-Søgaard, Anders. 2016. Evaluating word embeddings with fMRI and eye-tracking. RepEval, The 54th Annual Meeting of the Association for Computational Linguistics (ACL). Berlin, Germany. Nominated for Best Paper Award.
+Søgaard, Anders. 2016. Evaluating word embeddings with fMRI and eye-tracking. RepEval, The 54th Annual Meeting of the Association for Computational Linguistics (ACL). Berlin, Germany. <b>Nominated for Best Paper Award.</b> [PDF](https://www.aclweb.org/anthology/W16-2521.pdf)
 
-Bingel, Joachim; Barrett, Maria; Søgaard, Anders. 2016. Extracting token-level signals of syntactic processing from fMRI - with an application to POS induction. The 54th Annual Meeting of the Association for Computational Linguistics (ACL). Berlin, Germany.
+Bingel, Joachim; Barrett, Maria; Søgaard, Anders. 2016. Extracting token-level signals of syntactic processing from fMRI - with an application to POS induction. The 54th Annual Meeting of the Association for Computational Linguistics (ACL). Berlin, Germany. [PDF](https://www.aclweb.org/anthology/P16-1071.pdf)
 
-Søgaard, Anders; Goldberg, Yoav. 2016. Deep multi-task learning with low level tasks supervised at lower layers. The 54th Annual Meeting of the Association for Computational Linguistics (ACL). Berlin, Germany.
+Søgaard, Anders; Goldberg, Yoav. 2016. Deep multi-task learning with low level tasks supervised at lower layers. The 54th Annual Meeting of the Association for Computational Linguistics (ACL). Berlin, Germany. [PDF](https://www.aclweb.org/anthology/P16-2038.pdf)
 
-Plank, Barbara; Søgaard, Anders; Goldberg, Yoav. 2016. Multilingual part-of-speech tagging with bidirectional long short-term memory models and auxiliary loss. The 54th Annual Meeting of the Association for Computational Linguistics (ACL). Berlin, Germany.
+Plank, Barbara; Søgaard, Anders; Goldberg, Yoav. 2016. Multilingual part-of-speech tagging with bidirectional long short-term memory models and auxiliary loss. The 54th Annual Meeting of the Association for Computational Linguistics (ACL). Berlin, Germany. [PDF](https://www.aclweb.org/anthology/P16-2067.pdf) [Code](https://github.com/bplank/bilstm-aux)
 
-Bingel, Joachim; Søgaard, Anders. 2016. Text simplification as tree labeling. The 54th Annual Meeting of the Association for Computational Linguistics (ACL). Berlin, Germany. 
+Bingel, Joachim; Søgaard, Anders. 2016. Text simplification as tree labeling. The 54th Annual Meeting of the Association for Computational Linguistics (ACL). Berlin, Germany. [PDF](https://www.aclweb.org/anthology/P16-2055.pdf)
 
-Johannsen, Anders; Agic, Zeljko; Søgaard, Anders. 2016. Joint part-of-speech and dependency projection from multiple sources. The 54th Annual Meeting of the Association for Computational Linguistics (ACL). Berlin, Germany. (ACL)
+Johannsen, Anders; Agic, Zeljko; Søgaard, Anders. 2016. Joint part-of-speech and dependency projection from multiple sources. The 54th Annual Meeting of the Association for Computational Linguistics (ACL). Berlin, Germany. [PDF](https://www.aclweb.org/anthology/P16-2091.pdf)
 
-Barrett, Maria; Bingel, Joachim; Keller, Frank; Søgaard, Anders. 2016. Weakly supervised part-of-speech tagging using eye-tracking data. The 54th Annual Meeting of the Association for Computational Linguistics (ACL). Berlin, Germany.
+Barrett, Maria; Bingel, Joachim; Keller, Frank; Søgaard, Anders. 2016. Weakly supervised part-of-speech tagging using eye-tracking data. The 54th Annual Meeting of the Association for Computational Linguistics (ACL). Berlin, Germany. [PDF](https://www.aclweb.org/anthology/P16-2094/)
 
 Klerke, Sigrid; Goldberg, Yoav; Søgaard, Anders. 2016. Improving sentence compression by learning to predict gaze. North American Chapter of the Association for Computational Linguistics (NAACL). San Diego, CA. <b>Received Best Short Paper Award.</b> [PDF](http://www.aclweb.org/anthology/N16-1179)
 
-Jørgensen, Anna; Hovy, Dirk; Søgaard, Anders. 2016. Learning a POS tagger for AAVE-like language. North American Chapter of the Association for Computational Linguistics (NAACL). San Diego, CA.
+Jørgensen, Anna; Hovy, Dirk; Søgaard, Anders. 2016. Learning a POS tagger for AAVE-like language. North American Chapter of the Association for Computational Linguistics (NAACL). San Diego, CA. [PDF](https://www.aclweb.org/anthology/N16-1130.pdf)
 
-Pedersen, Bolette; Braasch, Anna; Johannsen, Anders; Alonso, Hector Martinez; Nimb, Sanni; Olsen, Sussi; Søgaard, Anders; Sørensen, Nicolai Hartvig. 2016. The SemDaX corpus - sense annotations with scalable sense inventories. Language Resources and Evaluation Conference (LREC) 2016. Portoroz, Slovenia.
+Pedersen, Bolette; Braasch, Anna; Johannsen, Anders; Alonso, Hector Martinez; Nimb, Sanni; Olsen, Sussi; Søgaard, Anders; Sørensen, Nicolai Hartvig. 2016. The SemDaX corpus - sense annotations with scalable sense inventories. Language Resources and Evaluation Conference (LREC) 2016. Portoroz, Slovenia. [PDF](https://www.aclweb.org/anthology/L16-1136.pdf)
 
-Jørgensen, Anna; Søgaard, Anders. 2016. A test suite for evaluating POS taggers across varieties of English. WWW Workshop on NLP for Informal Text. Montreal, Canada.
+Jørgensen, Anna; Søgaard, Anders. 2016. A test suite for evaluating POS taggers across varieties of English. WWW Workshop on NLP for Informal Text. Montreal, Canada. [Link](https://dl.acm.org/doi/10.1145/2872518.2890559)
 
-Søgaard, Anders. 2016. Biases we live by. Nordisk Tidsskrift for Informationsvidenskab og Kulturformidling 5(1): 31-35.
+Søgaard, Anders. 2016. Biases we live by. Nordisk Tidsskrift for Informationsvidenskab og Kulturformidling 5(1): 31-35. [PDF](https://pdfs.semanticscholar.org/7fb4/5cf27fd30ec20071400216c6925eb0b1cd90.pdf?_ga=2.238242752.1507244379.1591993005-1714212771.1571394157)
 
 ### 2015
 Søgaard, Anders. 2015. Empirical Gaussian priors for cross-lingual transfer learning. NIPS Workshop on Transfer and Multi-task Learning. Montreal, Canada. [ArXiv](https://arxiv.org/abs/1601.02166)
@@ -243,7 +243,7 @@ Plank, Barbara; Martinez Alonso, Hector; Søgaard, Anders. 2015. Non-canonical l
 
 Hovy, Dirk; Johannsen, Anders; Søgaard, Anders. 2015. User review sites as a resource for large-scale sociolinguistic studies. The 24th International World Wide Web Conference (WWW). Florence, Italy. [PDF](http://www.www2015.it/documents/proceedings/proceedings/p452.pdf)
 
-Martinez, Hector; Plank, Barbara; Johannsen, Anders; Søgaard, Anders. 2015. Active learning for sense annotation. The 20th Nordic Conference on Computational Linguistics. Vilnius, Lithuania.
+Martinez, Hector; Plank, Barbara; Johannsen, Anders; Søgaard, Anders. 2015. Active learning for sense annotation. The 20th Nordic Conference on Computational Linguistics (NODALIDA). Vilnius, Lithuania. [PDF](https://www.aclweb.org/anthology/W15-1831.pdf)
 
 Martinez, Hector; Johannsen, Anders; Olsen, Sussi; Nimb, Sanni; Sørensen, Nicolai Hartvig; Braasch, Anna; Søgaard, Anders; Pedersen, Bolette Sandford. 2015. Supersense tagging for Danish. The 20th Nordic Conference on Computational Linguistics (NODALIDA). Vilnius, Lithuania. [PDF](https://www.aclweb.org/anthology/W15-1806.pdf)
 
@@ -272,43 +272,43 @@ Fromreide, Hege; Søgaard, Anders. 2014. NER in tweets using bagging and a small
 
 Schluter, Natalie; Elming, Jakob; Søgaard, Anders. 2014. Tree approximations of semantic parsing problems. SemEval 2014. Dublin, Ireland. [PDF](https://www.aclweb.org/anthology/S14-2034.pdf)
 
-Hovy, Dirk; Plank, Barbara; Søgaard, Anders. 2014. When POS datasets do not add up: Combatting sample bias. Language Resources and Evaluation Conference (LREC) 2014. Reykjavik, Iceland.
+Hovy, Dirk; Plank, Barbara; Søgaard, Anders. 2014. When POS datasets do not add up: Combatting sample bias. Language Resources and Evaluation Conference (LREC) 2014. Reykjavik, Iceland. [http://www.lrec-conf.org/proceedings/lrec2014/pdf/476_Paper.pdf]
 
 Pedersen, Bolette; Nimb, Sanni; Olsen, Sussi; Søgaard, Anders; Sørensen, Nicolai. 2014. Semantic annotation of the Danish CLARIN Reference Corpus. 10th Joint ACL-ISO Workshop on Interoperable Semantic Annotation, LREC. Reykjavik, Iceland.
 
-Fromreide, Hege; Søgaard, Anders. 2014. Crowdsourcing and annotating NER for Twitter #drift. Language Resources and Evaluation Conference 2014. Reykjavik, Iceland.
+Fromreide, Hege; Søgaard, Anders. 2014. Crowdsourcing and annotating NER for Twitter #drift. Language Resources and Evaluation Conference 2014 (LREC). Reykjavik, Iceland. [PDF](http://www.lrec-conf.org/proceedings/lrec2014/pdf/421_Paper.pdf)
 
 ### 2013
-Søgaard, Anders. Semi-supervised learning and domain adaptation for NLP. Morgan & Claypool. 
+Søgaard, Anders. Semi-supervised learning and domain adaptation for NLP. Morgan & Claypool. [Link](https://www.morganclaypool.com/doi/abs/10.2200/S00497ED1V01Y201304HLT021?journalCode=hlt)
 
-Søgaard, Anders; Martinez, Hector; Elming, Jakob; Johannsen, Anders. 2013. Using crowdsourcing to get representations based on regular expressions. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2013. Seattle, WA.
+Søgaard, Anders; Martinez, Hector; Elming, Jakob; Johannsen, Anders. 2013. Using crowdsourcing to get representations based on regular expressions. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2013. Seattle, WA. [PDF](https://www.aclweb.org/anthology/D13-1154.pdf)
 
-Matthies, Franz; Søgaard, Anders. 2013. With blinkers on: Robust prediction of eye movements across readers. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2013. Seattle, WA.
+Matthies, Franz; Søgaard, Anders. 2013. With blinkers on: Robust prediction of eye movements across readers. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2013. Seattle, WA. [PDF](https://www.aclweb.org/anthology/D13-1075.pdf)
 
-Søgaard, Anders. 2013. Part-of-speech tagging with antagonistic adversaries. The 51st Annual Meeting of the Association for Computational Linguistics (ACL). Sofia, Bulgaria.
+Søgaard, Anders. 2013. Part-of-speech tagging with antagonistic adversaries. The 51st Annual Meeting of the Association for Computational Linguistics (ACL). Sofia, Bulgaria. [PDF](https://www.aclweb.org/anthology/P13-2113.pdf)
 
-Elming, Jakob; Johannsen, Anders; Klerke, Sigrid; Lapponi, Emanuele; Alonso, Hector Martinez; Søgaard, Anders. 2013. Down-stream effects of tree-to-dependency conversions. North American Chapter of the Association for Computational Linguistics (NAACL). Atlanta, GA.
+Elming, Jakob; Johannsen, Anders; Klerke, Sigrid; Lapponi, Emanuele; Alonso, Hector Martinez; Søgaard, Anders. 2013. Down-stream effects of tree-to-dependency conversions. North American Chapter of the Association for Computational Linguistics (NAACL). Atlanta, GA. [PDF](https://www.aclweb.org/anthology/N13-1070.pdf)
 
-Søgaard, Anders. 2013. Zipfian corruptions for robust POS tagging. North American Chapter of the Association for Computational Linguistics (NAACL). Atlanta, GA.
+Søgaard, Anders. 2013. Zipfian corruptions for robust POS tagging. North American Chapter of the Association for Computational Linguistics (NAACL). Atlanta, GA. [PDF](https://www.aclweb.org/anthology/N13-1077.pdf)
 
-Søgaard, Anders. 2013. Estimating effect size across datasets. North American Chapter of the Association for Computational Linguistics (NAACL). Atlanta, GA.
+Søgaard, Anders. 2013. Estimating effect size across datasets. North American Chapter of the Association for Computational Linguistics (NAACL). Atlanta, GA. [PDF](https://www.aclweb.org/anthology/N13-1068.pdf)
 
-Johannsen, Anders; Søgaard, Anders. 2013. Cross-domain answer ranking using importance sampling. The 6th International Joint Conference on Natural Language Processing (IJCNLP). Nagoya, Japan.
+Johannsen, Anders; Søgaard, Anders. 2013. Cross-domain answer ranking using importance sampling. The 6th International Joint Conference on Natural Language Processing (IJCNLP). Nagoya, Japan. [PDF](https://www.aclweb.org/anthology/I13-1132.pdf)
 
-Johannsen, Anders; Søgaard, Anders. 2013. Disambiguating explicit discourse connectives without oracles. The 6th International Joint Conference on Natural Language Processing (IJCNLP). Nagoya, Japan.
+Johannsen, Anders; Søgaard, Anders. 2013. Disambiguating explicit discourse connectives without oracles. The 6th International Joint Conference on Natural Language Processing (IJCNLP). Nagoya, Japan. [PDF](https://www.aclweb.org/anthology/I13-1134.pdf)
 
-Klerke, Sigrid; Søgaard, Anders. 2013. Simple readable sub-sentences. The 51st Annual Meeting of the Association for Computational Linguistics (ACL), Student Research Workshop. Sofia, Bulgaria.
+Klerke, Sigrid; Søgaard, Anders. 2013. Simple readable sub-sentences. The 51st Annual Meeting of the Association for Computational Linguistics (ACL), Student Research Workshop. Sofia, Bulgaria. [PDF](https://www.aclweb.org/anthology/P13-3021.pdf)
 
-Søgaard, Anders. 2013. An empirical study of differences between conversion schemes and annotation guidelines. International Conference on Dependency Linguistics 2013. Prague, the Czech Republic.
+Søgaard, Anders. 2013. An empirical study of differences between conversion schemes and annotation guidelines. International Conference on Dependency Linguistics 2013. Prague, the Czech Republic. [PDF](https://www.aclweb.org/anthology/W13-3733.pdf)
 
 Klerke, Sigrid; Elbro, Carsten; Søgaard, Anders. 2013. Tracking readability in eye movements. 17th European Conference on Eye Movements. Lund, Sweden.
 
 ### 2012
-Søgaard, Anders. 2012. Unsupervised dependency parsing without training. Natural Language Engineering 18(1):187-203.
+Søgaard, Anders. 2012. Unsupervised dependency parsing without training. Natural Language Engineering 18(1):187-203. [Link](https://www.cambridge.org/core/journals/natural-language-engineering/article/unsupervised-dependency-parsing-without-training/8A749F057919919159D246039F380BE9)
 
-Søgaard, Anders; Johannsen, Anders. 2012. Robust learning in random subspaces: equipping NLP for OOV effects. The 24th International Conference on Computational Linguistics (COLING). Mumbai, India.
+Søgaard, Anders; Johannsen, Anders. 2012. Robust learning in random subspaces: equipping NLP for OOV effects. The 24th International Conference on Computational Linguistics (COLING). Mumbai, India. [PDF](https://www.aclweb.org/anthology/C12-2114.pdf)
 
-Søgaard, Anders; Wulff, Julie. 2012. An empirical study of non-lexical extensions to delexicalized transfer. The 24th International Conference on Computational Linguistics (COLING). Mumbai, India.
+Søgaard, Anders; Wulff, Julie. 2012. An empirical study of non-lexical extensions to delexicalized transfer. The 24th International Conference on Computational Linguistics (COLING). Mumbai, India. [PDF](https://www.aclweb.org/anthology/C12-2115.pdf)
 
 Søgaard, Anders. 2012. Mining wisdom. Computational Linguistics in Literature, Nothern American Chapter of the Association of Computational Linguistics (NAACL). Montreal, Canada. [PDF](https://www.aclweb.org/anthology/W12-2507.pdf)
 
