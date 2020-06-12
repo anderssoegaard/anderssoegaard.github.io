@@ -27,23 +27,23 @@ Hartmann, Mareike; Kementchedjhieva, Yova; Søgaard. Anders. 2019. Comparing Uns
 
 Bingel, Joachim; Petrén Bach Hansen, Victor; Gonzalez, Ana Valeria; Budzianowski, Pavel; Augenstein, Isabelle; Søgaard, Anders. 2019. Domain Transfer in Dialogue Systems without Turn-Level Supervision. The 3rd NeurIPS workshop on Conversational AI: Today's Practice and Tomorrow's Potential. Vancouver, Canada. [ArXiv](https://arxiv.org/abs/1909.07101)
 
-Gonzalez, Ana Valeria; Augenstein, Isabelle; Søgaard, Anders. 2019. Retrieval-based goal-directed dialogue generation. The 3rd NeurIPS workshop on Conversational AI: Today's Practice and Tomorrow's Potential. Vancouver, Canada. 
+Gonzalez, Ana Valeria; Augenstein, Isabelle; Søgaard, Anders. 2019. Retrieval-based goal-directed dialogue generation. The 3rd NeurIPS workshop on Conversational AI: Today's Practice and Tomorrow's Potential. Vancouver, Canada. [ArXiv](https://arxiv.org/abs/1909.13717)
 
 Aralikatte, Rahul; Lent, Heather; Gonzalez, Ana Valeria; Herschcovich, Daniel; Qiu, Chen; Sandholm, Anders; Ringgaard, Michael; Søgaard, Anders. Rewarding Coreference Resolvers for Being Consistent with World Knowledge. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2019. Hong Kong, China. [ArXiv](https://arxiv.org/pdf/1909.02392.pdf)
 
-Kementchedjhieva, Yova; Hartmann, Mareike; Søgaard, Anders. 2019. Lost in Evaluation: Misleading Benchmarks for Bilingual Dictionary Induction. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2019. Hong Kong, China. 
+Kementchedjhieva, Yova; Hartmann, Mareike; Søgaard, Anders. 2019. Lost in Evaluation: Misleading Benchmarks for Bilingual Dictionary Induction. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2019. Hong Kong, China. [PDF](https://www.aclweb.org/anthology/D19-1328.pdf)
 
-Barrett, Maria; Kementchedjhieva, Yova; Elazar, Yanai; Elliott, Desmond; Søgaard, Anders. 2019. Adversarial Removal of Demographic Attributes Revisited. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2019. Hong Kong, China. 
+Barrett, Maria; Kementchedjhieva, Yova; Elazar, Yanai; Elliott, Desmond; Søgaard, Anders. 2019. Adversarial Removal of Demographic Attributes Revisited. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2019. Hong Kong, China. [PDF](https://www.aclweb.org/anthology/D19-1662.pdf)
 
-Abdou, Mostafa; Kulmizev, Artur; Hill, Felix; Low, Daniel; Søgaard, Anders. 2019. Higher-order Comparisons of Sentence Encoder Representations. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2019. Hong Kong, China. [ArXiv](https://arxiv.org/pdf/1909.00303.pdf)
+Abdou, Mostafa; Kulmizev, Artur; Hill, Felix; Low, Daniel; Søgaard, Anders. 2019. Higher-order Comparisons of Sentence Encoder Representations. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2019. Hong Kong, China. [PDF](https://www.aclweb.org/anthology/D19-1593.pdf) [ArXiv](https://arxiv.org/pdf/1909.00303.pdf)
 
 Vania, Clara; Kementchedjhieva, Yova; Søgaard, Anders; Lopez, Adam. 2019. A systematic comparison of methods for low-resource dependency parsing on genuinely low-resource languages. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2019. Hong Kong, China. [ArXiv](https://arxiv.org/pdf/1909.02857.pdf)
 
 Abdou, Mostafa; Sas, Cezar; Aralikatte, Rahul; Augenstein, Isabelle; Søgaard, Anders. 2019. X-WikiRE: A Large, Multilingual Resource for Relation Extraction as Machine Comprehension. Workshop on Deep Learning Approaches for Low-Resource NLP, EMNLP 2019. [ArXiv](https://arxiv.org/pdf/1908.05111.pdf)
 
-Bollmann, Marcel; Korchagina, Natalia; Søgaard, Anders. 2019. Few-Shot and Zero-Shot Learning for Historical Text Normalization. Workshop on Deep Learning Approaches for Low-Resource NLP, EMNLP 2019.
+Bollmann, Marcel; Korchagina, Natalia; Søgaard, Anders. 2019. Few-Shot and Zero-Shot Learning for Historical Text Normalization. Workshop on Deep Learning Approaches for Low-Resource NLP, EMNLP 2019. [PDF](https://www.aclweb.org/anthology/D19-6112.pdf)
 
-Beloucif, Meriem; Gonzalez, Ana Valeria; Bollmann, Marcel; Søgaard, Anders. 2019. Naive regularizers for low-resource neural machine translation. Recent Advances in Natural Language Processing 2019. Borovets, Bulgaria.
+Beloucif, Meriem; Gonzalez, Ana Valeria; Bollmann, Marcel; Søgaard, Anders. 2019. Naive regularizers for low-resource neural machine translation. Recent Advances in Natural Language Processing 2019. Borovets, Bulgaria. [PDF](https://www.aclweb.org/anthology/R19-1013.pdf)
 
 Søgaard, Anders; Vulic, Ivan; Ruder, Sebastian; Faruqui, Manaal. Cross-lingual word embeddings. Morgan & Claypool. [PDF](https://www.morganclaypool.com/doi/abs/10.2200/S00920ED2V01Y201904HLT042)
 
@@ -65,7 +65,7 @@ Hartmann, Mareike; Jansen, Tallulah; Augenstein, Isabelle; Søgaard, Anders. 201
 
 Vilares, David; Abdou, Mostafa; Søgaard, Anders. 2019. Better, faster, stronger sequence tagging constituent parsers. North American Chapter of the Association for Computational Linguistics (NAACL). Minneapolis, Minnesota. [PDF](https://www.aclweb.org/anthology/N19-1341)
 
-Gonzalez-Garduno, Ana Valeria; Petrén Bach Hansen, Victor; Bingel, Joachim; Søgaard, Anders. 2019. CoAStaL at SemEval-2019 Task 3: Affect Classification in Dialogue using Attentive BiLSTMs. The 13th International Workshop on Semantic Evaluation (SemEval). Minneapolis, Minnesota. 
+Gonzalez-Garduno, Ana Valeria; Petrén Bach Hansen, Victor; Bingel, Joachim; Søgaard, Anders. 2019. CoAStaL at SemEval-2019 Task 3: Affect Classification in Dialogue using Attentive BiLSTMs. The 13th International Workshop on Semantic Evaluation (SemEval). Minneapolis, Minnesota. [PDF](https://www.aclweb.org/anthology/S19-2026.pdf)
 
 Rei, Marek; Søgaard, Anders. 2019. Jointly learning to label sentences and tokens. The 33rd AAAI Conference on Artificial Intelligence (AAAI). Honolulu, Hawaii. [Arxiv](https://arxiv.org/pdf/1811.05949.pdf)
 
