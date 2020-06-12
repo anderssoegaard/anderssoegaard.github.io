@@ -1,8 +1,5 @@
 ## Anders Søgaard
-Professor in Natural Language Processing and Machine Learning, Dpt. of Computer Science, University of Copenhagen.
-
-### News
-I am currently a visiting scientist at Google, Berlin. 
+Professor in Natural Language Processing and Machine Learning, Dpt. of Computer Science, University of Copenhagen. Previously at University of Potsdam, Amazon and Google Research. 
 
 ## Publications
 
