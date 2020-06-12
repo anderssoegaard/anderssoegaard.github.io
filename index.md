@@ -400,13 +400,13 @@ Maier, Wolfgang; Søgaard, Anders. 2008. Treebanks and mild context-sensitivity.
 Søgaard, Anders. 2008. Learning context-sensitive synchronous rules. The 13th Annual Conference on the European Association for Machine Translation (EAMT). Hamburg, Germany. Pp. 170-175. 
 
 ### 2007
-Søgaard, Anders; Haugereid, Petter. 2007. A tractable typed feature structure grammar for Mainland Scandinavian. Nordic Journal of Linguistics 30(1): 87-128. (ERIH Category: B)
+Søgaard, Anders; Haugereid, Petter. 2007. A tractable typed feature structure grammar for Mainland Scandinavian. Nordic Journal of Linguistics 30(1): 87-128. [Link](https://www.cambridge.org/core/journals/nordic-journal-of-linguistics/article/tractable-typed-feature-structure-grammar-for-mainland-scandinavian/120C5B937749E9084889F98D8FB0F624)
 
-Søgaard, Anders. 2007. The grammaticalization and disappearance of adpositions in nominal compounds. California Linguistic Notes 17(2): 1-24.
+Søgaard, Anders. 2007. The grammaticalization and disappearance of adpositions in nominal compounds. California Linguistic Notes 17(2): 1-24. [PDF](http://english.fullerton.edu/publications/clnArchives/pdf/sogaard_a.pdf)
 
-Søgaard, Anders; Lichte, Timm; Maier, Wolfgang. 2007. On the complexity of linguistically motivated extensions of tree-adjoining grammar. Recent Advances in Natural Language Processing 2007. Borovets, Bulgaria. [ResearchGate](https://www.researchgate.net/publication/272350084_On_the_complexity_of_linguistically_motivated_extensions_of_tree-adjoining_grammar)
+Søgaard, Anders; Lichte, Timm; Maier, Wolfgang. 2007. On the complexity of linguistically motivated extensions of tree-adjoining grammar. Recent Advances in Natural Language Processing 2007. Borovets, Bulgaria. [PDF](https://user.phil.hhu.de/~lichte/pub/Sogaard-etal-07.pdf)
 
-Søgaard, Anders. 2007. Operations on polyadic structures. Model-theoretic syntax @ 10, the 19th European Summer School on Logic, Language and Information. Dublin, Ireland.
+Søgaard, Anders. 2007. Operations on polyadic structures. Model-theoretic syntax @ 10, the 19th European Summer School on Logic, Language and Information. Dublin, Ireland. [PDF](https://pdfs.semanticscholar.org/cc45/e1f849a1de08272fdee2037a2c47c20fb55e.pdf?_ga=2.60491373.1507244379.1591993005-1714212771.1571394157)
 
 Søgaard, Anders. 2007. Complexity of conceptual integration. The 10th International Cognitive Linguistics Conference. Krakow, Poland.
 
@@ -425,7 +425,7 @@ Søgaard, Anders. 2006. Computational semantics as reasoning about programs. Sou
 
 Søgaard, Anders. 2006. The semantics of possession in natural language and knowledge representation. Journal of Universal Language 6(2): 85-115.
 
-Søgaard, Anders. 2006. Model generation in a dynamic environment. Takashi Washio, Akito Sakurai, Satoshi Tojo and Makoto Yokoo (eds.), New Frontiers in Artificial Intelligence. Berlin: Springer. Pp. 126-133.
+Søgaard, Anders. 2006. Model generation in a dynamic environment. Takashi Washio, Akito Sakurai, Satoshi Tojo and Makoto Yokoo (eds.), New Frontiers in Artificial Intelligence. Berlin: Springer. Pp. 126-133. [Link](https://link.springer.com/chapter/10.1007/11780496_15)
 
 Søgaard, Anders. 2006. Unification-based grammars and complexity classes. 8. Konferenz zur Verarbeitung natürlicher Sprache. Konstanz, Germany. Pp. 137-142.
 
@@ -436,7 +436,7 @@ Søgaard, Anders. 2006. Logical investigations on the adequacy of certain featur
 ### 2005
 Søgaard, Anders. 2005. Update semantics for HPSG grammars. H. Holmboe (ed.), Nordisk Sprogteknologi 2005. Copenhagen: Museum Tusculanum. Pp. 167-72.
 
-Søgaard, Anders. 2005. Compounding theories and linguistic diversity. Zygmunt Frajzyngier, Adam Hodges and David S. Rood (eds.), Linguistic diversity and language theories. Amsterdam: John Benjamins. Pp. 319-37.
+Søgaard, Anders. 2005. Compounding theories and linguistic diversity. Zygmunt Frajzyngier, Adam Hodges and David S. Rood (eds.), Linguistic diversity and language theories. Amsterdam: John Benjamins. Pp. 319-37. [Google Books](https://books.google.de/books?id=P8Gr3VOK7KoC&pg=PA319#v=onepage&q&f=false)
 
 Søgaard, Anders; Haugereid, Petter. 2005. A brief documentation of a computational HPSG grammar specifying (most of) the common subset of linguistic types for Danish, Norwegian and Swedish. H. Holmboe (ed.), Nordisk Sprogteknologi 2004. Copenhagen: Museum Tusculanum. Pp. 247-56.
 
@@ -444,7 +444,7 @@ Søgaard, Anders. 2005. Where does the meaning of compounds and possessives come
 
 Søgaard, Anders. 2005. Computing sense and reference. Computing and Philosophy 2005. Västerås, Sweden.
 
-Søgaard, Anders; Haugereid, Petter. 2005. Functionality in grammar design. Stefan Werner (ed.), Proceedings of The 15th Nordic Conference of Computational Linguistics. Joensuu: University of Joensuu Electronic Publications in Linguistics and Language Technology, vol. 1. Pp. 193-202.
+Søgaard, Anders; Haugereid, Petter. 2005. Functionality in grammar design. The 15th Nordic Conference of Computational Linguistics (NODALIDA). Joensuu, Finland. [PDF](https://www.aclweb.org/anthology/W05-1727.pdf)
 
 Søgaard, Anders. 2005. Model generation in a dynamic environment. Proceedings of Logic and Engineering of Natural Language Semantics 2005. Kitakyushu, Japan. [Springer](https://link.springer.com/chapter/10.1007/11780496_15)
 
