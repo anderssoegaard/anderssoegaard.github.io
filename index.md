@@ -10,20 +10,20 @@ I am currently a visiting scientist at Google, Berlin.
 
 Abdou, Mostafa; Ravishankar, Vinit; Barrett, Maria; Belinkov, Yonatan; Elliott, Desmond; Søgaard, Anders. 2020. The Sensitivity of Language Models and Humans to Winograd Schema Perturbations. The 57th Annual Meeting of the Association for Computational Linguistics (ACL). Seattle, Washington. 
 
-Petrén Bach Hansen, Victor; Søgaard, Anders. 2020. What Do You Mean 'Why?': Resolving Sluices in Conversations. The 34th AAAI Conference on Artificial Intelligence (AAAI). New York, New York. 
+Petrén Bach Hansen, Victor; Søgaard, Anders. 2020. What Do You Mean 'Why?': Resolving Sluices in Conversations. The 34th AAAI Conference on Artificial Intelligence (AAAI). New York, New York. [PDF](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-HansenV.5095.pdf)
 
-Kann, Katharina; Lacroix, Ophelie; Søgaard, Anders. 2020. Weakly Supervised POS Taggers Perform Poorly on Truly Low-Resource Languages. The 34th AAAI Conference on Artificial Intelligence (AAAI). New York, New York.
+Kann, Katharina; Lacroix, Ophelie; Søgaard, Anders. 2020. Weakly Supervised POS Taggers Perform Poorly on Truly Low-Resource Languages. The 34th AAAI Conference on Artificial Intelligence (AAAI). New York, New York. [ArXiv](https://arxiv.org/abs/2004.13305)
 
-Vilares, David; Strzyz, Michalina; Søgaard, Anders; Gomez-Rodriquez, Carlos. 2020. Parsing as pretraining. The 34th AAAI Conference on Artificial Intelligence (AAAI). New York, New York.
+Vilares, David; Strzyz, Michalina; Søgaard, Anders; Gomez-Rodriquez, Carlos. 2020. Parsing as pretraining. The 34th AAAI Conference on Artificial Intelligence (AAAI). New York, New York. [ArXiv](https://arxiv.org/abs/2002.01685) [GitHub](https://github.com/aghie/parsing-as-pretraining)
 
-Sas, Cezar; Beloucif, Meriem; Søgaard, Anders. 2020. WikiBank: Using Wikidata to Improve Multilingual Frame-Semantic Parsing. The 12th International Conference on Language Resources and Evaluation (LREC). Marseille, France.
+Sas, Cezar; Beloucif, Meriem; Søgaard, Anders. 2020. WikiBank: Using Wikidata to Improve Multilingual Frame-Semantic Parsing. The 12th International Conference on Language Resources and Evaluation (LREC). Marseille, France. [PDF](https://www.aclweb.org/anthology/2020.lrec-1.515.pdf)
 
-Aralikatte, Rahul; Søgaard, Anders. 2020. Model-based annotation of coreference. The 12th International Conference on Language Resources and Evaluation (LREC). Marseille, France. 
+Aralikatte, Rahul; Søgaard, Anders. 2020. Model-based annotation of coreference. The 12th International Conference on Language Resources and Evaluation (LREC). Marseille, France. [PDF](https://www.aclweb.org/anthology/2020.lrec-1.9.pdf)
 
-Hvingelby, Rasmus; Paul, Amalie Brogaard; Barrett, Maria; Rosted, Christina; Lidegaard, Lasse Malm; Søgaard, Anders. 2020. DaNE: A Named Entity Resource for Danish. The 12th International Conference on Language Resources and Evaluation (LREC). Marseille, France. 
+Hvingelby, Rasmus; Paul, Amalie Brogaard; Barrett, Maria; Rosted, Christina; Lidegaard, Lasse Malm; Søgaard, Anders. 2020. DaNE: A Named Entity Resource for Danish. The 12th International Conference on Language Resources and Evaluation (LREC). Marseille, France. [PDF](https://www.aclweb.org/anthology/2020.lrec-1.565.pdf)
 
 ### 2019
-Hartmann, Mareike; Kementchedjhieva, Yova; Søgaard. Anders. 2019. Comparing Unsupervised Word Translation Methods Step by Step. The 33rd Conference on Neural Information Processing Systems (NeurIPS 2019). Vancouver, Canada. 
+Hartmann, Mareike; Kementchedjhieva, Yova; Søgaard. Anders. 2019. Comparing Unsupervised Word Translation Methods Step by Step. The 33rd Conference on Neural Information Processing Systems (NeurIPS 2019). Vancouver, Canada. [PDF](https://papers.nips.cc/paper/8836-comparing-unsupervised-word-translation-methods-step-by-step.pdf)
 
 Bingel, Joachim; Petrén Bach Hansen, Victor; Gonzalez, Ana Valeria; Budzianowski, Pavel; Augenstein, Isabelle; Søgaard, Anders. 2019. Domain Transfer in Dialogue Systems without Turn-Level Supervision. The 3rd NeurIPS workshop on Conversational AI: Today's Practice and Tomorrow's Potential. Vancouver, Canada. [ArXiv](https://arxiv.org/abs/1909.07101)
 
