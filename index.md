@@ -310,76 +310,76 @@ Søgaard, Anders; Johannsen, Anders. 2012. Robust learning in random subspaces: 
 
 Søgaard, Anders; Wulff, Julie. 2012. An empirical study of non-lexical extensions to delexicalized transfer. The 24th International Conference on Computational Linguistics (COLING). Mumbai, India.
 
-Søgaard, Anders. 2012. Mining wisdom. Computational Linguistics in Literature, Nothern American Chapter of the Association of Computational Linguistics (NAACL). Montreal, Canada.
+Søgaard, Anders. 2012. Mining wisdom. Computational Linguistics in Literature, Nothern American Chapter of the Association of Computational Linguistics (NAACL). Montreal, Canada. [PDF](https://www.aclweb.org/anthology/W12-2507.pdf)
 
-Søgaard, Anders. 2012. Two baselines for unsupervised dependency parsing. Workshop on Inducing Linguistic Structure, North American Chapter of the Association of Computational Linguistics (NAACL). Montreal, Canada.
+Søgaard, Anders. 2012. Two baselines for unsupervised dependency parsing. Workshop on Inducing Linguistic Structure, North American Chapter of the Association of Computational Linguistics (NAACL). Montreal, Canada. [PDF](https://www.aclweb.org/anthology/W12-1910.pdf)
 
-Johannsen, Anders; Martinez, Hector; Klerke, Sigrid; Søgaard, Anders. 2012. EMNLP@CPH: Is frequency all there is to simplicity? SemEval-2012, 1st Joint Conference on Lexical and Computational Semantics. Montreal, Canada.
+Johannsen, Anders; Martinez, Hector; Klerke, Sigrid; Søgaard, Anders. 2012. EMNLP@CPH: Is frequency all there is to simplicity? SemEval-2012, 1st Joint Conference on Lexical and Computational Semantics. Montreal, Canada. [PDF](https://www.aclweb.org/anthology/S12-1054.pdf)
 
 Nisbeth, Niklas; Søgaard, Anders. 2012. Parser combination under sample bias. SPLeT, Language Resources and Evaluation Conference. Istanbul, Turkey.
 
-Klerke, Sigrid; Søgaard, Anders. 2012. DSim, a Danish parallel corpus for text simplification. The 8th International Conference on Language Resources and Evaluation. Istanbul, Turkey.
+Klerke, Sigrid; Søgaard, Anders. 2012. DSim, a Danish parallel corpus for text simplification. The 8th International Conference on Language Resources and Evaluation. Istanbul, Turkey. [PDF](http://www.lrec-conf.org/proceedings/lrec2012/pdf/270_Paper.pdf)
 
-Søgaard, Anders; Kristiansen, Søren Lind. 2012. Using hybrid logic for querying dependency treebanks. Linguistic Issues in Language Technology 7(5).
+Søgaard, Anders; Kristiansen, Søren Lind. 2012. Using hybrid logic for querying dependency treebanks. Linguistic Issues in Language Technology 7(5). [Link](https://journals.linguisticsociety.org/elanguage/lilt/article/view/2687.html)
 
-Plank, Barbara; Søgaard, Anders. 2012. Parsing the web as covariate shift. First Workshop on Syntactic Analysis of Non-Canonical Language, NAACL 2012. Montreal, Canada.
+Plank, Barbara; Søgaard, Anders. 2012. Parsing the web as covariate shift. First Workshop on Syntactic Analysis of Non-Canonical Language, NAACL 2012. Montreal, Canada. [PDF)(https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxzYW5jbDIwMTJ8Z3g6Njg1NTU0NTM5ZjdlMWMwMQ)
 
-Plank, Barbara; Søgaard, Anders. 2012. Experiments in newswire-to-law adaptation of graph-based dependency parsers. 8* Convegno Nazionale dell'Associazione Italiana di Scienze della Voce. Rome, Italy.
+Plank, Barbara; Søgaard, Anders. 2012. Experiments in newswire-to-law adaptation of graph-based dependency parsers. 8* Convegno Nazionale dell'Associazione Italiana di Scienze della Voce. Rome, Italy. [Link](https://link.springer.com/chapter/10.1007/978-3-642-35828-9_8)
 
 ### 2011
-Søgaard, Anders. 2011. A O(|G|n^6) time extension of inversion transduction grammars. Machine Translation 25(4):291-315.
+Søgaard, Anders. 2011. A O(|G|n^6) time extension of inversion transduction grammars. Machine Translation 25(4):291-315. [Link](https://link.springer.com/article/10.1007/s10590-011-9107-8)
 
-Søgaard, Anders; Haulrich, Martin. 2011. Sentence-level instance-weighting for graph-based and transition-based dependency parsing. The 12th International Conference on Parsing Technologies (IWPT). Dublin, Ireland.
+Søgaard, Anders; Haulrich, Martin. 2011. Sentence-level instance-weighting for graph-based and transition-based dependency parsing. The 12th International Conference on Parsing Technologies (IWPT). Dublin, Ireland. [PDF](https://www.aclweb.org/anthology/W11-2906.pdf)
 
-Søgaard, Anders. 2011. Semi-supervised condensed nearest neighbor for part-of-speech tagging. The 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies (ACL-HLT). Portland, Oregon. Nominated for Best Short Paper Award.
+Søgaard, Anders. 2011. Semi-supervised condensed nearest neighbor for part-of-speech tagging. The 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies (ACL-HLT). Portland, Oregon. <b>Nominated for Best Short Paper Award.</b> [PDF](https://www.aclweb.org/anthology/P11-2009.pdf)
 
-Søgaard, Anders. 2011. Data point selection for cross-language adaptation of dependency parsers. The 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies (ACL-HLT). Portland, Oregon.
+Søgaard, Anders. 2011. Data point selection for cross-language adaptation of dependency parsers. The 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies (ACL-HLT). Portland, Oregon. [PDF](https://www.aclweb.org/anthology/P11-2120.pdf)
 
-Johannsen, Anders; Martinez, Hector; Rishøj, Christian; Søgaard, Anders. 2011. Frustratingly hard compositionality prediction. Distributional Semantics and Compositionality, the 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies (ACL-HLT). Portland, Oregon. 
+Johannsen, Anders; Martinez, Hector; Rishøj, Christian; Søgaard, Anders. 2011. Frustratingly hard compositionality prediction. Distributional Semantics and Compositionality, the 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies (ACL-HLT). Portland, Oregon. [PDF](https://www.aclweb.org/anthology/W11-1305.pdf)
 
-Søgaard, Anders. 2011. From ranked words to dependency trees: two-stage unsupervised non-projective dependency parsing. TextGraphs-6: Graph-based Methods for Natural Language Processing, the 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies (ACL-HLT). Portland, Oregon. Errata: The assertion that the algorithm described in the paper does not guarantee projectivity (p. 65) is not true.
+Søgaard, Anders. 2011. From ranked words to dependency trees: two-stage unsupervised non-projective dependency parsing. TextGraphs-6: Graph-based Methods for Natural Language Processing, the 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies (ACL-HLT). Portland, Oregon. [PDF](https://www.aclweb.org/anthology/W11-1109.pdf) Errata: The assertion that the algorithm described in the paper does not guarantee projectivity (p. 65) is not true.
 
-Rishøj, Christian; Søgaard, Anders. 2011. Factored translation using unsupervised word clusters. The 6th Workshop on Statistical Machine Translation, Conference on Empirical Methods in Natural Language Processing (EMNLP). Scotland, Edinburgh.
+Rishøj, Christian; Søgaard, Anders. 2011. Factored translation using unsupervised word clusters. The 6th Workshop on Statistical Machine Translation, Conference on Empirical Methods in Natural Language Processing (EMNLP). Scotland, Edinburgh. [PDF](https://www.aclweb.org/anthology/W11-2155.pdf)
 
-Søgaard, Anders. 2011. Using graphical models for PP attachment. The 18th Nordic Conference on Computational Linguistics. Riga, Latvia.
+Søgaard, Anders. 2011. Using graphical models for PP attachment. The 18th Nordic Conference on Computational Linguistics (NODALIDA). Riga, Latvia. [PDF](https://www.aclweb.org/anthology/W11-4628.pdf)
 
 Søgaard, Anders. 2011. Learning grammatical functions in a realistic way. The 3rd Conference of the Scandinavian Association for Language and Cognition. Copenhagen, Denmark.
 
 Søgaard, Anders. 2011. Cable television; Fanzines; Functionalist theories; Journalism. In Marcel Danesi (ed.), Encyclopedia of Media and Communication. Toronto: University of Toronto Press.
 
 ### 2010
-Søgaard, Anders; Rishøj, Christian. 2010. Semi-supervised dependency parsing using generalized tri-training. The 23rd International Conference on Computational Linguistics (COLING). Beijing, China.
+Søgaard, Anders; Rishøj, Christian. 2010. Semi-supervised dependency parsing using generalized tri-training. The 23rd International Conference on Computational Linguistics (COLING). Beijing, China. [PDF](https://www.aclweb.org/anthology/C10-1120.pdf)
 
-Søgaard, Anders. 2010. Simple semi-supervised training of part-of-speech taggers. The 48th Annual Meeting of the Association for Computational Linguistics (ACL). Uppsala, Sweden. 
+Søgaard, Anders. 2010. Simple semi-supervised training of part-of-speech taggers. The 48th Annual Meeting of the Association for Computational Linguistics (ACL). Uppsala, Sweden. [PDF](https://www.aclweb.org/anthology/P10-2038.pdf)
 
-Søgaard, Anders; Rishøj, Christian. 2010. The effect of semi-supervised learning on parsing long distance dependencies in German and Swedish. The 7th International Conference on Natural Language Processing (IceTAL). Reykjavik, Iceland. 
+Søgaard, Anders; Rishøj, Christian. 2010. The effect of semi-supervised learning on parsing long distance dependencies in German and Swedish. The 7th International Conference on Natural Language Processing (IceTAL). Reykjavik, Iceland. [Link](https://link.springer.com/chapter/10.1007/978-3-642-14770-8_44)
 
-Søgaard, Anders; Johannsen, Anders. 2010. Robust semi-supervised and ensemble-based methods in word sense disambiguation. The 7th International Conference on Natural Language Processing (IceTAL). Reykjavik, Iceland. 
+Søgaard, Anders; Johannsen, Anders. 2010. Robust semi-supervised and ensemble-based methods in word sense disambiguation. The 7th International Conference on Natural Language Processing (IceTAL). Reykjavik, Iceland. [Link](https://link.springer.com/chapter/10.1007/978-3-642-14770-8_43)
 
 Kristiansen, Søren Lind; Søgaard, Anders. 2010. Querying dependency treebanks in hybrid logic. Hybrid Logic and Applications, The 25th Annual IEEE Symposium on Logic in Computer Science (LICS). Edinburgh, Scotland.
 
-Søgaard, Anders. 2010. Can inversion transduction grammars generate hand alignments? The 14th Annual Conference of the European Association for Machine Translation (EAMT). St. Raphael, France. Errata: The numbers in Figure 4 are incorrect. Email me for correct numbers.
+Søgaard, Anders. 2010. Can inversion transduction grammars generate hand alignments? The 14th Annual Conference of the European Association for Machine Translation (EAMT). St. Raphael, France. [PDF](https://pdfs.semanticscholar.org/2f6f/4d63ad12af0507f92911feb55e92158ebc27.pdf?_ga=2.224997082.1507244379.1591993005-1714212771.1571394157) Errata: The numbers in Figure 4 are incorrect. 
 
-Søgaard, Anders; Haulrich, Martin. 2010. On the derivation perplexity of treebanks. Treebanks and Linguistic Theories 9. Riga, Latvia.
+Søgaard, Anders; Haulrich, Martin. 2010. On the derivation perplexity of treebanks. Treebanks and Linguistic Theories 9. Riga, Latvia. [PDF](https://dspace.ut.ee/bitstream/handle/10062/15964/tlt9_submission_4.pdf?sequence=1&isAllowed=y)
 
 ### 2009
-Søgaard, Anders; Lange, Martin. 2009. Polyadic dynamic logics for HPSG parsing. Journal of Logic, Language and Information 18(2): 159-198. (ERIH Category: A)
+Søgaard, Anders; Lange, Martin. 2009. Polyadic dynamic logics for HPSG parsing. Journal of Logic, Language and Information 18(2): 159-198. [Link](https://link.springer.com/article/10.1007/s10849-008-9061-x)
 
-Søgaard, Anders; Wu, Dekai. 2009. Empirical lower bounds on translation unit error rate for the full class of inversion transduction grammars. The 11th International Conference on Parsing Technologies (IWPT). Paris, France.
+Søgaard, Anders; Wu, Dekai. 2009. Empirical lower bounds on translation unit error rate for the full class of inversion transduction grammars. The 11th International Conference on Parsing Technologies (IWPT). Paris, France. [PDF](https://www.aclweb.org/anthology/W09-3805.pdf)
 
-Søgaard, Anders; Kuhn, Jonas. 2009. Using a maximum entropy-based tagger to improve a very fast vine parser. The 11th International Conference on Parsing Technologies (IWPT). Paris, France.
+Søgaard, Anders; Kuhn, Jonas. 2009. Using a maximum entropy-based tagger to improve a very fast vine parser. The 11th International Conference on Parsing Technologies (IWPT). Paris, France. [PDF](https://www.aclweb.org/anthology/W09-3831.pdf)
 
-Søgaard, Anders; Kuhn, Jonas. 2009. Empirical lower bounds on aligment error rates in syntax-based machine translation. The 3rd Workshop on Syntax and Structure in Statistical Translation, North American Chapter of the Association for Computational Linguistics - Human Language Technologies (NAACL-HLT) 2009. Boulder, Colorado. 
+Søgaard, Anders; Kuhn, Jonas. 2009. Empirical lower bounds on aligment error rates in syntax-based machine translation. The 3rd Workshop on Syntax and Structure in Statistical Translation, North American Chapter of the Association for Computational Linguistics - Human Language Technologies (NAACL-HLT) 2009. Boulder, Colorado. [PDF](https://www.aclweb.org/anthology/W09-2303.pdf)
 
-Søgaard, Anders. 2009. On the complexity of alignment problems in two synchronous grammar formalisms. The 3rd Workshop on Syntax and Structure in Statistical Translation, North American Chapter of the Association for Computational Linguistics - Human Language Technologies (NAACL-HLT) 2009. Boulder, Colorado. 
+Søgaard, Anders. 2009. On the complexity of alignment problems in two synchronous grammar formalisms. The 3rd Workshop on Syntax and Structure in Statistical Translation, North American Chapter of the Association for Computational Linguistics - Human Language Technologies (NAACL-HLT) 2009. Boulder, Colorado. [PDF](https://www.aclweb.org/anthology/W09-2308.pdf)
 
-Søgaard, Anders; Østerskov, Stine. 2009. On definitions of consciousness. Journal of Consciousness Studies.
+Søgaard, Anders; Østerskov, Stine. 2009. On definitions of consciousness. Journal of Consciousness Studies. [Link](https://philpapers.org/rec/SOGODO)
 
-Søgaard, Anders. 2009. Compound constructions: a reply to Bundgaard et al. Semiotica: Journal of the International Association for Semiotic Studies 169(1): 163-169. (ERIH Category: A)
+Søgaard, Anders. 2009. Compound constructions: a reply to Bundgaard et al. Semiotica: Journal of the International Association for Semiotic Studies 169(1): 163-169. [Link](https://www.degruyter.com/view/journals/semi/2008/169/article-p189.xml?language=de)
 
-Søgaard, Anders. 2009. Ensemble-based POS tagging of Italian. The 11th Conference of the Italian Association for Artificial Intelligence, EVALITA. Reggio Emilia, Italy.
+Søgaard, Anders. 2009. Ensemble-based POS tagging of Italian. The 11th Conference of the Italian Association for Artificial Intelligence, EVALITA. Reggio Emilia, Italy. [PDF](https://pdfs.semanticscholar.org/5f7c/ca4763c3646b09877d97091851c44d6a9329.pdf?_ga=2.69356496.1507244379.1591993005-1714212771.1571394157)
 
-Søgaard, Anders; Rishøj, Christian. 2009. Vine parsing augmented Italian treebanks. The 11th Conference of the Italian Association for Artificial Intelligence, EVALITA. Reggio Emilia, Italy.
+Søgaard, Anders; Rishøj, Christian. 2009. Vine parsing augmented Italian treebanks. The 11th Conference of the Italian Association for Artificial Intelligence, EVALITA. Reggio Emilia, Italy. [PDF](https://pdfs.semanticscholar.org/ad61/b42ce8917d22c56712222aaffa38deda97c9.pdf)
 
 Søgaard, Anders. 2009. A linear time extension of deterministic pushdown automata. The 17th Nordic Conference on Computational Linguistics. Odense, Denmark. [PDF](https://www.aclweb.org/anthology/W09-4626.pdf)
 
@@ -391,13 +391,13 @@ Søgaard, Anders; Haugereid, Petter. 2009. Introduction. In Anders Søgaard and 
 Søgaard, Anders. 2009. From unordered context-free grammar to polysize HPSG without moving. In Anders Søgaard and Petter Haugereid (eds.), Typed feature structure grammars. Berlin: Peter Lang.
 
 ### 2008
-Søgaard, Anders. 2008. Range concatenation grammars for translation. The 22nd International Conference on Computational Linguistics (COLING). Manchester, England. Pp. 103-106. 
+Søgaard, Anders. 2008. Range concatenation grammars for translation. The 22nd International Conference on Computational Linguistics (COLING). Manchester, England. [PDF](https://www.aclweb.org/anthology/C08-2026.pdf)
 
 Søgaard, Anders. 2008. On the weak generative capacity of weighted context-free grammars. The 22nd International Conference on Computational Linguistics (COLING). Manchester, England. [PDF](https://www.aclweb.org/anthology/C08-2025.pdf)
 
-Maier, Wolfgang; Søgaard, Anders. 2008. Treebanks and mild context-sensitivity. The 13th Conference on Formal Grammar. Hamburg, Germany. Pp. 61-76. 
+Maier, Wolfgang; Søgaard, Anders. 2008. Treebanks and mild context-sensitivity. The 13th Conference on Formal Grammar. Hamburg, Germany. [PDF](https://web.stanford.edu/group/cslipublications/cslipublications/FG/2008/maier.pdf)
 
-Søgaard, Anders. 2008. Learning context-sensitive synchronous rules. The 13th Annual Conference on the European Association for Machine Translation (EAMT). Hamburg, Germany. Pp. 170-175. 
+Søgaard, Anders. 2008. Learning context-sensitive synchronous rules. The 13th Annual Conference on the European Association for Machine Translation (EAMT). Hamburg, Germany. [PDF](http://www.mt-archive.info/EAMT-2008-Sogaard.pdf)
 
 ### 2007
 Søgaard, Anders; Haugereid, Petter. 2007. A tractable typed feature structure grammar for Mainland Scandinavian. Nordic Journal of Linguistics 30(1): 87-128. [Link](https://www.cambridge.org/core/journals/nordic-journal-of-linguistics/article/tractable-typed-feature-structure-grammar-for-mainland-scandinavian/120C5B937749E9084889F98D8FB0F624)
@@ -446,7 +446,7 @@ Søgaard, Anders. 2005. Computing sense and reference. Computing and Philosophy 
 
 Søgaard, Anders; Haugereid, Petter. 2005. Functionality in grammar design. The 15th Nordic Conference of Computational Linguistics (NODALIDA). Joensuu, Finland. [PDF](https://www.aclweb.org/anthology/W05-1727.pdf)
 
-Søgaard, Anders. 2005. Model generation in a dynamic environment. Proceedings of Logic and Engineering of Natural Language Semantics 2005. Kitakyushu, Japan. [Springer](https://link.springer.com/chapter/10.1007/11780496_15)
+Søgaard, Anders. 2005. Model generation in a dynamic environment. Proceedings of Logic and Engineering of Natural Language Semantics 2005. Kitakyushu, Japan. 
 
 Søgaard, Anders. 2005. Extending the HPSG Grammar Matrix with richer lexical semantics. Proceedings of The 3rd International Workshop on Generative Approaches to the Lexicon. Geneva, Switzerland.
 
