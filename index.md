@@ -381,9 +381,10 @@ Søgaard, Anders. 2009. Ensemble-based POS tagging of Italian. The 11th Conferen
 
 Søgaard, Anders; Rishøj, Christian. 2009. Vine parsing augmented Italian treebanks. The 11th Conference of the Italian Association for Artificial Intelligence, EVALITA. Reggio Emilia, Italy.
 
-Søgaard, Anders. 2009. A linear time extension of deterministic pushdown automata. The 17th Nordic Conference on Computational Linguistics. Odense, Denmark.
+Søgaard, Anders. 2009. A linear time extension of deterministic pushdown automata. The 17th Nordic Conference on Computational Linguistics. Odense, Denmark. [PDF](https://www.aclweb.org/anthology/W09-4626.pdf)
 
-Søgaard, Anders. 2009. Cubic time querying of treebanks for nonlocal multicomponent tree-adjoining grammar and head-driven phrase structure grammar. The 17th Nordic Conference on Computational Linguistics. Odense, Denmark.
+Søgaard, Anders. 2009. Verifying context-sensitive treebanks and heuristic parses
+in polynomial time. The 17th Nordic Conference on Computational Linguistics (NODALIDA). Odense, Denmark. [PDF](https://www.aclweb.org/anthology/W09-4627.pdf)
 
 Søgaard, Anders; Haugereid, Petter. 2009. Introduction. In Anders Søgaard and Petter Haugereid (eds.), Typed feature structure grammars. Berlin: Peter Lang.
 
@@ -392,7 +393,7 @@ Søgaard, Anders. 2009. From unordered context-free grammar to polysize HPSG wit
 ### 2008
 Søgaard, Anders. 2008. Range concatenation grammars for translation. The 22nd International Conference on Computational Linguistics (COLING). Manchester, England. Pp. 103-106. 
 
-Søgaard, Anders. 2008. On the weak generative capacity of weighted context-free grammars. The 22nd International Conference on Computational Linguistics (COLING). Manchester, England. Pp. 99-102. 
+Søgaard, Anders. 2008. On the weak generative capacity of weighted context-free grammars. The 22nd International Conference on Computational Linguistics (COLING). Manchester, England. [PDF](https://www.aclweb.org/anthology/C08-2025.pdf)
 
 Maier, Wolfgang; Søgaard, Anders. 2008. Treebanks and mild context-sensitivity. The 13th Conference on Formal Grammar. Hamburg, Germany. Pp. 61-76. 
 
@@ -403,13 +404,13 @@ Søgaard, Anders; Haugereid, Petter. 2007. A tractable typed feature structure g
 
 Søgaard, Anders. 2007. The grammaticalization and disappearance of adpositions in nominal compounds. California Linguistic Notes 17(2): 1-24.
 
-Søgaard, Anders; Lichte, Timm; Maier, Wolfgang. 2007. On the complexity of linguistically motivated extensions of tree-adjoining grammar. Recent Advances in Natural Language Processing 2007. Borovets, Bulgaria.
+Søgaard, Anders; Lichte, Timm; Maier, Wolfgang. 2007. On the complexity of linguistically motivated extensions of tree-adjoining grammar. Recent Advances in Natural Language Processing 2007. Borovets, Bulgaria. [ResearchGate](https://www.researchgate.net/publication/272350084_On_the_complexity_of_linguistically_motivated_extensions_of_tree-adjoining_grammar)
 
 Søgaard, Anders. 2007. Operations on polyadic structures. Model-theoretic syntax @ 10, the 19th European Summer School on Logic, Language and Information. Dublin, Ireland.
 
 Søgaard, Anders. 2007. Complexity of conceptual integration. The 10th International Cognitive Linguistics Conference. Krakow, Poland.
 
-Søgaard, Anders. 2007. Polynomial charts for totally unordered languages. Proceedings of the 16th Nordic Conference of Computational Linguistics. Tartu, Estonia. Pp. 183-190.
+Søgaard, Anders. 2007. Polynomial charts for totally unordered languages. Proceedings of the 16th Nordic Conference of Computational Linguistics. Tartu, Estonia. [PDF](https://www.aclweb.org/anthology/W07-2426.pdf)
 
 Søgaard, Anders. 2007. Propositional and first order verification of linguistic structures. Proceedings of the 2nd International Workshop on Typed Feature Structure Grammars. Tartu, Estonia. Pp. 17-24.
 
@@ -428,9 +429,9 @@ Søgaard, Anders. 2006. Model generation in a dynamic environment. Takashi Washi
 
 Søgaard, Anders. 2006. Unification-based grammars and complexity classes. 8. Konferenz zur Verarbeitung natürlicher Sprache. Konstanz, Germany. Pp. 137-142.
 
-Søgaard, Anders. 2006. Embodied construction grammar as layered modal languages. Proceedings of The Joint Human Language Technology Conference and the North American Chapter of the Association of Computational Linguistics 2006, Third International Workshop on Scalable Natural Language Understanding. New York, New York. Pp. 65-72.
+Søgaard, Anders. 2006. Embodied construction grammar as layered modal languages. Proceedings of The Joint Human Language Technology Conference and the North American Chapter of the Association of Computational Linguistics 2006, Third International Workshop on Scalable Natural Language Understanding. New York, New York. [PDF](https://www.aclweb.org/anthology/W06-3509.pdf)
 
-Søgaard, Anders. 2006. Logical investigations on the adequacy of certain feature-based theories of natural language. Proceedings of The Joint Human Language Technology Conference and the North American Chapter of the Association of Computational Linguistics 2006, Doctoral Consortium. New York, New York. Pp. 239-242.
+Søgaard, Anders. 2006. Logical investigations on the adequacy of certain feature-based theories of natural language. Proceedings of The Joint Human Language Technology Conference and the North American Chapter of the Association of Computational Linguistics 2006, Doctoral Consortium. New York, New York. [PDF](https://www.aclweb.org/anthology/N06-3008.pdf)
 
 ### 2005
 Søgaard, Anders. 2005. Update semantics for HPSG grammars. H. Holmboe (ed.), Nordisk Sprogteknologi 2005. Copenhagen: Museum Tusculanum. Pp. 167-72.
@@ -445,12 +446,12 @@ Søgaard, Anders. 2005. Computing sense and reference. Computing and Philosophy 
 
 Søgaard, Anders; Haugereid, Petter. 2005. Functionality in grammar design. Stefan Werner (ed.), Proceedings of The 15th Nordic Conference of Computational Linguistics. Joensuu: University of Joensuu Electronic Publications in Linguistics and Language Technology, vol. 1. Pp. 193-202.
 
-Søgaard, Anders. 2005. Model generation in a dynamic environment. Proceedings of Logic and Engineering of Natural Language Semantics 2005. Kitakyushu, Japan.
+Søgaard, Anders. 2005. Model generation in a dynamic environment. Proceedings of Logic and Engineering of Natural Language Semantics 2005. Kitakyushu, Japan. [Springer](https://link.springer.com/chapter/10.1007/11780496_15)
 
-Søgaard, Anders. 2005. Extending the HPSG Grammar Matrix with richer lexical semantics. Proceedings of The 3rd International Workshop on Generative Approaches to the Lexicon. Geneva, Switzerland. [PDF]
+Søgaard, Anders. 2005. Extending the HPSG Grammar Matrix with richer lexical semantics. Proceedings of The 3rd International Workshop on Generative Approaches to the Lexicon. Geneva, Switzerland.
 
 ### 2004
-Søgaard, Anders. 2004. A compound matrix. Proceedings of The 11th International Conference on Head-Driven Phrase Structure Grammar (HPSG). Leuven, Belgium.
+Søgaard, Anders. 2004. A compound matrix. Proceedings of The 11th International Conference on Head-Driven Phrase Structure Grammar (HPSG). Leuven, Belgium. [PDF](http://web.stanford.edu/group/cslipublications/cslipublications/HPSG/2004/sogaard.pdf)
 
 Søgaard, Anders. 2004. On appropriateness as a relation between ontologies. International Conference on Formal Ontology in Information Systems. Torino, Italy.
 
