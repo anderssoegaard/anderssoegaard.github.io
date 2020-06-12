@@ -203,74 +203,74 @@ Jørgensen, Anna; Søgaard, Anders. 2016. A test suite for evaluating POS tagger
 Søgaard, Anders. 2016. Biases we live by. Nordisk Tidsskrift for Informationsvidenskab og Kulturformidling 5(1): 31-35.
 
 ### 2015
-Søgaard, Anders. 2015. Empirical Gaussian priors for cross-lingual transfer learning. NIPS Workshop on Transfer and Multi-task Learning. Montreal, Canada.
+Søgaard, Anders. 2015. Empirical Gaussian priors for cross-lingual transfer learning. NIPS Workshop on Transfer and Multi-task Learning. Montreal, Canada. [ArXiv](https://arxiv.org/abs/1601.02166)
 
-Barrett, Maria; Agic, Zeljko; Søgaard, Anders. 2015. The Dundee Treebank. Treebanks and Linguistic Theories 14. Warsaw, Poland.
+Barrett, Maria; Agic, Zeljko; Søgaard, Anders. 2015. The Dundee Treebank. Treebanks and Linguistic Theories 14. Warsaw, Poland. [PDF](https://zeljkoagic.github.io/publications/barrett2015-dundee.pdf)
 
-Johannsen, Anders; Martinez, Hector; Søgaard, Anders. 2015. Any-language frame semantic parsing. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2015. Lisbon, Portugal.
+Johannsen, Anders; Martinez, Hector; Søgaard, Anders. 2015. Any-language frame semantic parsing. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2015. Lisbon, Portugal. [PDF](https://www.aclweb.org/anthology/D15-1245.pdf)
 
-Klerke, Sigrid; Barrett, Maria; Castilho, Sheila; Søgaard, Anders. 2015. Reading metrics for estimating task efficiency with MT output. EMNLP Workshop on Cognitive Aspects of Computational Language Learning. Lisbon, Portugal.
+Klerke, Sigrid; Barrett, Maria; Castilho, Sheila; Søgaard, Anders. 2015. Reading metrics for estimating task efficiency with MT output. EMNLP Workshop on Cognitive Aspects of Computational Language Learning. Lisbon, Portugal. [PDF](https://www.aclweb.org/anthology/W15-2402.pdf)
 
-Barrett, Maria; Søgaard, Anders. 2015. Using reading behavior to predict grammatical functions. EMNLP Workshop on Cognitive Aspects of Computational Language Learning. Lisbon, Portugal. [PDF]
+Barrett, Maria; Søgaard, Anders. 2015. Using reading behavior to predict grammatical functions. EMNLP Workshop on Cognitive Aspects of Computational Language Learning. Lisbon, Portugal. [PDF](https://www.aclweb.org/anthology/W15-2401.pdf)
 
-Søgaard, Anders; Agic, Zeljko; Martinez, Hector; Plank, Barbara; Bohnet, Bernd; Johannsen, Anders. 2015. Inverted indexing for cross-lingual NLP. The 53rd Annual Meeting of the Association for Computational Linguistics (ACL). Beijing, China.
+Søgaard, Anders; Agic, Zeljko; Martinez, Hector; Plank, Barbara; Bohnet, Bernd; Johannsen, Anders. 2015. Inverted indexing for cross-lingual NLP. The 53rd Annual Meeting of the Association for Computational Linguistics (ACL). Beijing, China. [PDF](https://www.aclweb.org/anthology/P15-1165.pdf)
 
-Hovy, Dirk; Søgaard, Anders. 2015. Tagging performance correlates with author age. The 53rd Annual Meeting of the Association for Computational Linguistics (ACL). Beijing, China.
+Hovy, Dirk; Søgaard, Anders. 2015. Tagging performance correlates with author age. The 53rd Annual Meeting of the Association for Computational Linguistics (ACL). Beijing, China. [PDF](https://www.aclweb.org/anthology/P15-2079.pdf)
 
-Schluter, Natalie; Søgaard, Anders. 2015. Unsupervised extractive summarization via coverage maximization with syntactic and semantic concepts. The 53rd Annual Meeting of the Association for Computational Linguistics (ACL). Beijing, China.
+Schluter, Natalie; Søgaard, Anders. 2015. Unsupervised extractive summarization via coverage maximization with syntactic and semantic concepts. The 53rd Annual Meeting of the Association for Computational Linguistics (ACL). Beijing, China. [PDF](https://www.aclweb.org/anthology/P15-2138.pdf)
 
-Agic, Zeljko; Hovy, Dirk; Søgaard, Anders. 2015. If all you have is a bit of the Bible: Learning POS taggers for truly low-resource languages. The 53rd Annual Meeting of the Association for Computational Linguistics (ACL). Beijing, China.
+Agic, Zeljko; Hovy, Dirk; Søgaard, Anders. 2015. If all you have is a bit of the Bible: Learning POS taggers for truly low-resource languages. The 53rd Annual Meeting of the Association for Computational Linguistics (ACL). Beijing, China. [PDF](https://www.aclweb.org/anthology/P15-2044.pdf)
 
-Johannsen, Anders; Hovy, Dirk; Søgaard, Anders. 2015. Cross-lingual syntactic variation over age and gender. The 19th Conference on Computational Natural Language Learning (CoNLL). Beijing, China.
+Johannsen, Anders; Hovy, Dirk; Søgaard, Anders. 2015. Cross-lingual syntactic variation over age and gender. The 19th Conference on Computational Natural Language Learning (CoNLL). Beijing, China. [PDF](https://www.aclweb.org/anthology/K15-1011.pdf)
 
-Plank, Barbara; Martinez Alonso, Hector; Agic, Zeljko; Merkler, Danijela; Søgaard, Anders. 2015. Do dependency parsing metrics correlate with human judgments? The 19th Conference on Computational Natural Language Learning (CoNLL). Beijing, China.
+Plank, Barbara; Martinez Alonso, Hector; Agic, Zeljko; Merkler, Danijela; Søgaard, Anders. 2015. Do dependency parsing metrics correlate with human judgments? The 19th Conference on Computational Natural Language Learning (CoNLL). Beijing, China. [PDF](https://www.aclweb.org/anthology/K15-1033.pdf)
 
-Barrett, Maria; Søgaard, Anders. 2015. Reading behavior predicts syntactic categories. The 19th Conference on Computational Natural Language Learning (CoNLL). Beijing, China.
+Barrett, Maria; Søgaard, Anders. 2015. Reading behavior predicts syntactic categories. The 19th Conference on Computational Natural Language Learning (CoNLL). Beijing, China. [PDF](https://www.aclweb.org/anthology/K15-1038.pdf)
 
-Wullf, Julie; Søgaard, Anders. 2015. Learning finite state word representations for unsupervised Twitter adaptation of POS taggers. ACL 2015 Workshop on Noisy User-generated Text (W-NUT). Beijing, China.
+Wullf, Julie; Søgaard, Anders. 2015. Learning finite state word representations for unsupervised Twitter adaptation of POS taggers. ACL 2015 Workshop on Noisy User-generated Text (W-NUT). Beijing, China. [PDF](https://www.aclweb.org/anthology/W15-4324.pdf)
 
 Jørgensen, Anna Katrine; Hovy, Dirk; Søgaard, Anders. 2015. Challenges of studying and processing dialects in social media. ACL 2015 Workshop on Noisy User-generated Text (W-NUT). Beijing, China. <b>Received Best Paper Award.</b> [PDF](http://aclweb.org/anthology/W15-4302)
 
 Søgaard, Anders. 2015. Where is language? ACL 2015 Workshop on Noisy User-generated Text (W-NUT). Beijing, China.
 
-Martinez Alonso, Hector; Plank, Barbara; Skjærholt, Arne; Søgaard, Anders. 2015. Learning to parse with IAA-weighted loss. North American Chapter of the Association for Computational Linguistics (NAACL). Denver, CO.
+Martinez Alonso, Hector; Plank, Barbara; Skjærholt, Arne; Søgaard, Anders. 2015. Learning to parse with IAA-weighted loss. North American Chapter of the Association for Computational Linguistics (NAACL). Denver, CO. [PDF](https://www.aclweb.org/anthology/N15-1152.pdf)
 
-Gouws, Stephan; Søgaard, Anders. 2015. Simple task-specific bilingual word embeddings. North American Chapter of the Association for Computational Linguistics (NAACL). Denver, CO.
+Gouws, Stephan; Søgaard, Anders. 2015. Simple task-specific bilingual word embeddings. North American Chapter of the Association for Computational Linguistics (NAACL). Denver, CO. [PDF](https://www.aclweb.org/anthology/N15-1157.pdf)
 
-Hovy, Dirk; Plank, Barbara; Martinez Alonso, Hector; Søgaard, Anders. 2015. Mining for unambiguous instances to adapt POS taggers to new domains. North American Chapter of the Association for Computational Linguistics (NAACL). Denver, CO.
+Hovy, Dirk; Plank, Barbara; Martinez Alonso, Hector; Søgaard, Anders. 2015. Mining for unambiguous instances to adapt POS taggers to new domains. North American Chapter of the Association for Computational Linguistics (NAACL). Denver, CO. [PDF](https://www.aclweb.org/anthology/N15-1135.pdf)
 
-Plank, Barbara; Martinez Alonso, Hector; Søgaard, Anders. 2015. Non-canonical language is not harder to annotate than canonical language. The 9th Linguistic Annotation Workshop (LAW IX), NAACL. Denver, CO.
+Plank, Barbara; Martinez Alonso, Hector; Søgaard, Anders. 2015. Non-canonical language is not harder to annotate than canonical language. The 9th Linguistic Annotation Workshop (LAW IX), NAACL. Denver, CO. [PDF](https://www.aclweb.org/anthology/W15-1617.pdf)
 
-Hovy, Dirk; Johannsen, Anders; Søgaard, Anders. 2015. User review sites as a resource for large-scale sociolinguistic studies. The 24th International World Wide Web Conference (WWW). Florence, Italy.
+Hovy, Dirk; Johannsen, Anders; Søgaard, Anders. 2015. User review sites as a resource for large-scale sociolinguistic studies. The 24th International World Wide Web Conference (WWW). Florence, Italy. [PDF](http://www.www2015.it/documents/proceedings/proceedings/p452.pdf)
 
 Martinez, Hector; Plank, Barbara; Johannsen, Anders; Søgaard, Anders. 2015. Active learning for sense annotation. The 20th Nordic Conference on Computational Linguistics. Vilnius, Lithuania.
 
-Martinez, Hector; Johannsen, Anders; Olsen, Sussi; Nimb, Sanni; Sørensen, Nicolai Hartvig; Braasch, Anna; Søgaard, Anders; Pedersen, Bolette Sandford. 2015. Supersense tagging for Danish. The 20th Nordic Conference on Computational Linguistics. Vilnius, Lithuania.
+Martinez, Hector; Johannsen, Anders; Olsen, Sussi; Nimb, Sanni; Sørensen, Nicolai Hartvig; Braasch, Anna; Søgaard, Anders; Pedersen, Bolette Sandford. 2015. Supersense tagging for Danish. The 20th Nordic Conference on Computational Linguistics (NODALIDA). Vilnius, Lithuania. [PDF](https://www.aclweb.org/anthology/W15-1806.pdf)
 
-Søgaard, Anders, Plank, Barbara; Martinez, Hector. 2015. Using frame semantics for knowledge extraction from Twitter. The 29th Conference on Artificial Intelligence (AAAI). Austin, TX.
+Søgaard, Anders, Plank, Barbara; Martinez, Hector. 2015. Using frame semantics for knowledge extraction from Twitter. The 29th Conference on Artificial Intelligence (AAAI). Austin, TX. [PDF](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9349/9539)
 
 Barrett, Maria; Søgaard, Anders. 2015. Modeling eye movements when reading microblogs. The 20th AAAI/SIGAI Doctoral Consortium, collocated with The 29th Conference on Artificial Intelligence (AAAI). Austin, TX.
 
 ### 2014
-Plank, Barbara; Johannsen, Anders; Søgaard, Anders. 2014. Importance weighting and unsupervised domain adaptation of POS taggers: a negative result. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2014. Doha, Qatar.
+Plank, Barbara; Johannsen, Anders; Søgaard, Anders. 2014. Importance weighting and unsupervised domain adaptation of POS taggers: a negative result. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2014. Doha, Qatar. [PDF](https://www.aclweb.org/anthology/D14-1104.pdf)
 
-Plank, Barbara; Hovy, Dirk; McDonald, Ryan; Søgaard, Anders. 2014. Adapting taggers to Twitter using not-so-distant supervision. The 25th International Conference on Computational Linguistics (COLING). Dublin, Ireland.
+Plank, Barbara; Hovy, Dirk; McDonald, Ryan; Søgaard, Anders. 2014. Adapting taggers to Twitter using not-so-distant supervision. The 25th International Conference on Computational Linguistics (COLING). Dublin, Ireland. [PDF](https://www.aclweb.org/anthology/C14-1168.pdf)
 
 Søgaard, Anders; Plank, Barbara; Hovy, Dirk. 2014. Selection bias, label bias, and bias in ground truth (tutorial). The 25th International Conference on Computational Linguistics (COLING). Dublin, Ireland.
 
 Johannsen, Anders; Hovy, Dirk; Martinez, Hector; Søgaard, Anders. 2014. More or less supervised supersense tagging of Twitter. The 3rd Joint Conference on Lexical and Computational Semantics (\*SEM). Dublin, Ireland. <b>Received Best Paper Award.</b> [PDF](http://aclweb.org/anthology/S14-1001)
 
-Søgaard, Anders; Johannsen, Anders; Plank, Barbara; Hovy, Dirk; Martinez, Hector. 2014. What is in a p-value in NLP? The 18th Conference on Computational Natural Language Learning (CoNLL). Baltimore, MD.
+Søgaard, Anders; Johannsen, Anders; Plank, Barbara; Hovy, Dirk; Martinez, Hector. 2014. What is in a p-value in NLP? The 18th Conference on Computational Natural Language Learning (CoNLL). Baltimore, MD. [PDF](https://www.aclweb.org/anthology/W14-1601.pdf)
 
-Plank, Barbara; Hovy, Dirk; Søgaard, Anders. 2014. Linguistically debatable or just plain wrong? The 52nd Annual Meeting of the Association for Computational Linguistics (ACL). Baltimore, MD.
+Plank, Barbara; Hovy, Dirk; Søgaard, Anders. 2014. Linguistically debatable or just plain wrong? The 52nd Annual Meeting of the Association for Computational Linguistics (ACL). Baltimore, MD. [PDF](https://www.aclweb.org/anthology/P14-2083.pdf)
 
-Hovy, Dirk; Plank, Barbara; Søgaard, Anders. 2014. Experiments with a crowd-sourced re-annotation of a POS tagging dataset. The 52nd Annual Meeting of the Association for Computational Linguistics (ACL). Baltimore, MD.
+Hovy, Dirk; Plank, Barbara; Søgaard, Anders. 2014. Experiments with a crowd-sourced re-annotation of a POS tagging dataset. The 52nd Annual Meeting of the Association for Computational Linguistics (ACL). Baltimore, MD. [PDF](https://www.aclweb.org/anthology/P14-2062.pdf)
 
 Plank, Barbara; Hovy, Dirk; Søgaard, Anders. 2014. Learning part-of-speech taggers with inter-annotator agreement loss. The 14th Conference of the European Chapter of the Association for Computational Linguistics (EACL). Gothenburg, Sweden. <b>Received Best Long Paper Award.</b> [PDF](http://aclweb.org/anthology/E14-1078)
 
-Fromreide, Hege; Søgaard, Anders. 2014. NER in tweets using a small crowdsourced dataset. The 9th International Conference on Natural Language Processing (PolTAL). Warsaw, Poland.
+Fromreide, Hege; Søgaard, Anders. 2014. NER in tweets using bagging and a small crowdsourced dataset. The 9th International Conference on Natural Language Processing (PolTAL). Warsaw, Poland. [Link](https://link.springer.com/chapter/10.1007/978-3-319-10888-9_5)
 
-Schluter, Natalie; Elming, Jakob; Søgaard, Anders. 2014. Tree approximations of semantic parsing problems. SemEval 2014. Dublin, Ireland.
+Schluter, Natalie; Elming, Jakob; Søgaard, Anders. 2014. Tree approximations of semantic parsing problems. SemEval 2014. Dublin, Ireland. [PDF](https://www.aclweb.org/anthology/S14-2034.pdf)
 
 Hovy, Dirk; Plank, Barbara; Søgaard, Anders. 2014. When POS datasets do not add up: Combatting sample bias. Language Resources and Evaluation Conference (LREC) 2014. Reykjavik, Iceland.
 
