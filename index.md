@@ -5,6 +5,8 @@ Professor in Natural Language Processing and Machine Learning, Dpt. of Computer 
 
 ### 2020 
 
+Borgholt, Lasse; Havtorn, Jacob; Agic, Zeljko; Søgaard, Anders; Maaløe, Lars; Igel, Christian. 2020. Do End-to-End Speech Recognition Models Care About Context? Interspeech 2020. Shanghai, China. 
+
 Abdou, Mostafa; Ravishankar, Vinit; Barrett, Maria; Belinkov, Yonatan; Elliott, Desmond; Søgaard, Anders. 2020. The Sensitivity of Language Models and Humans to Winograd Schema Perturbations. The 57th Annual Meeting of the Association for Computational Linguistics (ACL). Seattle, Washington. 
 
 Petrén Bach Hansen, Victor; Søgaard, Anders. 2020. What Do You Mean 'Why?': Resolving Sluices in Conversations. The 34th AAAI Conference on Artificial Intelligence (AAAI). New York, New York. [PDF](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-HansenV.5095.pdf)
