@@ -5,6 +5,16 @@ Professor in Natural Language Processing and Machine Learning, Dpt. of Computer 
 
 ### 2020 
 
+Gonzalez, Ana Valeria; Barrett, Maria; Hvingelby, Rasmus; Webster, Kellie; Søgaard, Anders. 2020. Type B Reflexivization as an Unambiguous Testbed for Multilingual Multi-Task Gender Bias. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2020. Punta Cana, Dominican Republic. 
+
+Søgaard, Anders. 2020. Some Languages Seem Easier to Parse Because Their Treebanks Leak. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2020. Punta Cana, Dominican Republic. 
+
+Vulic, Ivan; Ruder, Sebastian; Søgaard, Anders. 2020. Are All Good Word Vector Spaces Isomorphic? Conference on Empirical Methods in Natural Language Processing (EMNLP) 2020. Punta Cana, Dominican Republic. 
+
+Flachs, Simon; Lacroix, Ophelie; Yannakoudakis, Helen; Rei, Marek; Søgaard, Anders. 2020. Grammatical Error Correction in Low Error Density Domains: A New Benchmark and Analyses. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2020. Punta Cana, Dominican Republic. 
+
+Søgaard, Anders. 2020. Neural Speed Reading Audited. Findings of Conference on Empirical Methods in Natural Language Processing (EMNLP) 2020. Punta Cana, Dominican Republic. 
+
 Borgholt, Lasse; Havtorn, Jacob; Agic, Zeljko; Søgaard, Anders; Maaløe, Lars; Igel, Christian. 2020. Do End-to-End Speech Recognition Models Care About Context? Interspeech 2020. Shanghai, China. 
 
 Abdou, Mostafa; Ravishankar, Vinit; Barrett, Maria; Belinkov, Yonatan; Elliott, Desmond; Søgaard, Anders. 2020. The Sensitivity of Language Models and Humans to Winograd Schema Perturbations. The 57th Annual Meeting of the Association for Computational Linguistics (ACL). Seattle, Washington. 
