@@ -9,7 +9,7 @@ Gonzalez, Ana Valeria; Barrett, Maria; Hvingelby, Rasmus; Webster, Kellie; Søga
 
 Søgaard, Anders. 2020. Some Languages Seem Easier to Parse Because Their Treebanks Leak. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2020. Punta Cana, Dominican Republic. 
 
-Vulic, Ivan; Ruder, Sebastian; Søgaard, Anders. 2020. Are All Good Word Vector Spaces Isomorphic? Conference on Empirical Methods in Natural Language Processing (EMNLP) 2020. Punta Cana, Dominican Republic. 
+Vulic, Ivan; Ruder, Sebastian; Søgaard, Anders. 2020. Are All Good Word Vector Spaces Isomorphic? Conference on Empirical Methods in Natural Language Processing (EMNLP) 2020. Punta Cana, Dominican Republic. [ArXiv](https://arxiv.org/pdf/2004.04070.pdf)
 
 Flachs, Simon; Lacroix, Ophelie; Yannakoudakis, Helen; Rei, Marek; Søgaard, Anders. 2020. Grammatical Error Correction in Low Error Density Domains: A New Benchmark and Analyses. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2020. Punta Cana, Dominican Republic. 
 
@@ -17,7 +17,7 @@ Søgaard, Anders. 2020. Neural Speed Reading Audited. Findings of Conference on 
 
 Borgholt, Lasse; Havtorn, Jacob; Agic, Zeljko; Søgaard, Anders; Maaløe, Lars; Igel, Christian. 2020. Do End-to-End Speech Recognition Models Care About Context? Interspeech 2020. Shanghai, China. 
 
-Abdou, Mostafa; Ravishankar, Vinit; Barrett, Maria; Belinkov, Yonatan; Elliott, Desmond; Søgaard, Anders. 2020. The Sensitivity of Language Models and Humans to Winograd Schema Perturbations. The 57th Annual Meeting of the Association for Computational Linguistics (ACL). Seattle, Washington. 
+Abdou, Mostafa; Ravishankar, Vinit; Barrett, Maria; Belinkov, Yonatan; Elliott, Desmond; Søgaard, Anders. 2020. The Sensitivity of Language Models and Humans to Winograd Schema Perturbations. The 57th Annual Meeting of the Association for Computational Linguistics (ACL). Seattle, Washington. [PDF](https://www.aclweb.org/anthology/2020.acl-main.679.pdf)
 
 Petrén Bach Hansen, Victor; Søgaard, Anders. 2020. What Do You Mean 'Why?': Resolving Sluices in Conversations. The 34th AAAI Conference on Artificial Intelligence (AAAI). New York, New York. [PDF](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-HansenV.5095.pdf)
 
