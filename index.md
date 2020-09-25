@@ -15,6 +15,10 @@ Flachs, Simon; Lacroix, Ophelie; Yannakoudakis, Helen; Rei, Marek; Søgaard, And
 
 Søgaard, Anders. 2020. Neural Speed Reading Audited. Findings of Conference on Empirical Methods in Natural Language Processing (EMNLP) 2020. Punta Cana, Dominican Republic. 
 
+Zhang, Sheng; Xhang, Xin; Zhang, Weiming; Søgaard, Anders. 2020. Worst-Case-Aware Curriculum Learning for Zero and Few Shot Transfer. [ArXiv](https://arxiv.org/abs/2009.11138)
+
+Søgaard, Anders; Ebert, Sebastian; Bastings, Jasmijn; Filippova, Katja. 2020. We Need to Talk About Random Splits. [ArXiv](https://arxiv.org/abs/2005.00636) 
+
 Borgholt, Lasse; Havtorn, Jacob; Agic, Zeljko; Søgaard, Anders; Maaløe, Lars; Igel, Christian. 2020. Do End-to-End Speech Recognition Models Care About Context? Interspeech 2020. Shanghai, China. 
 
 Abdou, Mostafa; Ravishankar, Vinit; Barrett, Maria; Belinkov, Yonatan; Elliott, Desmond; Søgaard, Anders. 2020. The Sensitivity of Language Models and Humans to Winograd Schema Perturbations. The 57th Annual Meeting of the Association for Computational Linguistics (ACL). Seattle, Washington. [PDF](https://www.aclweb.org/anthology/2020.acl-main.679.pdf)
