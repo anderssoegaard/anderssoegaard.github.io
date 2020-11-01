@@ -5,6 +5,8 @@ Professor in Natural Language Processing and Machine Learning, Dpt. of Computer 
 
 ### 2020 
 
+Gonzalez, Ana Valeria; Søgaard, Anders. 2020. The Reverse Turing Test for Evaluating Interpretability Methods on Unknown Tasks. NeurIPS Workshop on Human And Machine in-the-Loop Evaluation and Learning Strategies. Virtual conference. 
+
 Gonzalez, Ana Valeria; Barrett, Maria; Hvingelby, Rasmus; Webster, Kellie; Søgaard, Anders. 2020. Type B Reflexivization as an Unambiguous Testbed for Multilingual Multi-Task Gender Bias. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2020. Punta Cana, Dominican Republic. 
 
 Søgaard, Anders. 2020. Some Languages Seem Easier to Parse Because Their Treebanks Leak. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2020. Punta Cana, Dominican Republic. 
