@@ -3,6 +3,12 @@ Professor in Natural Language Processing and Machine Learning, Dpt. of Computer 
 
 ## Publications
 
+### 2021 
+
+Garneau, Nicolas; Hartmann, Mareike; Sandholm, Anders; Ruder, Sebastian; Vulic, Ivan; Søgaard, Anders. 2021. Analogy Training Multilingual Encoders. The 34th AAAI Conference on Artificial Intelligence (AAAI). Virtual conference. 
+
+Aralikatte, Rahul; Abdou, Mostafa; Lent, Heather; Hershcovich, Daniel; Søgaard, Anders. 2021. The 34th AAAI Conference on Artificial Intelligence (AAAI). Virtual conference. 
+
 ### 2020 
 
 Gonzalez, Ana Valeria; Søgaard, Anders. 2020. The Reverse Turing Test for Evaluating Interpretability Methods on Unknown Tasks. NeurIPS Workshop on Human And Machine in-the-Loop Evaluation and Learning Strategies. Virtual conference. 
