@@ -15,7 +15,7 @@ Gonzalez, Ana Valeria; Søgaard, Anders. 2020. The Reverse Turing Test for Evalu
 
 Gonzalez, Ana Valeria; Barrett, Maria; Hvingelby, Rasmus; Webster, Kellie; Søgaard, Anders. 2020. Type B Reflexivization as an Unambiguous Testbed for Multilingual Multi-Task Gender Bias. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2020. Punta Cana, Dominican Republic. 
 
-Søgaard, Anders. 2020. Some Languages Seem Easier to Parse Because Their Treebanks Leak. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2020. Punta Cana, Dominican Republic. Erratum: The explained variance numbers are unstable.
+Søgaard, Anders. 2020. Some Languages Seem Easier to Parse Because Their Treebanks Leak. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2020. Punta Cana, Dominican Republic. Erratum: The explained variance numbers are unstable; will post new results on ArXiv very soon.
 
 Vulic, Ivan; Ruder, Sebastian; Søgaard, Anders. 2020. Are All Good Word Vector Spaces Isomorphic? Conference on Empirical Methods in Natural Language Processing (EMNLP) 2020. Punta Cana, Dominican Republic. [ArXiv](https://arxiv.org/pdf/2004.04070.pdf)
 
