@@ -15,7 +15,7 @@ Gonzalez, Ana Valeria; Søgaard, Anders. 2020. The Reverse Turing Test for Evalu
 
 Gonzalez, Ana Valeria; Barrett, Maria; Hvingelby, Rasmus; Webster, Kellie; Søgaard, Anders. 2020. Type B Reflexivization as an Unambiguous Testbed for Multilingual Multi-Task Gender Bias. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2020. Punta Cana, Dominican Republic. 
 
-Søgaard, Anders. 2020. Some Languages Seem Easier to Parse Because Their Treebanks Leak. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2020. Punta Cana, Dominican Republic. 
+Søgaard, Anders. 2020. Some Languages Seem Easier to Parse Because Their Treebanks Leak. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2020. Punta Cana, Dominican Republic. Erratum: The explained variance numbers are unstable.
 
 Vulic, Ivan; Ruder, Sebastian; Søgaard, Anders. 2020. Are All Good Word Vector Spaces Isomorphic? Conference on Empirical Methods in Natural Language Processing (EMNLP) 2020. Punta Cana, Dominican Republic. [ArXiv](https://arxiv.org/pdf/2004.04070.pdf)
 
@@ -358,7 +358,7 @@ Søgaard, Anders. 2011. Data point selection for cross-language adaptation of de
 
 Johannsen, Anders; Martinez, Hector; Rishøj, Christian; Søgaard, Anders. 2011. Frustratingly hard compositionality prediction. Distributional Semantics and Compositionality, the 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies (ACL-HLT). Portland, Oregon. [PDF](https://www.aclweb.org/anthology/W11-1305.pdf)
 
-Søgaard, Anders. 2011. From ranked words to dependency trees: two-stage unsupervised non-projective dependency parsing. TextGraphs-6: Graph-based Methods for Natural Language Processing, the 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies (ACL-HLT). Portland, Oregon. [PDF](https://www.aclweb.org/anthology/W11-1109.pdf) Errata: The assertion that the algorithm described in the paper does not guarantee projectivity (p. 65) is not true.
+Søgaard, Anders. 2011. From ranked words to dependency trees: two-stage unsupervised non-projective dependency parsing. TextGraphs-6: Graph-based Methods for Natural Language Processing, the 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies (ACL-HLT). Portland, Oregon. [PDF](https://www.aclweb.org/anthology/W11-1109.pdf) Erratum: The assertion that the algorithm described in the paper does not guarantee projectivity (p. 65) is not true.
 
 Rishøj, Christian; Søgaard, Anders. 2011. Factored translation using unsupervised word clusters. The 6th Workshop on Statistical Machine Translation, Conference on Empirical Methods in Natural Language Processing (EMNLP). Scotland, Edinburgh. [PDF](https://www.aclweb.org/anthology/W11-2155.pdf)
 
@@ -379,7 +379,7 @@ Søgaard, Anders; Johannsen, Anders. 2010. Robust semi-supervised and ensemble-b
 
 Kristiansen, Søren Lind; Søgaard, Anders. 2010. Querying dependency treebanks in hybrid logic. Hybrid Logic and Applications, The 25th Annual IEEE Symposium on Logic in Computer Science (LICS). Edinburgh, Scotland.
 
-Søgaard, Anders. 2010. Can inversion transduction grammars generate hand alignments? The 14th Annual Conference of the European Association for Machine Translation (EAMT). St. Raphael, France. [PDF](https://pdfs.semanticscholar.org/2f6f/4d63ad12af0507f92911feb55e92158ebc27.pdf?_ga=2.224997082.1507244379.1591993005-1714212771.1571394157) Errata: The numbers in Figure 4 are incorrect. 
+Søgaard, Anders. 2010. Can inversion transduction grammars generate hand alignments? The 14th Annual Conference of the European Association for Machine Translation (EAMT). St. Raphael, France. [PDF](https://pdfs.semanticscholar.org/2f6f/4d63ad12af0507f92911feb55e92158ebc27.pdf?_ga=2.224997082.1507244379.1591993005-1714212771.1571394157) Erratum: The numbers in Figure 4 are incorrect. 
 
 Søgaard, Anders; Haulrich, Martin. 2010. On the derivation perplexity of treebanks. Treebanks and Linguistic Theories 9. Riga, Latvia. [PDF](https://dspace.ut.ee/bitstream/handle/10062/15964/tlt9_submission_4.pdf?sequence=1&isAllowed=y)
 
