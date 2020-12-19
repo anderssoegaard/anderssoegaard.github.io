@@ -7,27 +7,27 @@ Professor in Natural Language Processing and Machine Learning, Dpt. of Computer 
 
 Garneau, Nicolas; Hartmann, Mareike; Sandholm, Anders; Ruder, Sebastian; Vulic, Ivan; Søgaard, Anders. 2021. Analogy Training Multilingual Encoders. The 35th AAAI Conference on Artificial Intelligence (AAAI). Virtual conference. 
 
-Aralikatte, Rahul; Abdou, Mostafa; Lent, Heather; Hershcovich, Daniel; Søgaard, Anders. 2021. Joint Semantic Analysis with Document-Level Cross-Task Coherence Rewards. The 35th AAAI Conference on Artificial Intelligence (AAAI). Virtual conference. 
+Aralikatte, Rahul; Abdou, Mostafa; Lent, Heather; Hershcovich, Daniel; Søgaard, Anders. 2021. Joint Semantic Analysis with Document-Level Cross-Task Coherence Rewards. The 35th AAAI Conference on Artificial Intelligence (AAAI). Virtual conference. [ArXiv](https://arxiv.org/abs/2010.05567)
 
 ### 2020 
 
-Gonzalez, Ana Valeria; Søgaard, Anders. 2020. The Reverse Turing Test for Evaluating Interpretability Methods on Unknown Tasks. NeurIPS Workshop on Human And Machine in-the-Loop Evaluation and Learning Strategies. Virtual conference. 
+Gonzalez, Ana Valeria; Søgaard, Anders. 2020. The Reverse Turing Test for Evaluating Interpretability Methods on Unknown Tasks. NeurIPS Workshop on Human And Machine in-the-Loop Evaluation and Learning Strategies. Virtual conference. [PDF](https://openreview.net/pdf?id=y190Uu1z5Zk)
 
-Gonzalez, Ana Valeria; Barrett, Maria; Hvingelby, Rasmus; Webster, Kellie; Søgaard, Anders. 2020. Type B Reflexivization as an Unambiguous Testbed for Multilingual Multi-Task Gender Bias. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2020. Punta Cana, Dominican Republic. 
+Gonzalez, Ana Valeria; Barrett, Maria; Hvingelby, Rasmus; Webster, Kellie; Søgaard, Anders. 2020. Type B Reflexivization as an Unambiguous Testbed for Multilingual Multi-Task Gender Bias. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2020. Punta Cana, Dominican Republic. [PDF](https://www.aclweb.org/anthology/2020.emnlp-main.209/)
 
-Søgaard, Anders. 2020. Some Languages Seem Easier to Parse Because Their Treebanks Leak. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2020. Punta Cana, Dominican Republic. Erratum: The explained variance numbers are unstable; will post new results on ArXiv very soon.
+Søgaard, Anders. 2020. Some Languages Seem Easier to Parse Because Their Treebanks Leak. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2020. Punta Cana, Dominican Republic. [PDF](https://www.aclweb.org/anthology/2020.emnlp-main.220/) Erratum: The explained variance numbers are unstable; will post new results on ArXiv very soon.
 
-Vulic, Ivan; Ruder, Sebastian; Søgaard, Anders. 2020. Are All Good Word Vector Spaces Isomorphic? Conference on Empirical Methods in Natural Language Processing (EMNLP) 2020. Punta Cana, Dominican Republic. [ArXiv](https://arxiv.org/pdf/2004.04070.pdf)
+Vulic, Ivan; Ruder, Sebastian; Søgaard, Anders. 2020. Are All Good Word Vector Spaces Isomorphic? Conference on Empirical Methods in Natural Language Processing (EMNLP) 2020. Punta Cana, Dominican Republic. [PDF](https://www.aclweb.org/anthology/2020.emnlp-main.257/) [ArXiv](https://arxiv.org/pdf/2004.04070.pdf)
 
-Flachs, Simon; Lacroix, Ophelie; Yannakoudakis, Helen; Rei, Marek; Søgaard, Anders. 2020. Grammatical Error Correction in Low Error Density Domains: A New Benchmark and Analyses. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2020. Punta Cana, Dominican Republic. 
+Flachs, Simon; Lacroix, Ophelie; Yannakoudakis, Helen; Rei, Marek; Søgaard, Anders. 2020. Grammatical Error Correction in Low Error Density Domains: A New Benchmark and Analyses. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2020. Punta Cana, Dominican Republic. [PDF](https://www.aclweb.org/anthology/2020.emnlp-main.680/)
 
-Søgaard, Anders. 2020. Neural Speed Reading Audited. Findings of Conference on Empirical Methods in Natural Language Processing (EMNLP) 2020. Punta Cana, Dominican Republic. 
+Søgaard, Anders. 2020. Neural Speed Reading Audited. Findings of Conference on Empirical Methods in Natural Language Processing (EMNLP) 2020. Punta Cana, Dominican Republic. [PDF](https://www.aclweb.org/anthology/2020.findings-emnlp.14/)
 
 Zhang, Sheng; Xhang, Xin; Zhang, Weiming; Søgaard, Anders. 2020. Worst-Case-Aware Curriculum Learning for Zero and Few Shot Transfer. [ArXiv](https://arxiv.org/abs/2009.11138)
 
 Søgaard, Anders; Ebert, Sebastian; Bastings, Jasmijn; Filippova, Katja. 2020. We Need to Talk About Random Splits. [ArXiv](https://arxiv.org/abs/2005.00636) 
 
-Borgholt, Lasse; Havtorn, Jacob; Agic, Zeljko; Søgaard, Anders; Maaløe, Lars; Igel, Christian. 2020. Do End-to-End Speech Recognition Models Care About Context? Interspeech 2020. Shanghai, China. 
+Borgholt, Lasse; Havtorn, Jacob; Agic, Zeljko; Søgaard, Anders; Maaløe, Lars; Igel, Christian. 2020. Do End-to-End Speech Recognition Models Care About Context? Interspeech 2020. Shanghai, China. [PDF](https://zeljkoagic.github.io/publications/borgholt2020-endtoend.pdf)
 
 Abdou, Mostafa; Ravishankar, Vinit; Barrett, Maria; Belinkov, Yonatan; Elliott, Desmond; Søgaard, Anders. 2020. The Sensitivity of Language Models and Humans to Winograd Schema Perturbations. The 57th Annual Meeting of the Association for Computational Linguistics (ACL). Seattle, Washington. [PDF](https://www.aclweb.org/anthology/2020.acl-main.679.pdf)
 
