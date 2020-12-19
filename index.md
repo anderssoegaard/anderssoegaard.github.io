@@ -5,9 +5,9 @@ Professor in Natural Language Processing and Machine Learning, Dpt. of Computer 
 
 ### 2021 
 
-Garneau, Nicolas; Hartmann, Mareike; Sandholm, Anders; Ruder, Sebastian; Vulic, Ivan; Søgaard, Anders. 2021. Analogy Training Multilingual Encoders. The 34th AAAI Conference on Artificial Intelligence (AAAI). Virtual conference. 
+Garneau, Nicolas; Hartmann, Mareike; Sandholm, Anders; Ruder, Sebastian; Vulic, Ivan; Søgaard, Anders. 2021. Analogy Training Multilingual Encoders. The 35th AAAI Conference on Artificial Intelligence (AAAI). Virtual conference. 
 
-Aralikatte, Rahul; Abdou, Mostafa; Lent, Heather; Hershcovich, Daniel; Søgaard, Anders. 2021. The 34th AAAI Conference on Artificial Intelligence (AAAI). Virtual conference. 
+Aralikatte, Rahul; Abdou, Mostafa; Lent, Heather; Hershcovich, Daniel; Søgaard, Anders. 2021. Joint Semantic Analysis with Document-Level Cross-Task Coherence Rewards. The 35th AAAI Conference on Artificial Intelligence (AAAI). Virtual conference. 
 
 ### 2020 
 
