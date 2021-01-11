@@ -5,6 +5,14 @@ Professor in Natural Language Processing and Machine Learning, Dpt. of Computer 
 
 ### 2021 
 
+Søgaard, Anders; Ebert, Sebastian; Bastings, Jasmijn; Filippova, Katja. 2021. We Need To Talk About Random Splits. The 16th conference of the European Chapter of the Association for Computational Linguistics (EACL). Virtual conference. 
+
+Aralikatte, Rahul; Lamm, Matthew; Hardt, Daniel; Søgaard, Anders. 2021. Ellipsis Resolution as Question Answering: An Evaluation. The 16th conference of the European Chapter of the Association for Computational Linguistics (EACL). Virtual conference. 
+
+Bollmann, Marcel; Søgaard, Anders. 2021. Error Analysis and the Role of Morphology. The 16th conference of the European Chapter of the Association for Computational Linguistics (EACL). Virtual conference. 
+
+Kulmizev, Artur; Ravishankar, Vinit; Abdou, Mostafa; Søgaard, Anders; Nivre, Joakim. 2021. Attention Can Reflect Syntactic Structure (If You Let It). The 16th conference of the European Chapter of the Association for Computational Linguistics (EACL). Virtual conference. 
+
 Garneau, Nicolas; Hartmann, Mareike; Sandholm, Anders; Ruder, Sebastian; Vulic, Ivan; Søgaard, Anders. 2021. Analogy Training Multilingual Encoders. The 35th AAAI Conference on Artificial Intelligence (AAAI). Virtual conference. 
 
 Aralikatte, Rahul; Abdou, Mostafa; Lent, Heather; Hershcovich, Daniel; Søgaard, Anders. 2021. Joint Semantic Analysis with Document-Level Cross-Task Coherence Rewards. The 35th AAAI Conference on Artificial Intelligence (AAAI). Virtual conference. [ArXiv](https://arxiv.org/abs/2010.05567)
