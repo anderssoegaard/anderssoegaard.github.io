@@ -5,6 +5,8 @@ Professor in Natural Language Processing and Machine Learning, Dpt. of Computer 
 
 ### 2021 
 
+Hartmann, Mareike; Søgaard, Anders. 2021. Multilingual Negation Scope Resolution for Clinical Text. The 12th International Workshop on Health Text Mining and Information Analysis, EACL 2021. Virtual conference. 
+
 Søgaard, Anders; Ebert, Sebastian; Bastings, Jasmijn; Filippova, Katja. 2021. We Need To Talk About Random Splits. The 16th conference of the European Chapter of the Association for Computational Linguistics (EACL). Virtual conference. 
 
 Aralikatte, Rahul; Lamm, Matthew; Hardt, Daniel; Søgaard, Anders. 2021. Ellipsis Resolution as Question Answering: An Evaluation. The 16th conference of the European Chapter of the Association for Computational Linguistics (EACL). Virtual conference. 
