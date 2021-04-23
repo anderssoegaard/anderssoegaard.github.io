@@ -5,15 +5,15 @@ Professor in Natural Language Processing and Machine Learning, Dpt. of Computer 
 
 ### 2021 
 
-Hartmann, Mareike; Søgaard, Anders. 2021. Multilingual Negation Scope Resolution for Clinical Text. The 12th International Workshop on Health Text Mining and Information Analysis, EACL 2021. Virtual conference. 
+Søgaard, Anders; Ebert, Sebastian; Bastings, Jasmijn; Filippova, Katja. 2021. We Need To Talk About Random Splits. The 16th conference of the European Chapter of the Association for Computational Linguistics (EACL). Virtual conference. <b>Received Honorable Mention.</b> [ArXiv](https://arxiv.org/abs/2005.00636) [Google](https://research.google/pubs/pub50045/) [PDF](https://www.aclweb.org/anthology/2021.eacl-main.156.pdf)
 
-Søgaard, Anders; Ebert, Sebastian; Bastings, Jasmijn; Filippova, Katja. 2021. We Need To Talk About Random Splits. The 16th conference of the European Chapter of the Association for Computational Linguistics (EACL). Virtual conference. [ArXiv](https://arxiv.org/abs/2005.00636) [Google](https://research.google/pubs/pub50045/)
+Aralikatte, Rahul; Lamm, Matthew; Hardt, Daniel; Søgaard, Anders. 2021. Ellipsis Resolution as Question Answering: An Evaluation. The 16th conference of the European Chapter of the Association for Computational Linguistics (EACL). Virtual conference. [ArXiv](http://128.84.4.27/abs/1908.11141) [PDF](https://www.aclweb.org/anthology/2021.eacl-main.68.pdf)
 
-Aralikatte, Rahul; Lamm, Matthew; Hardt, Daniel; Søgaard, Anders. 2021. Ellipsis Resolution as Question Answering: An Evaluation. The 16th conference of the European Chapter of the Association for Computational Linguistics (EACL). Virtual conference. [ArXiv](http://128.84.4.27/abs/1908.11141)
+Bollmann, Marcel; Søgaard, Anders. 2021. Error Analysis and the Role of Morphology. The 16th conference of the European Chapter of the Association for Computational Linguistics (EACL). Virtual conference. <b>Received Best Long Paper Award.</b> [PDF](https://www.aclweb.org/anthology/2021.eacl-main.162.pdf)
 
-Bollmann, Marcel; Søgaard, Anders. 2021. Error Analysis and the Role of Morphology. The 16th conference of the European Chapter of the Association for Computational Linguistics (EACL). Virtual conference. 
+Kulmizev, Artur; Ravishankar, Vinit; Abdou, Mostafa; Søgaard, Anders; Nivre, Joakim. 2021. Attention Can Reflect Syntactic Structure (If You Let It). The 16th conference of the European Chapter of the Association for Computational Linguistics (EACL). Virtual conference. [ArXiv](https://arxiv.org/abs/2101.10927) [PDF](https://www.aclweb.org/anthology/2021.eacl-main.264.pdf)
 
-Kulmizev, Artur; Ravishankar, Vinit; Abdou, Mostafa; Søgaard, Anders; Nivre, Joakim. 2021. Attention Can Reflect Syntactic Structure (If You Let It). The 16th conference of the European Chapter of the Association for Computational Linguistics (EACL). Virtual conference. [ArXiv](https://arxiv.org/abs/2101.10927)
+Hartmann, Mareike; Søgaard, Anders. 2021. Multilingual Negation Scope Resolution for Clinical Text. The 12th International Workshop on Health Text Mining and Information Analysis, EACL 2021. Virtual conference. [PDF](https://www.aclweb.org/anthology/2021.louhi-1.2.pdf)
 
 Garneau, Nicolas; Hartmann, Mareike; Sandholm, Anders; Ruder, Sebastian; Vulic, Ivan; Søgaard, Anders. 2021. Analogy Training Multilingual Encoders. The 35th AAAI Conference on Artificial Intelligence (AAAI). Virtual conference. [PDF](https://www.aaai.org/AAAI21Papers/AAAI-9541.GarneauN.pdf)
 
@@ -36,8 +36,6 @@ Flachs, Simon; Lacroix, Ophelie; Yannakoudakis, Helen; Rei, Marek; Søgaard, And
 Søgaard, Anders. 2020. Neural Speed Reading Audited. Findings of Conference on Empirical Methods in Natural Language Processing (EMNLP) 2020. Punta Cana, Dominican Republic. [PDF](https://www.aclweb.org/anthology/2020.findings-emnlp.14/)
 
 Zhang, Sheng; Xhang, Xin; Zhang, Weiming; Søgaard, Anders. 2020. Worst-Case-Aware Curriculum Learning for Zero and Few Shot Transfer. [ArXiv](https://arxiv.org/abs/2009.11138)
-
-Søgaard, Anders; Ebert, Sebastian; Bastings, Jasmijn; Filippova, Katja. 2020. We Need to Talk About Random Splits. [ArXiv](https://arxiv.org/abs/2005.00636) 
 
 Borgholt, Lasse; Havtorn, Jacob; Agic, Zeljko; Søgaard, Anders; Maaløe, Lars; Igel, Christian. 2020. Do End-to-End Speech Recognition Models Care About Context? Interspeech 2020. Shanghai, China. [PDF](https://zeljkoagic.github.io/publications/borgholt2020-endtoend.pdf)
 
@@ -87,10 +85,6 @@ Kurita, Shuhei; Søgaard, Anders. 2019. Multi-Task Semantic Dependency Parsing w
 Flachs, Simon; Bollmann, Marcel; Søgaard, Anders. 2019. Historical Text Normalization with Delayed Rewards. The 56th Annual Meeting of the Association for Computational Linguistics (ACL). Florence, Italy. [PDF](https://www.aclweb.org/anthology/P19-1157)
 
 Flachs, Simon; Lacroix, Ophélie; Søgaard, Anders. 2019. Noisy channel for low resource grammatical error correction. 14th Workshop on Innovative Use of NLP for Building Educational Applications, ACL 2019. Florence, Italy. [PDF](https://www.aclweb.org/anthology/W19-4420)
-
-Aralikatte, Rahul; Lamm, Matthew; Hardt, Daniel; Søgaard, Anders. 2019. Ellipsis and coreference resolution as question answering. [ArXiv](https://arxiv.org/pdf/1908.11141.pdf)
-
-Aralikatte, Rahul; Søgaard, Anders. 2019. Model-based annotation of coreference. [ArXiv](https://arxiv.org/pdf/1906.10724.pdf)
 
 Flachs, Simon; Lacroix, Ophélie; Rei, Marek; Yannakoudakis, Helen; Søgaard, Anders. 2019. A simple and robust approach to detecting subject-verb agreement errors. North American Chapter of the Association for Computational Linguistics (NAACL). Minneapolis, Minnesota. [PDF](https://www.aclweb.org/anthology/N19-1251)
 
