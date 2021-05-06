@@ -5,6 +5,16 @@ Professor in Natural Language Processing and Machine Learning, Dpt. of Computer 
 
 ### 2021 
 
+Kementchedjhieva, Yova; Anderson, Mark; Søgaard, Anders. 2021. John praised Mary because <i>he</i>? Implicit Causality Bias and Its Interaction with Explicit Cues in LMs. Findings of The 59th Annual Meeting of the Association for Computational Linguistics (ACL). Virtual conference.  
+
+Anderson, Mark; Søgaard, Anders; Gomez-Rodriguez, Carlos. 2021. Replicating and Extending "Because Their Treebanks Leak": Graph Isomorphism, Covariants, and Parser Performance. The 59th Annual Meeting of the Association for Computational Linguistics (ACL). Virtual conference.  
+
+Gonzalez, Ana Valeria; Rogers, Anna; Søgaard, Anders. 2021. On the Interaction of Belief Bias and Explanations. Findings of The 59th Annual Meeting of the Association for Computational Linguistics (ACL). Virtual conference.  
+
+Petrén Bach Hansen, Victor; Søgaard, Anders. 2021. Is the Lottery Fair? Evaluating Winning Tickets Across Demographics. Findings of The 59th Annual Meeting of the Association for Computational Linguistics (ACL). Virtual conference. 
+
+Ponti, Edoardo; Aralikatte, Rahul; Shrivastava, Disha; Reddy, Siva; Søgaard, Anders. 2021. Minimax and Neyman–Pearson Meta-Learning for Outlier Languages. Findings of The 59th Annual Meeting of the Association for Computational Linguistics (ACL). Virtual conference. 
+
 Søgaard, Anders; Ebert, Sebastian; Bastings, Jasmijn; Filippova, Katja. 2021. We Need To Talk About Random Splits. The 16th conference of the European Chapter of the Association for Computational Linguistics (EACL). Virtual conference. <b>Received Honorable Mention.</b> [ArXiv](https://arxiv.org/abs/2005.00636) [Google](https://research.google/pubs/pub50045/) [PDF](https://www.aclweb.org/anthology/2021.eacl-main.156.pdf)
 
 Aralikatte, Rahul; Lamm, Matthew; Hardt, Daniel; Søgaard, Anders. 2021. Ellipsis Resolution as Question Answering: An Evaluation. The 16th conference of the European Chapter of the Association for Computational Linguistics (EACL). Virtual conference. [ArXiv](http://128.84.4.27/abs/1908.11141) [PDF](https://www.aclweb.org/anthology/2021.eacl-main.68.pdf)
