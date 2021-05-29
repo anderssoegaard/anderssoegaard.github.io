@@ -5,6 +5,8 @@ Professor in Natural Language Processing and Machine Learning, Dpt. of Computer 
 
 ### 2021 
 
+Jakobsen, Terne Sasha; Barrett, Maria; Søgaard, Anders. 2021. Spurious Correlations in Cross-Topic Argument Mining. The 10th Joint Conference on Lexical and Computational Semantics (\*SEM). Virtual conference. 
+
 Kementchedjhieva, Yova; Anderson, Mark; Søgaard, Anders. 2021. John praised Mary because <i>he</i>? Implicit Causality Bias and Its Interaction with Explicit Cues in LMs. Findings of The 59th Annual Meeting of the Association for Computational Linguistics (ACL). Virtual conference.  
 
 Anderson, Mark; Søgaard, Anders; Gomez-Rodriguez, Carlos. 2021. Replicating and Extending "Because Their Treebanks Leak": Graph Isomorphism, Covariants, and Parser Performance. The 59th Annual Meeting of the Association for Computational Linguistics (ACL). Virtual conference.  
@@ -28,6 +30,8 @@ Hartmann, Mareike; Søgaard, Anders. 2021. Multilingual Negation Scope Resolutio
 Garneau, Nicolas; Hartmann, Mareike; Sandholm, Anders; Ruder, Sebastian; Vulic, Ivan; Søgaard, Anders. 2021. Analogy Training Multilingual Encoders. The 35th AAAI Conference on Artificial Intelligence (AAAI). Virtual conference. [PDF](https://www.aaai.org/AAAI21Papers/AAAI-9541.GarneauN.pdf)
 
 Aralikatte, Rahul; Abdou, Mostafa; Lent, Heather; Hershcovich, Daniel; Søgaard, Anders. 2021. Joint Semantic Analysis with Document-Level Cross-Task Coherence Rewards. The 35th AAAI Conference on Artificial Intelligence (AAAI). Virtual conference. [ArXiv](https://arxiv.org/abs/2010.05567)
+
+Bollmann, Marcel; Aralikatte, Rahul; Bello Héctor Murrieta; Hershcovich, Daniel; de Lhoneux, Miryam; Søgaard, Anders. 2021. Moses and the Character-Based Random Babbling Baseline: CoAStaL at AmericasNLP 2021 Shared Task. NAACL Workshop on NLP for Indigenous Languages of the Americas. Virtual Conference. 
 
 Qiu, Chen; Zhou, Guangyou; Cai; Zhihua; Søgaard, Anders. 2021. A Global-Local Attentive Relation Detection Model for Knowledge Base Question Answering. IEEE Transactions on Artificial Intelligence. [Early Access](https://ieeexplore.ieee.org/document/9392350)
 
