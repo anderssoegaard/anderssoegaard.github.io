@@ -17,6 +17,8 @@ Petrén Bach Hansen, Victor; Søgaard, Anders. 2021. Is the Lottery Fair? Evalua
 
 Ponti, Edoardo; Aralikatte, Rahul; Shrivastava, Disha; Reddy, Siva; Søgaard, Anders. 2021. Minimax and Neyman–Pearson Meta-Learning for Outlier Languages. Findings of The 59th Annual Meeting of the Association for Computational Linguistics (ACL). Virtual conference. 
 
+Petrén Bach Hansen, Victor; Søgaard, Anders. 2021. Guideline Bias in Wizard-of-Oz Dialogues. ACL Workshop on Benchmarking. Virtual conference. 
+
 Aralikatte, Rahul; de Lhoneux, Miryam; Kunchukuttan, Anoop; Søgaard, Anders. 2021. Itihasa: A large-scale corpus for Sanskrit to English translation. ACL Workshop on Asian Translation. Virtual conference. 
 
 Søgaard, Anders; Ebert, Sebastian; Bastings, Jasmijn; Filippova, Katja. 2021. We Need To Talk About Random Splits. The 16th conference of the European Chapter of the Association for Computational Linguistics (EACL). Virtual conference. <b>Received Honorable Mention.</b> [ArXiv](https://arxiv.org/abs/2005.00636) [Google](https://research.google/pubs/pub50045/) [PDF](https://www.aclweb.org/anthology/2021.eacl-main.156.pdf)
