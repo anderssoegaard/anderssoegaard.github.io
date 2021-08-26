@@ -5,6 +5,16 @@ Professor in Natural Language Processing and Machine Learning, Dpt. of Computer 
 
 ### 2021 
 
+Ravishankar, Vinit; Søgaard, Anders. 2021. The Impact of Positional Encodings on Multilingual Compression. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2021. Punta Cana, Dominican Republic.
+
+Kementchedjhieva, Yova; Søgaard, Anders. 2021. Dynamic Forecasting of Conversation Derailment. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2021. Punta Cana, Dominican Republic.
+
+Zhang, Sheng; Zhang, Xin; Zhang, Weiming; Søgaard, Anders. 2021. Sociolectal Analysis of Pretrained Language Models.  Conference on Empirical Methods in Natural Language Processing (EMNLP) 2021. Punta Cana, Dominican Republic.
+
+Søgaard, Anders. 2021. Locke's Holiday: Belief Bias in Machine Reading. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2021. Punta Cana, Dominican Republic.
+
+Christiansen, Jonathan; Gammelgaard, Mathias; Søgaard, Anders. 2021. The Effect of Round-Trip Translation on Fairness in Document Classification. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2021. Punta Cana, Dominican Republic.
+
 Jakobsen, Terne Sasha; Barrett, Maria; Søgaard, Anders. 2021. Spurious Correlations in Cross-Topic Argument Mining. The 10th Joint Conference on Lexical and Computational Semantics (\*SEM). Virtual conference. 
 
 Kementchedjhieva, Yova; Anderson, Mark; Søgaard, Anders. 2021. John praised Mary because <i>he</i>? Implicit Causality Bias and Its Interaction with Explicit Cues in LMs. Findings of The 59th Annual Meeting of the Association for Computational Linguistics (ACL). Virtual conference.  
