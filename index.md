@@ -31,6 +31,8 @@ Petrén Bach Hansen, Victor; Søgaard, Anders. 2021. Guideline Bias in Wizard-of
 
 Aralikatte, Rahul; de Lhoneux, Miryam; Kunchukuttan, Anoop; Søgaard, Anders. 2021. Itihasa: A large-scale corpus for Sanskrit to English translation. ACL Workshop on Asian Translation. Virtual conference. 
 
+Aralikatte, Rahul; Bello, Hector Ricardo Murrieta; de Lhoneux, Miryam; Hershcovich, Daniel; Bollmann, Marcel; Søgaard, Anders. 2021. How far can we get with one GPU in 100 hours? CoAStaL at the MultiIndicMT Shared Task. ACL Workshop on Asian Translation. Virtual conference. 
+
 Søgaard, Anders; Ebert, Sebastian; Bastings, Jasmijn; Filippova, Katja. 2021. We Need To Talk About Random Splits. The 16th conference of the European Chapter of the Association for Computational Linguistics (EACL). Virtual conference. <b>Received Honorable Mention.</b> [ArXiv](https://arxiv.org/abs/2005.00636) [Google](https://research.google/pubs/pub50045/) [PDF](https://www.aclweb.org/anthology/2021.eacl-main.156.pdf)
 
 Aralikatte, Rahul; Lamm, Matthew; Hardt, Daniel; Søgaard, Anders. 2021. Ellipsis Resolution as Question Answering: An Evaluation. The 16th conference of the European Chapter of the Association for Computational Linguistics (EACL). Virtual conference. [ArXiv](http://128.84.4.27/abs/1908.11141) [PDF](https://www.aclweb.org/anthology/2021.eacl-main.68.pdf)
