@@ -19,7 +19,7 @@ Abdou, Mostafa; Kulmizev, Artur; Hershcovich, Daniel; Frank, Stella; Pavlick, El
 
 Hartmann, Mareike; de Lhoneux, Miryam; Hershcovich, Daniel; Kementchedjhieva, Yova; Nielsen, Lukas; Qiu, Chen; Søgaard, Anders. 2021. A Multilingual Benchmark for Probing Negation-Awareness with Minimal Pairs. Conference on Computational Natural Language Learning (CoNLL). Punta Cana, Dominican Republic.
 
-Lent, Heather; Bugliareollo, Emanuele; de Lhoneux, Miryam; Qiu, Chen; Søgaard, Anders. 2021. On Language Models for Creoles. Conference on Computational Natural Language Learning (CoNLL). Punta Cana, Dominican Republic.
+Lent, Heather; Bugliarello, Emanuele; de Lhoneux, Miryam; Qiu, Chen; Søgaard, Anders. 2021. On Language Models for Creoles. Conference on Computational Natural Language Learning (CoNLL). Punta Cana, Dominican Republic.
 
 Jakobsen, Terne Sasha; Barrett, Maria; Søgaard, Anders. 2021. Spurious Correlations in Cross-Topic Argument Mining. The 10th Joint Conference on Lexical and Computational Semantics (\*SEM). Virtual conference. 
 
