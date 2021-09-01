@@ -15,6 +15,12 @@ Søgaard, Anders. 2021. Locke's Holiday: Belief Bias in Machine Reading. Confere
 
 Christiansen, Jonathan; Gammelgaard, Mathias; Søgaard, Anders. 2021. The Effect of Round-Trip Translation on Fairness in Document Classification. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2021. Punta Cana, Dominican Republic.
 
+Abdou, Mostafa; Kulmizev, Artur; Hershcovich, Daniel; Frank, Stella; Pavlick, Ellie; Søgaard, Anders. 2021. Can Language Models Encode Perceptual Structure Without Grounding? A Case Study in Color. Conference on Computational Natural Language Learning (CoNLL). Punta Cana, Dominican Republic.
+
+Hartmann, Mareike; de Lhoneux, Miryam; Hershcovich, Daniel; Kementchedjhieva, Yova; Nielsen, Lukas; Qiu, Chen; Søgaard, Anders. 2021. A Multilingual Benchmark for Probing Negation-Awareness with Minimal Pairs. Conference on Computational Natural Language Learning (CoNLL). Punta Cana, Dominican Republic.
+
+Lent, Heather; Bugliareollo, Emanuele; de Lhoneux, Miryam; Qiu, Chen; Søgaard, Anders. 2021. On Language Models for Creoles. Conference on Computational Natural Language Learning (CoNLL). Punta Cana, Dominican Republic.
+
 Jakobsen, Terne Sasha; Barrett, Maria; Søgaard, Anders. 2021. Spurious Correlations in Cross-Topic Argument Mining. The 10th Joint Conference on Lexical and Computational Semantics (\*SEM). Virtual conference. 
 
 Kementchedjhieva, Yova; Anderson, Mark; Søgaard, Anders. 2021. John praised Mary because <i>he</i>? Implicit Causality Bias and Its Interaction with Explicit Cues in LMs. Findings of The 59th Annual Meeting of the Association for Computational Linguistics (ACL). Virtual conference.  
