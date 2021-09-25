@@ -25,6 +25,8 @@ Lent, Heather; Søgaard, Anders. 2021. Common Sense Bias in Semantic Role Labeli
 
 Liétard, Bastien; Abdou, Mostafa; Søgaard, Anders. 2021. Do Language Models Know the Way to Rome? EMNLP Workshop on BlackBoxNLP. Punta Cana, Dominican Republic.
 
+Bassani, Riccardo; Søgaard, Anders; Deoskar, Tejaswini. 2021. Clustering Monolingual Vocabularies to Improve Cross-Lingual Generalization. EMNLP Workshop on Multilingual Representation Learning. Punta Cana, Dominican Republic. 
+
 Barrett, Maria; Lam, Hieu Trong; Wu, Martin; Lacroix, Ophélie; Plank, Barbara; Søgaard, Anders. 2021. Resources and Evaluations for Danish Entity Resolution. EMNLP Workshop on Computational Models of Reference, Anaphora and Coreference. Punta Cana, Dominican Republic. 
 
 Jakobsen, Terne Sasha; Barrett, Maria; Søgaard, Anders. 2021. Spurious Correlations in Cross-Topic Argument Mining. The 10th Joint Conference on Lexical and Computational Semantics (\*SEM). Virtual conference. 
