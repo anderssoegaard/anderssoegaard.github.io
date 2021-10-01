@@ -21,6 +21,8 @@ Hartmann, Mareike; de Lhoneux, Miryam; Hershcovich, Daniel; Kementchedjhieva, Yo
 
 Lent, Heather; Bugliarello, Emanuele; de Lhoneux, Miryam; Qiu, Chen; Søgaard, Anders. 2021. On Language Models for Creoles. Conference on Computational Natural Language Learning (CoNLL). Punta Cana, Dominican Republic.
 
+Jørgensen, Anna Katrine; Søgaard, Anders. 2021. Evaluation of Summarization Systems across Gender, Age, and Race. EMNLP Workshop on New Frontiers in Summarization. Punta Cana, Dominican Republic. 
+
 Lent, Heather; Søgaard, Anders. 2021. Common Sense Bias in Semantic Role Labeling. EMNLP Workshop on Noisy User-generated Text (W-NUT). Punta Cana, Dominican Republic. 
 
 Liétard, Bastien; Abdou, Mostafa; Søgaard, Anders. 2021. Do Language Models Know the Way to Rome? EMNLP Workshop on BlackBoxNLP. Punta Cana, Dominican Republic.
