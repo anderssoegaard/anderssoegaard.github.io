@@ -5,6 +5,8 @@ Professor in Natural Language Processing and Machine Learning, Dpt. of Computer 
 
 ### 2021 
 
+Søgaard, Anders. 2021. Explainable Natural Language Processing. Morgan & Claypool. [PDF](https://www.morganclaypoolpublishers.com/catalog_Orig/product_info.php?products_id=1668)
+
 Ravishankar, Vinit; Søgaard, Anders. 2021. The Impact of Positional Encodings on Multilingual Compression. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2021. Punta Cana, Dominican Republic.
 
 Kementchedjhieva, Yova; Søgaard, Anders. 2021. Dynamic Forecasting of Conversation Derailment. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2021. Punta Cana, Dominican Republic.
@@ -122,7 +124,7 @@ Bollmann, Marcel; Korchagina, Natalia; Søgaard, Anders. 2019. Few-Shot and Zero
 
 Beloucif, Meriem; Gonzalez, Ana Valeria; Bollmann, Marcel; Søgaard, Anders. 2019. Naive regularizers for low-resource neural machine translation. Recent Advances in Natural Language Processing 2019. Borovets, Bulgaria. [PDF](https://www.aclweb.org/anthology/R19-1013.pdf)
 
-Søgaard, Anders; Vulic, Ivan; Ruder, Sebastian; Faruqui, Manaal. Cross-lingual word embeddings. Morgan & Claypool. [PDF](https://www.morganclaypool.com/doi/abs/10.2200/S00920ED2V01Y201904HLT042)
+Søgaard, Anders; Vulic, Ivan; Ruder, Sebastian; Faruqui, Manaal. 2019. Cross-lingual word embeddings. Morgan & Claypool. [PDF](https://www.morganclaypool.com/doi/abs/10.2200/S00920ED2V01Y201904HLT042)
 
 Ruder, Sebastian; Vulic, Ivan; Søgaard, Anders. 2019. A survey of cross-lingual word embedding models. Journal of Artificial Intelligence Research (JAIR) 65. [PDF](https://jair.org/index.php/jair/article/view/11640) [Arxiv](https://arxiv.org/abs/1706.04902)
 
@@ -352,7 +354,7 @@ Pedersen, Bolette; Nimb, Sanni; Olsen, Sussi; Søgaard, Anders; Sørensen, Nicol
 Fromreide, Hege; Søgaard, Anders. 2014. Crowdsourcing and annotating NER for Twitter #drift. Language Resources and Evaluation Conference 2014 (LREC). Reykjavik, Iceland. [PDF](http://www.lrec-conf.org/proceedings/lrec2014/pdf/421_Paper.pdf)
 
 ### 2013
-Søgaard, Anders. Semi-supervised learning and domain adaptation for NLP. Morgan & Claypool. [Link](https://www.morganclaypool.com/doi/abs/10.2200/S00497ED1V01Y201304HLT021?journalCode=hlt)
+Søgaard, Anders. 2013. Semi-supervised learning and domain adaptation for NLP. Morgan & Claypool. [Link](https://www.morganclaypool.com/doi/abs/10.2200/S00497ED1V01Y201304HLT021?journalCode=hlt)
 
 Søgaard, Anders; Martinez, Hector; Elming, Jakob; Johannsen, Anders. 2013. Using crowdsourcing to get representations based on regular expressions. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2013. Seattle, WA. [PDF](https://www.aclweb.org/anthology/D13-1154.pdf)
 
