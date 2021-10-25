@@ -347,7 +347,7 @@ Fromreide, Hege; Søgaard, Anders. 2014. NER in tweets using bagging and a small
 
 Schluter, Natalie; Elming, Jakob; Søgaard, Anders. 2014. Tree approximations of semantic parsing problems. SemEval 2014. Dublin, Ireland. [PDF](https://www.aclweb.org/anthology/S14-2034.pdf)
 
-Hovy, Dirk; Plank, Barbara; Søgaard, Anders. 2014. When POS datasets do not add up: Combatting sample bias. Language Resources and Evaluation Conference (LREC) 2014. Reykjavik, Iceland. [http://www.lrec-conf.org/proceedings/lrec2014/pdf/476_Paper.pdf]
+Hovy, Dirk; Plank, Barbara; Søgaard, Anders. 2014. When POS datasets do not add up: Combatting sample bias. Language Resources and Evaluation Conference (LREC) 2014. Reykjavik, Iceland. [PDF](http://www.lrec-conf.org/proceedings/lrec2014/pdf/476_Paper.pdf)
 
 Pedersen, Bolette; Nimb, Sanni; Olsen, Sussi; Søgaard, Anders; Sørensen, Nicolai. 2014. Semantic annotation of the Danish CLARIN Reference Corpus. 10th Joint ACL-ISO Workshop on Interoperable Semantic Annotation, LREC. Reykjavik, Iceland.
 
@@ -397,7 +397,7 @@ Klerke, Sigrid; Søgaard, Anders. 2012. DSim, a Danish parallel corpus for text 
 
 Søgaard, Anders; Kristiansen, Søren Lind. 2012. Using hybrid logic for querying dependency treebanks. Linguistic Issues in Language Technology 7(5). [Link](https://journals.linguisticsociety.org/elanguage/lilt/article/view/2687.html)
 
-Plank, Barbara; Søgaard, Anders. 2012. Parsing the web as covariate shift. First Workshop on Syntactic Analysis of Non-Canonical Language, NAACL 2012. Montreal, Canada. [PDF)(https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxzYW5jbDIwMTJ8Z3g6Njg1NTU0NTM5ZjdlMWMwMQ)
+Plank, Barbara; Søgaard, Anders. 2012. Parsing the web as covariate shift. First Workshop on Syntactic Analysis of Non-Canonical Language, NAACL 2012. Montreal, Canada. [PDF](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxzYW5jbDIwMTJ8Z3g6Njg1NTU0NTM5ZjdlMWMwMQ)
 
 Plank, Barbara; Søgaard, Anders. 2012. Experiments in newswire-to-law adaptation of graph-based dependency parsers. 8* Convegno Nazionale dell'Associazione Italiana di Scienze della Voce. Rome, Italy. [Link](https://link.springer.com/chapter/10.1007/978-3-642-35828-9_8)
 
