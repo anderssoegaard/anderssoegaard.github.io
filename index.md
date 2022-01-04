@@ -3,6 +3,10 @@ Professor in Natural Language Processing and Machine Learning, Dpt. of Computer 
 
 ## Publications
 
+### 2022
+
+Noe, Frederik; Herskind, Rasmus; Søgaard, Anders. 2022. Exploring the Unfairness of DP-SGD Across Settings. The Third AAAI Workshop on Privacy-Preserving Artificial Intelligence. Vancouver, Canada. 
+
 ### 2021 
 
 Søgaard, Anders. 2021. Explainable Natural Language Processing. Morgan & Claypool. [PDF](https://www.morganclaypoolpublishers.com/catalog_Orig/product_info.php?products_id=1668)
