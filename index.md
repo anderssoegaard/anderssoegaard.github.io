@@ -5,6 +5,22 @@ Professor in Natural Language Processing and Machine Learning, Dpt. of Computer 
 
 ### 2022
 
+de Lhoneux, Miryam; Zhang, Sheng; Søgaard, Anders. 2022. Zero-Shot Dependency Parsing with Worst-Case Aware Automated Curriculum Learning. The 60th Annual Meeting of the Association for Computational Linguistics (ACL). Dublin, Ireland. 
+
+Eberle, Oliver; Brandl, Stephanie; Pilot, Jonas; Søgaard, Anders. 2022. Do Transformer Models Show Similar Attention Patterns to Task-Specific Human Gaze?. The 60th Annual Meeting of the Association for Computational Linguistics (ACL). Dublin, Ireland. 
+
+Abdou, Mostafa; Ravishankar, Vinit; Kulmizev, Artur; Søgaard, Anders. 2022. Word Order Does Matter and Shuffled Language Models Know It. The 60th Annual Meeting of the Association for Computational Linguistics (ACL). Dublin, Ireland. 
+
+Chalkidis, Ilias; Pasini, Tommaso; Zhang, Sheng; Tomada, Letizia; Felix Schwemer, Sebastian; Søgaard, Anders. 2022. FairLex: A Multilingual Benchmark for Evaluating Fairness in Legal Text Processing. The 60th Annual Meeting of the Association for Computational Linguistics (ACL). Dublin, Ireland. 
+
+Hershcovich, Daniel; Frank, Stella; Lent, Heather; de Lhoneux, Miryam; Abdou, Mostafa; Brandl, Stephanie; Bugliarello, Emanuele; Piqueras, Laura Cabello; Chalkidis, Ilias; Cui, Ruixiang; Fierro, Constanza; Margatina, Katerina; Rust, Phillip; Søgaard, Anders. 2022. Challenges and Strategies in Cross-Cultural NLP. The 60th Annual Meeting of the Association for Computational Linguistics (ACL). Dublin, Ireland. 
+
+Ruder, Sebastian; Vulic, Ivan; Søgaard, Anders. 2022. Square One Bias in NLP: Towards a Multi-Dimensional Exploration of the Research Manifold. Findings of The 60th Annual Meeting of the Association for Computational Linguistics (ACL). Dublin, Ireland. 
+
+Fierro; Constanza; Søgaard, Anders. 2022. Factual Consistency of Multilingual Pretrained Language Models. Findings of The 60th Annual Meeting of the Association for Computational Linguistics (ACL). Dublin, Ireland. 
+
+Chalkidis, Ilias; Søgaard, Anders. 2022. Improved Multi-label Classification under Temporal Concept Drift: Rethinking Group-Robust Algorithms in a Label-Wise Setting. Findings of The 60th Annual Meeting of the Association for Computational Linguistics (ACL). Dublin, Ireland. 
+
 Noe, Frederik; Herskind, Rasmus; Søgaard, Anders. 2022. Exploring the Unfairness of DP-SGD Across Settings. The Third AAAI Workshop on Privacy-Preserving Artificial Intelligence. Vancouver, Canada. 
 
 ### 2021 
