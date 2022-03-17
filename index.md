@@ -5,6 +5,8 @@ Professor in Natural Language Processing and Machine Learning, Dpt. of Computer 
 
 ### 2022
 
+Brandl, Stephanie; Hershcovich, Daniel; Søgaard, Anders. 2022. Evaluating Deep Taylor Decomposition for Reliability Assessment in the Wild. The International AAAI Conference on Web and Social Media (ICWSM). Atlanta, GA. 
+
 de Lhoneux, Miryam; Zhang, Sheng; Søgaard, Anders. 2022. Zero-Shot Dependency Parsing with Worst-Case Aware Automated Curriculum Learning. The 60th Annual Meeting of the Association for Computational Linguistics (ACL). Dublin, Ireland. 
 
 Eberle, Oliver; Brandl, Stephanie; Pilot, Jonas; Søgaard, Anders. 2022. Do Transformer Models Show Similar Attention Patterns to Task-Specific Human Gaze?. The 60th Annual Meeting of the Association for Computational Linguistics (ACL). Dublin, Ireland. 
