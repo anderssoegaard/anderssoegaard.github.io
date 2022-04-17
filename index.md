@@ -13,6 +13,8 @@ Li, Zechen; Søgaard, Anders. 2022. QLEVR: A Diagnostic Dataset for Quantificati
 
 Brandl, Stephanie; Hershcovich, Daniel; Søgaard, Anders. 2022. Evaluating Deep Taylor Decomposition for Reliability Assessment in the Wild. The International AAAI Conference on Web and Social Media (ICWSM). Atlanta, GA. 
 
+Søgaard, Anders. 2022. Can Machines Be Trusted? Ethics of Trust and Expertise. Dublin, Ireland. 
+
 Lent, Heather; Ogueji, Kelechi; de Lhoneux, Miryam; Ahia, Orevaoghene and Søgaard, Anders. 2022. What a Creole Wants, What a Creole Needs. 
 The International Conference on Language Resources and Evaluation (LREC). Marseille, France. 
 
