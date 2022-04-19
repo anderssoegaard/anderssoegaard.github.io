@@ -20,7 +20,7 @@ The International Conference on Language Resources and Evaluation (LREC). Marsei
 
 de Lhoneux, Miryam; Zhang, Sheng; Søgaard, Anders. 2022. Zero-Shot Dependency Parsing with Worst-Case Aware Automated Curriculum Learning. The 60th Annual Meeting of the Association for Computational Linguistics (ACL). Dublin, Ireland. 
 
-Eberle, Oliver; Brandl, Stephanie; Pilot, Jonas; Søgaard, Anders. 2022. Do Transformer Models Show Similar Attention Patterns to Task-Specific Human Gaze?. The 60th Annual Meeting of the Association for Computational Linguistics (ACL). Dublin, Ireland. 
+Eberle, Oliver; Brandl, Stephanie; Pilot, Jonas; Søgaard, Anders. 2022. Do Transformer Models Show Similar Attention Patterns to Task-Specific Human Gaze? The 60th Annual Meeting of the Association for Computational Linguistics (ACL). Dublin, Ireland. 
 
 Abdou, Mostafa; Ravishankar, Vinit; Kulmizev, Artur; Søgaard, Anders. 2022. Word Order Does Matter and Shuffled Language Models Know It. The 60th Annual Meeting of the Association for Computational Linguistics (ACL). Dublin, Ireland. 
 
