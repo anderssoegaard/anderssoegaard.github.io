@@ -7,7 +7,7 @@ Professor in Natural Language Processing and Machine Learning, Dpt. of Computer 
 
 Cui, Ruixiang; Hershcovich, Daniel; Søgaard, Anders. 2022. Generalized Quantifiers as a Source of Error in Multilingual NLU Benchmarks. North American Chapter of the Association for Computational Linguistics (NAACL). Seattle, WA. 
 
-Brandl, Stephanie; Cui, Ruixiang; Søgaard, Anders. 2022. How Conservative are Language Models? Adapting to the Introduction of Gender-Neutral Pronouns. Findings of the North American Chapter of the Association for Computational Linguistics (NAACL). Seattle, WA. 
+Brandl, Stephanie; Cui, Ruixiang; Søgaard, Anders. 2022. How Conservative are Language Models? Adapting to the Introduction of Gender-Neutral Pronouns. North American Chapter of the Association for Computational Linguistics (NAACL). Seattle, WA. 
 
 Li, Zechen; Søgaard, Anders. 2022. QLEVR: A Diagnostic Dataset for Quantificational Language and Elementary Visual Reasoning. Findings of the North American Chapter of the Association for Computational Linguistics (NAACL). Seattle, WA.  
 
