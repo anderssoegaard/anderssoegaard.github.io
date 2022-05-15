@@ -11,12 +11,16 @@ Brandl, Stephanie; Cui, Ruixiang; Søgaard, Anders. 2022. How Conservative are L
 
 Li, Zechen; Søgaard, Anders. 2022. QLEVR: A Diagnostic Dataset for Quantificational Language and Elementary Visual Reasoning. Findings of the North American Chapter of the Association for Computational Linguistics (NAACL). Seattle, WA.  
 
+Petrén Bach Hansen, Victor; Neerkaje, Atula Tejaswi; Sawhney, Ramit; Flek, Lucie; Søgaard, Anders. 2022. The Impact of Differential Privacy on Group Disparity Mitigation. Fourth Workshop on Privacy in Natural Language Processing at NAACL 2022. Seattle, WA. 
+
 Brandl, Stephanie; Hershcovich, Daniel; Søgaard, Anders. 2022. Evaluating Deep Taylor Decomposition for Reliability Assessment in the Wild. The International AAAI Conference on Web and Social Media (ICWSM). Atlanta, GA. 
 
 Søgaard, Anders. 2022. Can Machines Be Trusted? Ethics of Trust and Expertise. Dublin, Ireland. 
 
 Lent, Heather; Ogueji, Kelechi; de Lhoneux, Miryam; Ahia, Orevaoghene and Søgaard, Anders. 2022. What a Creole Wants, What a Creole Needs. 
 The International Conference on Language Resources and Evaluation (LREC). Marseille, France. 
+
+Jakobsen, Terne Sasha Thorn; Barrett, Maria; Søgaard, Anders; Dreyer Lassen, David. 2022. The Sensitivity of Annotator Bias to Task Definitions in Argument Mining. The Sixteenth Linguistic Annotation Workshop at LREC 2022. Marseille, France. 
 
 de Lhoneux, Miryam; Zhang, Sheng; Søgaard, Anders. 2022. Zero-Shot Dependency Parsing with Worst-Case Aware Automated Curriculum Learning. The 60th Annual Meeting of the Association for Computational Linguistics (ACL). Dublin, Ireland. 
 
