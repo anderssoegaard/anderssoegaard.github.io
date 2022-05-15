@@ -5,7 +5,7 @@ Professor in Natural Language Processing and Machine Learning, Dpt. of Computer 
 
 ### 2022
 
-Søgaard, Anders. 2022. From 'Meaning is Use' to Unsupervised Grounding of Color Terms. 11th Annual British Wittgenstein Society Conference. London, UK. 
+Søgaard, Anders. 2022. From 'Meaning is Use' to Unsupervised Grounding of Color Terms. Invited talk at 11th Annual British Wittgenstein Society Conference. London, UK. 
 
 Cui, Ruixiang; Hershcovich, Daniel; Søgaard, Anders. 2022. Generalized Quantifiers as a Source of Error in Multilingual NLU Benchmarks. North American Chapter of the Association for Computational Linguistics (NAACL). Seattle, WA. 
 
