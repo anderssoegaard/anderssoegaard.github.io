@@ -5,7 +5,7 @@ Professor in Natural Language Processing and Machine Learning, Dpt. of Computer 
 
 ### 2022
 
-Cabello, Laura; Søgaard, Anders. 2022. Are Pretrained Multilingual Models Equally Fair Across Languages? The 29th International Conference on Computational Linguistics. Gyeongju, Republic of Korea.
+Cabello, Laura; Søgaard, Anders. 2022. Are Pretrained Multilingual Models Equally Fair Across Languages? The 29th International Conference on Computational Linguistics (COLING). Gyeongju, Republic of Korea.
 
 Søgaard, Anders. 2022. From 'Meaning is Use' to Unsupervised Grounding of Color Terms. Invited talk at 11th Annual British Wittgenstein Society Conference. London, UK. 
 
