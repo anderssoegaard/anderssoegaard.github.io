@@ -7,7 +7,7 @@ Professor in Natural Language Processing and Machine Learning, Dpt. of Computer 
 
 Cabello, Laura; Søgaard, Anders. 2022. Are Pretrained Multilingual Models Equally Fair Across Languages? The 29th International Conference on Computational Linguistics (COLING). Gyeongju, Republic of Korea.
 
-Søgaard, Anders. 2022. From 'Meaning is Use' to Unsupervised Grounding of Color Terms. Invited talk at 11th Annual British Wittgenstein Society Conference. London, UK. 
+Fierro, Constanza; Cabello Piqueras, Laura; Lotz, Jonas; Rust, Phillip; Rommedahl, Joen; Klok Due, Jeppe; Igel, Chrisitan; Elliott, Desmond; Bøcker Pedersen; Salazar, Israfel; Søgaard, Anders. 2022. Date Recognition in Historical Parish Records. The 18th International Conference on Frontiers of Handwriting Recognition. Hyderabad, India. 
 
 Cui, Ruixiang; Hershcovich, Daniel; Søgaard, Anders. 2022. Generalized Quantifiers as a Source of Error in Multilingual NLU Benchmarks. North American Chapter of the Association for Computational Linguistics (NAACL). Seattle, WA. 
 
@@ -18,8 +18,6 @@ Li, Zechen; Søgaard, Anders. 2022. QLEVR: A Diagnostic Dataset for Quantificati
 Petrén Bach Hansen, Victor; Neerkaje, Atula Tejaswi; Sawhney, Ramit; Flek, Lucie; Søgaard, Anders. 2022. The Impact of Differential Privacy on Group Disparity Mitigation. Fourth Workshop on Privacy in Natural Language Processing at NAACL 2022. Seattle, WA. 
 
 Brandl, Stephanie; Hershcovich, Daniel; Søgaard, Anders. 2022. Evaluating Deep Taylor Decomposition for Reliability Assessment in the Wild. The International AAAI Conference on Web and Social Media (ICWSM). Atlanta, GA. 
-
-Søgaard, Anders. 2022. Can Machines Be Trusted? Ethics of Trust and Expertise. Dublin, Ireland. 
 
 Lent, Heather; Ogueji, Kelechi; de Lhoneux, Miryam; Ahia, Orevaoghene and Søgaard, Anders. 2022. What a Creole Wants, What a Creole Needs. 
 The International Conference on Language Resources and Evaluation (LREC). Marseille, France. 
