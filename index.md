@@ -5,6 +5,8 @@ Professor in Natural Language Processing and Machine Learning, Dpt. of Computer 
 
 ### 2022
 
+Søgaard, Anders. 2022. Shortcomings of Interpretability Taxonomies for Deep Neural Networks. CIKM Workshop on Advances in Interpretable Machine Learning and Artificial Intelligence. Atlanta, GA. 
+
 Cabello, Laura; Søgaard, Anders. 2022. Are Pretrained Multilingual Models Equally Fair Across Languages? The 29th International Conference on Computational Linguistics (COLING). Gyeongju, Republic of Korea.
 
 Fierro, Constanza; Cabello Piqueras, Laura; Lotz, Jonas; Rust, Phillip; Rommedahl, Joen; Klok Due, Jeppe; Igel, Chrisitan; Elliott, Desmond; Bøcker Pedersen; Salazar, Israfel; Søgaard, Anders. 2022. Date Recognition in Historical Parish Records. The 18th International Conference on Frontiers of Handwriting Recognition. Hyderabad, India. 
