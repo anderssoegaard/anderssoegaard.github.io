@@ -5,6 +5,8 @@ Professor in Natural Language Processing and Machine Learning, Dpt. of Computer 
 
 ### 2022
 
+Søgaard, Anders. 2022. Should We Ban English NLP for a Year? Conference on Empirical Methods in Natural Language Processing (EMNLP) 2022. Abu Dhabi. 
+
 Jørgensen, Anna Katrine; Søgaard, Anders. 2022. Rawlsian AI Fairness Loopholes. AI & Ethics. To appear. 
 
 Søgaard, Anders. 2022. Shortcomings of Interpretability Taxonomies for Deep Neural Networks. CIKM Workshop on Advances in Interpretable Machine Learning and Artificial Intelligence. Atlanta, GA. 
