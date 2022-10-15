@@ -9,6 +9,8 @@ Søgaard, Anders. 2022. Understanding Models Understanding Language. Synthese. T
 
 Søgaard, Anders. 2022. Should We Ban English NLP for a Year? Conference on Empirical Methods in Natural Language Processing (EMNLP) 2022. Abu Dhabi. 
 
+Jørgensen, Rasmus Kær; Caccavale, Fiammetta; Igel, Christian; Søgaard, Anders. 2022. Are Multilingual Sentiment Models Equally Right for the Right Reasons? EMNLP Workshop on Analyzing and Interpreting Neural Networks for NLP (BlackBoxNLP). Abu Dhabi. 
+
 Jørgensen, Anna Katrine; Søgaard, Anders. 2022. Rawlsian AI Fairness Loopholes. AI & Ethics. To appear. 
 
 Søgaard, Anders. 2022. Shortcomings of Interpretability Taxonomies for Deep Neural Networks. CIKM Workshop on Advances in Interpretable Machine Learning and Artificial Intelligence. Atlanta, GA. 
