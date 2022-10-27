@@ -5,7 +5,7 @@ Professor in Natural Language Processing and Machine Learning, Dpt. of Computer 
 
 ### 2022
 
-Søgaard, Anders. 2022. Understanding Models Understanding Language. Synthese. To appear. 
+Søgaard, Anders. 2022. Understanding Models Understanding Language. Synthese. [PDF](https://trebuchet.public.springernature.app/get_content/65d11eb8-4027-46b9-a33b-0c54deb32262) 
 
 Søgaard, Anders. 2022. Should We Ban English NLP for a Year? Conference on Empirical Methods in Natural Language Processing (EMNLP) 2022. Abu Dhabi. 
 
