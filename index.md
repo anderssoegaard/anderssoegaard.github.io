@@ -13,6 +13,8 @@ Jørgensen, Rasmus Kær; Caccavale, Fiammetta; Igel, Christian; Søgaard, Anders
 
 Jørgensen, Anna Katrine; Søgaard, Anders. 2022. Rawlsian AI Fairness Loopholes. AI & Ethics. [PDF](https://trebuchet.public.springernature.app/get_content/aeedb227-ab90-4942-8ae1-08906218f80b) 
 
+Søgaard, Anders. 2022. Kunstig Intelligens Bagfra [in Danish]. Aarhus Universitetsforlag. 
+
 Søgaard, Anders. 2022. Shortcomings of Interpretability Taxonomies for Deep Neural Networks. CIKM Workshop on Advances in Interpretable Machine Learning and Artificial Intelligence. Atlanta, GA. 
 
 Cabello, Laura; Søgaard, Anders. 2022. Are Pretrained Multilingual Models Equally Fair Across Languages? The 29th International Conference on Computational Linguistics (COLING). Gyeongju, Republic of Korea.
