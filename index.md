@@ -1,5 +1,5 @@
 ## Anders Søgaard
-Professor in Natural Language Processing and Machine Learning, Dpt. of Computer Science, University of Copenhagen. Previously at University of Potsdam, Amazon and Google Research. 
+Professor in Natural Language Processing and Machine Learning, Dpt. of Computer Science, University of Copenhagen. Other affilliations: Pioneer Centre for Artificial Intelligence, Dpt. of Philosophy, and Center for Social Data Science. Previously at University of Potsdam, Amazon and Google Research. 
 
 ## Publications
 
@@ -60,49 +60,49 @@ Noe, Frederik; Herskind, Rasmus; Søgaard, Anders. 2022. Exploring the Unfairnes
 
 Søgaard, Anders. 2021. Explainable Natural Language Processing. Morgan & Claypool. [PDF](https://www.morganclaypoolpublishers.com/catalog_Orig/product_info.php?products_id=1668) [Review](https://watermark.silverchair.com/coli_r_00460.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAuowggLmBgkqhkiG9w0BBwagggLXMIIC0wIBADCCAswGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMaWKKK23ppnVExfExAgEQgIICnV4q9KZm1196464XaeIMI_2yOPbI6PCPeW1wjdi2IkdvMP4hheNMzKSD2axVtHKJ65R5umSPn3ufT4BQ5bIvNp_WjCey4sM9utBTj1T6av64bGDXMq5jGO1YetCcebcAcBS6eKgGwWdn7vTfPENGksxXVDxJxmcaZFnpL9zOIkaV7Di1NJEoZdw4JijphUwTY-FhJSlMxoDQmeYaUXcv_7RzrRATpUsTO_dogmmQNplBgA9Yi4EmNj_W1IQTeaF2p-YSCAKJLajyHp5zP_HBoLguTOa2ralQPkBA9yZTgUwxys7k0hV9VH3ZwWxCrJtBOZcG_Anfj72G4Yjg4JZAgkJ94JWj87MSjFYc47ZAuNS6obAiWIzKoe9ka1ts9TbHNCOjjz9Gu9I_hOSJmXdBNRQocAHStIKuuZYj8jdQXIqzzrbSCOQGylEgKvPL6roLxxIdeytx6WuUzsbMmhIEeTxtS_G5vorqRHw7hWhtHS96q4gctqEznQCNFwNLebA1aVzN4Yx4bAMD8TeVTBdIGKVqnkmUlcTok_LSH8cSeb55HEszwtS-pamk785ThSCxCFhPsstkFASt_RI_1CgMmMEg-9KVXcZe8oWCnbFFQRi48hLoRKGEXEJBmFVxvo_k5q6LkfxFionev_WlpdiQ2tYS-U2zDixBUG4lHFBbUzEG7nhYYPfvj9QDB6bGx7r5fnsmjhV_mXWmmU3mWuc2Oto81U_2KDpsJL4ZIRJk1xL82ijwYinD-lVujfHgAaVHzke10yCvnT7qaw1VFa0FZDje_OTHDswx6_LQ9GfbQ-_LGtfGInKo2CnCv9VPkT4lA27Rjqo-ywHA8ZIezpcJcIF1gPSC2JjPyN40l96rtq6JaH_viCiR2s0UzB48kw)
 
-Ravishankar, Vinit; Søgaard, Anders. 2021. The Impact of Positional Encodings on Multilingual Compression. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2021. Punta Cana, Dominican Republic.
+Ravishankar, Vinit; Søgaard, Anders. 2021. The Impact of Positional Encodings on Multilingual Compression. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2021. Punta Cana, Dominican Republic. [PDF](https://aclanthology.org/2021.emnlp-main.59.pdf)
 
-Kementchedjhieva, Yova; Søgaard, Anders. 2021. Dynamic Forecasting of Conversation Derailment. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2021. Punta Cana, Dominican Republic.
+Kementchedjhieva, Yova; Søgaard, Anders. 2021. Dynamic Forecasting of Conversation Derailment. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2021. Punta Cana, Dominican Republic. [PDF](https://aclanthology.org/2021.emnlp-main.624.pdf)
 
-Zhang, Sheng; Zhang, Xin; Zhang, Weiming; Søgaard, Anders. 2021. Sociolectal Analysis of Pretrained Language Models.  Conference on Empirical Methods in Natural Language Processing (EMNLP) 2021. Punta Cana, Dominican Republic.
+Zhang, Sheng; Zhang, Xin; Zhang, Weiming; Søgaard, Anders. 2021. Sociolectal Analysis of Pretrained Language Models.  Conference on Empirical Methods in Natural Language Processing (EMNLP) 2021. Punta Cana, Dominican Republic. [PDF](https://aclanthology.org/2021.emnlp-main.375/)
 
-Søgaard, Anders. 2021. Locke's Holiday: Belief Bias in Machine Reading. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2021. Punta Cana, Dominican Republic.
+Søgaard, Anders. 2021. Locke's Holiday: Belief Bias in Machine Reading. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2021. Punta Cana, Dominican Republic. [PDF](https://aclanthology.org/2021.emnlp-main.649/)
 
-Christiansen, Jonathan; Gammelgaard, Mathias; Søgaard, Anders. 2021. The Effect of Round-Trip Translation on Fairness in Document Classification. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2021. Punta Cana, Dominican Republic.
+Christiansen, Jonathan; Gammelgaard, Mathias; Søgaard, Anders. 2021. The Effect of Round-Trip Translation on Fairness in Document Classification. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2021. Punta Cana, Dominican Republic. [PDF](https://aclanthology.org/2021.emnlp-main.363.pdf)
 
-Abdou, Mostafa; Kulmizev, Artur; Hershcovich, Daniel; Frank, Stella; Pavlick, Ellie; Søgaard, Anders. 2021. Can Language Models Encode Perceptual Structure Without Grounding? A Case Study in Color. Conference on Computational Natural Language Learning (CoNLL). Punta Cana, Dominican Republic.
+Abdou, Mostafa; Kulmizev, Artur; Hershcovich, Daniel; Frank, Stella; Pavlick, Ellie; Søgaard, Anders. 2021. Can Language Models Encode Perceptual Structure Without Grounding? A Case Study in Color. Conference on Computational Natural Language Learning (CoNLL). Punta Cana, Dominican Republic. [PDF](https://aclanthology.org/2021.conll-1.9.pdf)
 
-Hartmann, Mareike; de Lhoneux, Miryam; Hershcovich, Daniel; Kementchedjhieva, Yova; Nielsen, Lukas; Qiu, Chen; Søgaard, Anders. 2021. A Multilingual Benchmark for Probing Negation-Awareness with Minimal Pairs. Conference on Computational Natural Language Learning (CoNLL). Punta Cana, Dominican Republic.
+Hartmann, Mareike; de Lhoneux, Miryam; Hershcovich, Daniel; Kementchedjhieva, Yova; Nielsen, Lukas; Qiu, Chen; Søgaard, Anders. 2021. A Multilingual Benchmark for Probing Negation-Awareness with Minimal Pairs. Conference on Computational Natural Language Learning (CoNLL). Punta Cana, Dominican Republic. [PDF](https://aclanthology.org/2021.conll-1.19/)
 
-Lent, Heather; Bugliarello, Emanuele; de Lhoneux, Miryam; Qiu, Chen; Søgaard, Anders. 2021. On Language Models for Creoles. Conference on Computational Natural Language Learning (CoNLL). Punta Cana, Dominican Republic.
+Lent, Heather; Bugliarello, Emanuele; de Lhoneux, Miryam; Qiu, Chen; Søgaard, Anders. 2021. On Language Models for Creoles. Conference on Computational Natural Language Learning (CoNLL). Punta Cana, Dominican Republic. [PDF](https://aclanthology.org/2021.conll-1.5.pdf)
 
-Jørgensen, Anna Katrine; Søgaard, Anders. 2021. Evaluation of Summarization Systems across Gender, Age, and Race. EMNLP Workshop on New Frontiers in Summarization. Punta Cana, Dominican Republic. 
+Jørgensen, Anna Katrine; Søgaard, Anders. 2021. Evaluation of Summarization Systems across Gender, Age, and Race. EMNLP Workshop on New Frontiers in Summarization. Punta Cana, Dominican Republic. [PDF](https://aclanthology.org/2021.newsum-1.6/)
 
-Lent, Heather; Søgaard, Anders. 2021. Common Sense Bias in Semantic Role Labeling. EMNLP Workshop on Noisy User-generated Text (W-NUT). Punta Cana, Dominican Republic. 
+Lent, Heather; Søgaard, Anders. 2021. Common Sense Bias in Semantic Role Labeling. EMNLP Workshop on Noisy User-generated Text (W-NUT). Punta Cana, Dominican Republic. [PDF](https://aclanthology.org/2021.wnut-1.14/)
 
-Liétard, Bastien; Abdou, Mostafa; Søgaard, Anders. 2021. Do Language Models Know the Way to Rome? EMNLP Workshop on BlackBoxNLP. Punta Cana, Dominican Republic.
+Liétard, Bastien; Abdou, Mostafa; Søgaard, Anders. 2021. Do Language Models Know the Way to Rome? EMNLP Workshop on BlackBoxNLP. Punta Cana, Dominican Republic. [PDF](https://aclanthology.org/2021.blackboxnlp-1.40/)
 
-Bassani, Riccardo; Søgaard, Anders; Deoskar, Tejaswini. 2021. Clustering Monolingual Vocabularies to Improve Cross-Lingual Generalization. EMNLP Workshop on Multilingual Representation Learning. Punta Cana, Dominican Republic. 
+Bassani, Riccardo; Søgaard, Anders; Deoskar, Tejaswini. 2021. Clustering Monolingual Vocabularies to Improve Cross-Lingual Generalization. EMNLP Workshop on Multilingual Representation Learning. Punta Cana, Dominican Republic. [PDF](https://aclanthology.org/2021.mrl-1.3/)
 
-Barrett, Maria; Lam, Hieu Trong; Wu, Martin; Lacroix, Ophélie; Plank, Barbara; Søgaard, Anders. 2021. Resources and Evaluations for Danish Entity Resolution. EMNLP Workshop on Computational Models of Reference, Anaphora and Coreference. Punta Cana, Dominican Republic. 
+Barrett, Maria; Lam, Hieu Trong; Wu, Martin; Lacroix, Ophélie; Plank, Barbara; Søgaard, Anders. 2021. Resources and Evaluations for Danish Entity Resolution. EMNLP Workshop on Computational Models of Reference, Anaphora and Coreference. Punta Cana, Dominican Republic. [PDF](https://aclanthology.org/2021.crac-1.7.pdf)
 
-Jakobsen, Terne Sasha; Barrett, Maria; Søgaard, Anders. 2021. Spurious Correlations in Cross-Topic Argument Mining. The 10th Joint Conference on Lexical and Computational Semantics (\*SEM). Virtual conference. 
+Jakobsen, Terne Sasha; Barrett, Maria; Søgaard, Anders. 2021. Spurious Correlations in Cross-Topic Argument Mining. The 10th Joint Conference on Lexical and Computational Semantics (\*SEM). Virtual conference. [PDF](https://aclanthology.org/2021.starsem-1.25/)
 
-Kementchedjhieva, Yova; Anderson, Mark; Søgaard, Anders. 2021. John praised Mary because <i>he</i>? Implicit Causality Bias and Its Interaction with Explicit Cues in LMs. Findings of The 59th Annual Meeting of the Association for Computational Linguistics (ACL). Virtual conference.  
+Kementchedjhieva, Yova; Anderson, Mark; Søgaard, Anders. 2021. John praised Mary because <i>he</i>? Implicit Causality Bias and Its Interaction with Explicit Cues in LMs. Findings of The 59th Annual Meeting of the Association for Computational Linguistics (ACL). Virtual conference. [PDF](https://aclanthology.org/2021.findings-acl.429/) 
 
-Anderson, Mark; Søgaard, Anders; Gomez-Rodriguez, Carlos. 2021. Replicating and Extending "Because Their Treebanks Leak": Graph Isomorphism, Covariants, and Parser Performance. The 59th Annual Meeting of the Association for Computational Linguistics (ACL). Virtual conference.  
+Anderson, Mark; Søgaard, Anders; Gomez-Rodriguez, Carlos. 2021. Replicating and Extending "Because Their Treebanks Leak": Graph Isomorphism, Covariants, and Parser Performance. The 59th Annual Meeting of the Association for Computational Linguistics (ACL). Virtual conference. [PDF](https://aclanthology.org/2021.acl-short.138/)
 
-Gonzalez, Ana Valeria; Rogers, Anna; Søgaard, Anders. 2021. On the Interaction of Belief Bias and Explanations. Findings of The 59th Annual Meeting of the Association for Computational Linguistics (ACL). Virtual conference.  
+Gonzalez, Ana Valeria; Rogers, Anna; Søgaard, Anders. 2021. On the Interaction of Belief Bias and Explanations. Findings of The 59th Annual Meeting of the Association for Computational Linguistics (ACL). Virtual conference. [PDF](https://aclanthology.org/2021.findings-acl.259.pdf)
 
-Petrén Bach Hansen, Victor; Søgaard, Anders. 2021. Is the Lottery Fair? Evaluating Winning Tickets Across Demographics. Findings of The 59th Annual Meeting of the Association for Computational Linguistics (ACL). Virtual conference. 
+Petrén Bach Hansen, Victor; Søgaard, Anders. 2021. Is the Lottery Fair? Evaluating Winning Tickets Across Demographics. Findings of The 59th Annual Meeting of the Association for Computational Linguistics (ACL). Virtual conference. [PDF](https://aclanthology.org/2021.findings-acl.284/)
 
-Ponti, Edoardo; Aralikatte, Rahul; Shrivastava, Disha; Reddy, Siva; Søgaard, Anders. 2021. Minimax and Neyman–Pearson Meta-Learning for Outlier Languages. Findings of The 59th Annual Meeting of the Association for Computational Linguistics (ACL). Virtual conference. 
+Ponti, Edoardo; Aralikatte, Rahul; Shrivastava, Disha; Reddy, Siva; Søgaard, Anders. 2021. Minimax and Neyman–Pearson Meta-Learning for Outlier Languages. Findings of The 59th Annual Meeting of the Association for Computational Linguistics (ACL). Virtual conference. [PDF](https://aclanthology.org/2021.findings-acl.106.pdf)
 
-Petrén Bach Hansen, Victor; Søgaard, Anders. 2021. Guideline Bias in Wizard-of-Oz Dialogues. ACL Workshop on Benchmarking. Virtual conference. 
+Petrén Bach Hansen, Victor; Søgaard, Anders. 2021. Guideline Bias in Wizard-of-Oz Dialogues. ACL Workshop on Benchmarking. Virtual conference. [PDF](https://aclanthology.org/2021.bppf-1.2/)
 
-Aralikatte, Rahul; de Lhoneux, Miryam; Kunchukuttan, Anoop; Søgaard, Anders. 2021. Itihasa: A large-scale corpus for Sanskrit to English translation. ACL Workshop on Asian Translation. Virtual conference. 
+Aralikatte, Rahul; de Lhoneux, Miryam; Kunchukuttan, Anoop; Søgaard, Anders. 2021. Itihasa: A large-scale corpus for Sanskrit to English translation. ACL Workshop on Asian Translation. Virtual conference. [PDF](https://aclanthology.org/2021.wat-1.22/)
 
-Aralikatte, Rahul; Bello, Hector Ricardo Murrieta; de Lhoneux, Miryam; Hershcovich, Daniel; Bollmann, Marcel; Søgaard, Anders. 2021. How far can we get with one GPU in 100 hours? CoAStaL at the MultiIndicMT Shared Task. ACL Workshop on Asian Translation. Virtual conference. 
+Aralikatte, Rahul; Bello, Hector Ricardo Murrieta; de Lhoneux, Miryam; Hershcovich, Daniel; Bollmann, Marcel; Søgaard, Anders. 2021. How far can we get with one GPU in 100 hours? CoAStaL at the MultiIndicMT Shared Task. ACL Workshop on Asian Translation. Virtual conference. [PDF](https://aclanthology.org/2021.wat-1.24/)
 
 Søgaard, Anders; Ebert, Sebastian; Bastings, Jasmijn; Filippova, Katja. 2021. We Need To Talk About Random Splits. The 16th conference of the European Chapter of the Association for Computational Linguistics (EACL). Virtual conference. <b>Received Honorable Mention.</b> [ArXiv](https://arxiv.org/abs/2005.00636) [Google](https://research.google/pubs/pub50045/) [PDF](https://www.aclweb.org/anthology/2021.eacl-main.156.pdf)
 
