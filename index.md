@@ -13,48 +13,48 @@ Jørgensen, Rasmus Kær; Caccavale, Fiammetta; Igel, Christian; Søgaard, Anders
 
 Jørgensen, Anna Katrine; Søgaard, Anders. 2022. Rawlsian AI Fairness Loopholes. AI & Ethics. [PDF](https://trebuchet.public.springernature.app/get_content/aeedb227-ab90-4942-8ae1-08906218f80b) 
 
-Søgaard, Anders. 2022. Kunstig Intelligens Bagfra [in Danish]. Aarhus Universitetsforlag. 
+Søgaard, Anders. 2022. Kunstig Intelligens Bagfra [in Danish]. Aarhus Universitetsforlag. [Book](https://www.bog-ide.dk/produkt/3766501/anders-soegaard-kunstig-intelligens-bagfra) [Audio](https://mofibo.com/dk/da/authors/710694-Anders-Soegaard) 
 
-Søgaard, Anders. 2022. Shortcomings of Interpretability Taxonomies for Deep Neural Networks. CIKM Workshop on Advances in Interpretable Machine Learning and Artificial Intelligence. Atlanta, GA. 
+Søgaard, Anders. 2022. Shortcomings of Interpretability Taxonomies for Deep Neural Networks. CIKM Workshop on Advances in Interpretable Machine Learning and Artificial Intelligence. Atlanta, GA. [PDF](https://project.inria.fr/aimlai/files/2022/10/aimlaicikm22_paper_2.pdf)
 
-Cabello, Laura; Søgaard, Anders. 2022. Are Pretrained Multilingual Models Equally Fair Across Languages? The 29th International Conference on Computational Linguistics (COLING). Gyeongju, Republic of Korea.
+Cabello, Laura; Søgaard, Anders. 2022. Are Pretrained Multilingual Models Equally Fair Across Languages? The 29th International Conference on Computational Linguistics (COLING). Gyeongju, Republic of Korea. [PDF](https://aclanthology.org/2022.coling-1.318/)
 
 Fierro, Constanza; Cabello Piqueras, Laura; Lotz, Jonas; Rust, Phillip; Rommedahl, Joen; Klok Due, Jeppe; Igel, Chrisitan; Elliott, Desmond; Bøcker Pedersen; Salazar, Israfel; Søgaard, Anders. 2022. Date Recognition in Historical Parish Records. The 18th International Conference on Frontiers of Handwriting Recognition. Hyderabad, India. 
 
-Cui, Ruixiang; Hershcovich, Daniel; Søgaard, Anders. 2022. Generalized Quantifiers as a Source of Error in Multilingual NLU Benchmarks. North American Chapter of the Association for Computational Linguistics (NAACL). Seattle, WA. 
+Cui, Ruixiang; Hershcovich, Daniel; Søgaard, Anders. 2022. Generalized Quantifiers as a Source of Error in Multilingual NLU Benchmarks. North American Chapter of the Association for Computational Linguistics (NAACL). Seattle, WA. [PDF](https://aclanthology.org/2022.naacl-main.359/)
 
-Brandl, Stephanie; Cui, Ruixiang; Søgaard, Anders. 2022. How Conservative are Language Models? Adapting to the Introduction of Gender-Neutral Pronouns. North American Chapter of the Association for Computational Linguistics (NAACL). Seattle, WA. 
+Brandl, Stephanie; Cui, Ruixiang; Søgaard, Anders. 2022. How Conservative are Language Models? Adapting to the Introduction of Gender-Neutral Pronouns. North American Chapter of the Association for Computational Linguistics (NAACL). Seattle, WA. [PDF](https://aclanthology.org/2022.naacl-main.265/)
 
-Li, Zechen; Søgaard, Anders. 2022. QLEVR: A Diagnostic Dataset for Quantificational Language and Elementary Visual Reasoning. Findings of the North American Chapter of the Association for Computational Linguistics (NAACL). Seattle, WA.  
+Li, Zechen; Søgaard, Anders. 2022. QLEVR: A Diagnostic Dataset for Quantificational Language and Elementary Visual Reasoning. Findings of the North American Chapter of the Association for Computational Linguistics (NAACL). Seattle, WA. [PDF](https://aclanthology.org/2022.findings-naacl.73/)
 
-Petrén Bach Hansen, Victor; Neerkaje, Atula Tejaswi; Sawhney, Ramit; Flek, Lucie; Søgaard, Anders. 2022. The Impact of Differential Privacy on Group Disparity Mitigation. Fourth Workshop on Privacy in Natural Language Processing at NAACL 2022. Seattle, WA. 
+Petrén Bach Hansen, Victor; Neerkaje, Atula Tejaswi; Sawhney, Ramit; Flek, Lucie; Søgaard, Anders. 2022. The Impact of Differential Privacy on Group Disparity Mitigation. Fourth Workshop on Privacy in Natural Language Processing at NAACL 2022. Seattle, WA. [PDF](https://aclanthology.org/2022.privatenlp-1.2/)
 
-Brandl, Stephanie; Hershcovich, Daniel; Søgaard, Anders. 2022. Evaluating Deep Taylor Decomposition for Reliability Assessment in the Wild. The International AAAI Conference on Web and Social Media (ICWSM). Atlanta, GA. 
+Brandl, Stephanie; Hershcovich, Daniel; Søgaard, Anders. 2022. Evaluating Deep Taylor Decomposition for Reliability Assessment in the Wild. The International AAAI Conference on Web and Social Media (ICWSM). Atlanta, GA. [PDF](https://ojs.aaai.org/index.php/ICWSM/article/view/19389)
 
 Lent, Heather; Ogueji, Kelechi; de Lhoneux, Miryam; Ahia, Orevaoghene and Søgaard, Anders. 2022. What a Creole Wants, What a Creole Needs. 
-The International Conference on Language Resources and Evaluation (LREC). Marseille, France. 
+The International Conference on Language Resources and Evaluation (LREC). Marseille, France. [PDF](https://aclanthology.org/2022.lrec-1.691/)
 
-Jakobsen, Terne Sasha Thorn; Barrett, Maria; Søgaard, Anders; Dreyer Lassen, David. 2022. The Sensitivity of Annotator Bias to Task Definitions in Argument Mining. The Sixteenth Linguistic Annotation Workshop at LREC 2022. Marseille, France. 
+Jakobsen, Terne Sasha Thorn; Barrett, Maria; Søgaard, Anders; Dreyer Lassen, David. 2022. The Sensitivity of Annotator Bias to Task Definitions in Argument Mining. The Sixteenth Linguistic Annotation Workshop at LREC 2022. Marseille, France. [PDF](https://aclanthology.org/2022.law-1.6.pdf)
 
-de Lhoneux, Miryam; Zhang, Sheng; Søgaard, Anders. 2022. Zero-Shot Dependency Parsing with Worst-Case Aware Automated Curriculum Learning. The 60th Annual Meeting of the Association for Computational Linguistics (ACL). Dublin, Ireland. 
+de Lhoneux, Miryam; Zhang, Sheng; Søgaard, Anders. 2022. Zero-Shot Dependency Parsing with Worst-Case Aware Automated Curriculum Learning. The 60th Annual Meeting of the Association for Computational Linguistics (ACL). Dublin, Ireland. [PDF](https://aclanthology.org/2022.acl-short.64.pdf)
 
-Eberle, Oliver; Brandl, Stephanie; Pilot, Jonas; Søgaard, Anders. 2022. Do Transformer Models Show Similar Attention Patterns to Task-Specific Human Gaze? The 60th Annual Meeting of the Association for Computational Linguistics (ACL). Dublin, Ireland. 
+Eberle, Oliver; Brandl, Stephanie; Pilot, Jonas; Søgaard, Anders. 2022. Do Transformer Models Show Similar Attention Patterns to Task-Specific Human Gaze? The 60th Annual Meeting of the Association for Computational Linguistics (ACL). Dublin, Ireland. [PDF](https://aclanthology.org/2022.acl-long.296/)
 
-Abdou, Mostafa; Ravishankar, Vinit; Kulmizev, Artur; Søgaard, Anders. 2022. Word Order Does Matter and Shuffled Language Models Know It. The 60th Annual Meeting of the Association for Computational Linguistics (ACL). Dublin, Ireland. 
+Abdou, Mostafa; Ravishankar, Vinit; Kulmizev, Artur; Søgaard, Anders. 2022. Word Order Does Matter and Shuffled Language Models Know It. The 60th Annual Meeting of the Association for Computational Linguistics (ACL). Dublin, Ireland. [PDF](https://aclanthology.org/2022.acl-long.476/)
 
-Chalkidis, Ilias; Pasini, Tommaso; Zhang, Sheng; Tomada, Letizia; Felix Schwemer, Sebastian; Søgaard, Anders. 2022. FairLex: A Multilingual Benchmark for Evaluating Fairness in Legal Text Processing. The 60th Annual Meeting of the Association for Computational Linguistics (ACL). Dublin, Ireland. 
+Chalkidis, Ilias; Pasini, Tommaso; Zhang, Sheng; Tomada, Letizia; Felix Schwemer, Sebastian; Søgaard, Anders. 2022. FairLex: A Multilingual Benchmark for Evaluating Fairness in Legal Text Processing. The 60th Annual Meeting of the Association for Computational Linguistics (ACL). Dublin, Ireland. [PDF](https://aclanthology.org/2022.acl-long.301/)
 
-Hershcovich, Daniel; Frank, Stella; Lent, Heather; de Lhoneux, Miryam; Abdou, Mostafa; Brandl, Stephanie; Bugliarello, Emanuele; Piqueras, Laura Cabello; Chalkidis, Ilias; Cui, Ruixiang; Fierro, Constanza; Margatina, Katerina; Rust, Phillip; Søgaard, Anders. 2022. Challenges and Strategies in Cross-Cultural NLP. The 60th Annual Meeting of the Association for Computational Linguistics (ACL). Dublin, Ireland. 
+Hershcovich, Daniel; Frank, Stella; Lent, Heather; de Lhoneux, Miryam; Abdou, Mostafa; Brandl, Stephanie; Bugliarello, Emanuele; Piqueras, Laura Cabello; Chalkidis, Ilias; Cui, Ruixiang; Fierro, Constanza; Margatina, Katerina; Rust, Phillip; Søgaard, Anders. 2022. Challenges and Strategies in Cross-Cultural NLP. The 60th Annual Meeting of the Association for Computational Linguistics (ACL). Dublin, Ireland. [PDF](https://aclanthology.org/2022.acl-long.482/)
 
-Ruder, Sebastian; Vulic, Ivan; Søgaard, Anders. 2022. Square One Bias in NLP: Towards a Multi-Dimensional Exploration of the Research Manifold. Findings of The 60th Annual Meeting of the Association for Computational Linguistics (ACL). Dublin, Ireland. 
+Ruder, Sebastian; Vulic, Ivan; Søgaard, Anders. 2022. Square One Bias in NLP: Towards a Multi-Dimensional Exploration of the Research Manifold. Findings of The 60th Annual Meeting of the Association for Computational Linguistics (ACL). Dublin, Ireland. [PDF](https://aclanthology.org/2022.findings-acl.184/)
 
-Fierro; Constanza; Søgaard, Anders. 2022. Factual Consistency of Multilingual Pretrained Language Models. Findings of The 60th Annual Meeting of the Association for Computational Linguistics (ACL). Dublin, Ireland. 
+Fierro; Constanza; Søgaard, Anders. 2022. Factual Consistency of Multilingual Pretrained Language Models. Findings of The 60th Annual Meeting of the Association for Computational Linguistics (ACL). Dublin, Ireland. [PDF](https://aclanthology.org/2022.findings-acl.240.pdf)
 
-Chalkidis, Ilias; Søgaard, Anders. 2022. Improved Multi-label Classification under Temporal Concept Drift: Rethinking Group-Robust Algorithms in a Label-Wise Setting. Findings of The 60th Annual Meeting of the Association for Computational Linguistics (ACL). Dublin, Ireland. 
+Chalkidis, Ilias; Søgaard, Anders. 2022. Improved Multi-label Classification under Temporal Concept Drift: Rethinking Group-Robust Algorithms in a Label-Wise Setting. Findings of The 60th Annual Meeting of the Association for Computational Linguistics (ACL). Dublin, Ireland. [PDF](https://anthology.aclweb.org/2022.findings-acl.192/)
 
-Lent, Heather; Bugliarello, Emanuele; Søgaard, Anders. 2022. Ancestor-to-Creole Transfer is Not a Walk in the Park. ACL Workshop on Insights from Negative Results in NLP. Dublin, Ireland. 
+Lent, Heather; Bugliarello, Emanuele; Søgaard, Anders. 2022. Ancestor-to-Creole Transfer is Not a Walk in the Park. ACL Workshop on Insights from Negative Results in NLP. Dublin, Ireland. [PDF](https://aclanthology.org/2022.insights-1.9/)
 
-Noe, Frederik; Herskind, Rasmus; Søgaard, Anders. 2022. Exploring the Unfairness of DP-SGD Across Settings. The Third AAAI Workshop on Privacy-Preserving Artificial Intelligence. Vancouver, Canada. 
+Noe, Frederik; Herskind, Rasmus; Søgaard, Anders. 2022. Exploring the Unfairness of DP-SGD Across Settings. The Third AAAI Workshop on Privacy-Preserving Artificial Intelligence. Vancouver, Canada. [PDF](https://aaai-ppai22.github.io/files/31.pdf)
 
 ### 2021 
 
