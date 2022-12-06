@@ -7,6 +7,8 @@ Professor in Natural Language Processing and Machine Learning, Dpt. of Computer 
 
 Søgaard, Anders. 2022. Understanding Models Understanding Language. Synthese. [PDF](https://trebuchet.public.springernature.app/get_content/65d11eb8-4027-46b9-a33b-0c54deb32262) 
 
+Due, Jeppe; Pedersen, Marianne; Antonsen, Sussie; Rommedahl, Joen; Agerbo, Esben; Mortensen, Preben Bo; Sørensen, Henrik; Lotz, Jonas; Piqueras, Laura; Fierro, Constanza; Karamolegkou, Antonia; Igel, Christian; Rust, Phillip; Søgaard, Anders; Pedersen, Carsten. 2022. Towards More Comprehensive Nationwide Familial Aggregation Studies in Denmark. Scandinavian Journal of Public Health. 
+
 Søgaard, Anders. 2022. Should We Ban English NLP for a Year? Conference on Empirical Methods in Natural Language Processing (EMNLP) 2022. Abu Dhabi. 
 
 Jørgensen, Rasmus Kær; Caccavale, Fiammetta; Igel, Christian; Søgaard, Anders. 2022. Are Multilingual Sentiment Models Equally Right for the Right Reasons? EMNLP Workshop on Analyzing and Interpreting Neural Networks for NLP (BlackBoxNLP). Abu Dhabi. 
