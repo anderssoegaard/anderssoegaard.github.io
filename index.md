@@ -3,6 +3,10 @@ Professor in Natural Language Processing and Machine Learning, Dpt. of Computer 
 
 ## Publications
 
+### 2023
+
+Søgaard, Anders. 2023. Grounding the Vector Space of an Octopus: Reference from Raw Text. Minds and Machines. 
+
 ### 2022
 
 Søgaard, Anders. 2022. Understanding Models Understanding Language. Synthese 200:433. [PDF](https://link.springer.com/content/pdf/10.1007/s11229-022-03931-4.pdf?pdf=button) 
