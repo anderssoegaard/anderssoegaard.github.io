@@ -11,6 +11,8 @@ Søgaard, Anders. 2023. Grounding the Vector Space of an Octopus: Reference from
 
 Søgaard, Anders. 2022. Understanding Models Understanding Language. Synthese 200:433. [PDF](https://link.springer.com/content/pdf/10.1007/s11229-022-03931-4.pdf?pdf=button) 
 
+Miranda, Lester James; Kádár, Ákos; Boyd, Adriane; Van Landeghem, Sofie; Søgaard, Anders; Honnibal, Matthew. 2022. Multi hash embeddings in spaCy. ArXiv:2212.09255. [PDF](https://arxiv.org/pdf/2212.09255.pdf) 
+
 Due, Jeppe; Pedersen, Marianne; Antonsen, Sussie; Rommedahl, Joen; Agerbo, Esben; Mortensen, Preben Bo; Sørensen, Henrik; Lotz, Jonas; Piqueras, Laura; Fierro, Constanza; Karamolegkou, Antonia; Igel, Christian; Rust, Phillip; Søgaard, Anders; Pedersen, Carsten. 2022. Towards More Comprehensive Nationwide Familial Aggregation Studies in Denmark. Scandinavian Journal of Public Health. 
 
 Søgaard, Anders. 2022. Should We Ban English NLP for a Year? Conference on Empirical Methods in Natural Language Processing (EMNLP) 2022. Abu Dhabi. 
@@ -93,6 +95,8 @@ Bassani, Riccardo; Søgaard, Anders; Deoskar, Tejaswini. 2021. Clustering Monoli
 Barrett, Maria; Lam, Hieu Trong; Wu, Martin; Lacroix, Ophélie; Plank, Barbara; Søgaard, Anders. 2021. Resources and Evaluations for Danish Entity Resolution. EMNLP Workshop on Computational Models of Reference, Anaphora and Coreference. Punta Cana, Dominican Republic. [PDF](https://aclanthology.org/2021.crac-1.7.pdf)
 
 Jakobsen, Terne Sasha; Barrett, Maria; Søgaard, Anders. 2021. Spurious Correlations in Cross-Topic Argument Mining. The 10th Joint Conference on Lexical and Computational Semantics (\*SEM). Virtual conference. [PDF](https://aclanthology.org/2021.starsem-1.25/)
+
+Karthikeyan, K; Søgaard, Anders. 2021. Revisiting Methods for Finding Influential Examples. ArXiv:2111.04683. [ArXiv](https://arxiv.org/abs/2111.04683)
 
 Kementchedjhieva, Yova; Anderson, Mark; Søgaard, Anders. 2021. John praised Mary because <i>he</i>? Implicit Causality Bias and Its Interaction with Explicit Cues in LMs. Findings of The 59th Annual Meeting of the Association for Computational Linguistics (ACL). Virtual conference. [PDF](https://aclanthology.org/2021.findings-acl.429/) 
 
