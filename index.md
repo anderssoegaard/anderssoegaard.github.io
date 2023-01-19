@@ -132,6 +132,8 @@ Bollmann, Marcel; Aralikatte, Rahul; Bello Héctor Murrieta; Hershcovich, Daniel
 
 Qiu, Chen; Zhou, Guangyou; Cai; Zhihua; Søgaard, Anders. 2021. A Global-Local Attentive Relation Detection Model for Knowledge Base Question Answering. IEEE Transactions on Artificial Intelligence. [Early Access](https://ieeexplore.ieee.org/document/9392350)
 
+Abdou, Mostafa; Gonzalez, Ana Valeria; Toneva, Mariya; Hershcovich, Daniel; Søgaard, Anders. 2021. Does injecting linguistic structure into language models lead to better alignment with brain recordings? [ArXiv](https://arxiv.org/abs/2101.12608)
+
 ### 2020 
 
 Gonzalez, Ana Valeria; Søgaard, Anders. 2020. The Reverse Turing Test for Evaluating Interpretability Methods on Unknown Tasks. NeurIPS Workshop on Human And Machine in-the-Loop Evaluation and Learning Strategies. Virtual conference. [PDF](https://openreview.net/pdf?id=y190Uu1z5Zk)
