@@ -7,6 +7,10 @@ Professor in Natural Language Processing and Machine Learning, Dpt. of Computer 
 
 Søgaard, Anders. 2023. Grounding the Vector Space of an Octopus: Reference from Raw Text. Minds and Machines. 
 
+Søgaard, Anders; Hershcovich, Daniel; de Lhoneux, Miryam. 2023. A Two-Sided Discussion of Preregistration of NLP Research. The 16th conference of the European Chapter of the Association for Computational Linguistics (EACL). Dubrovnik, Croatia. 
+
+Kementchedjhieva, Yova; Søgaard, Anders. 2023. Grammatical Error Correction through Round-Trip Machine Translation. Findings of The 16th conference of the European Chapter of the Association for Computational Linguistics (EACL). Dubrovnik, Croatia. 
+
 ### 2022
 
 Søgaard, Anders. 2022. Understanding Models Understanding Language. Synthese 200:433. [PDF](https://link.springer.com/content/pdf/10.1007/s11229-022-03931-4.pdf?pdf=button) 
