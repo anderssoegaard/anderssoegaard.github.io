@@ -5,7 +5,7 @@ Professor in Natural Language Processing and Machine Learning, Dpt. of Computer 
 
 ### 2023
 
-Søgaard, Anders. 2023. Grounding the Vector Space of an Octopus: Word Meaning from Raw Text. Minds and Machines. [PDF](https://link.springer.com/epdf/10.1007/s11023-023-09622-4?sharing_token=utsvAoGHVSEuIziicOl5_ve4RwlQNchNByi7wbcMAY5tB2-oDYgG17Jb9vYuJVfNT7KsTXpMkHz338Ocdaoy1yKPUckctAvJF7IAbezyVHlaeEizmJDd9OcHA1UgobDnuY5zBR8QYX62cTnFU3jalEhT1593so-LyzDTSoWDucA%3D)
+Søgaard, Anders. 2023. Grounding the Vector Space of an Octopus: Word Meaning from Raw Text. Minds and Machines. [PDF](https://link.springer.com/article/10.1007/s11023-023-09622-4)
 
 Søgaard, Anders; Hershcovich, Daniel; de Lhoneux, Miryam. 2023. A Two-Sided Discussion of Preregistration of NLP Research. The 16th conference of the European Chapter of the Association for Computational Linguistics (EACL). Dubrovnik, Croatia. 
 
