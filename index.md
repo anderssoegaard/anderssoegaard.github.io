@@ -31,7 +31,7 @@ Søgaard, Anders. 2022. Shortcomings of Interpretability Taxonomies for Deep Neu
 
 Cabello, Laura; Søgaard, Anders. 2022. Are Pretrained Multilingual Models Equally Fair Across Languages? The 29th International Conference on Computational Linguistics (COLING). Gyeongju, Republic of Korea. [PDF](https://aclanthology.org/2022.coling-1.318/)
 
-Fierro, Constanza; Cabello Piqueras, Laura; Lotz, Jonas; Rust, Phillip; Rommedahl, Joen; Klok Due, Jeppe; Igel, Chrisitan; Elliott, Desmond; Bøcker Pedersen; Salazar, Israfel; Søgaard, Anders. 2022. Date Recognition in Historical Parish Records. The 18th International Conference on Frontiers of Handwriting Recognition. Hyderabad, India. 
+Fierro, Constanza; Cabello Piqueras, Laura; Lotz, Jonas; Rust, Phillip; Rommedahl, Joen; Klok Due, Jeppe; Igel, Chrisitan; Elliott, Desmond; Bøcker Pedersen; Salazar, Israfel; Søgaard, Anders. 2022. Date Recognition in Historical Parish Records. The 18th International Conference on Frontiers of Handwriting Recognition. Hyderabad, India. [PDF](https://link.springer.com/chapter/10.1007/978-3-031-21648-0_4)
 
 Cui, Ruixiang; Hershcovich, Daniel; Søgaard, Anders. 2022. Generalized Quantifiers as a Source of Error in Multilingual NLU Benchmarks. North American Chapter of the Association for Computational Linguistics (NAACL). Seattle, WA. [PDF](https://aclanthology.org/2022.naacl-main.359/)
 
