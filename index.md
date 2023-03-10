@@ -19,9 +19,9 @@ Miranda, Lester James; Kádár, Ákos; Boyd, Adriane; Van Landeghem, Sofie; Søg
 
 Due, Jeppe; Pedersen, Marianne; Antonsen, Sussie; Rommedahl, Joen; Agerbo, Esben; Mortensen, Preben Bo; Sørensen, Henrik; Lotz, Jonas; Piqueras, Laura; Fierro, Constanza; Karamolegkou, Antonia; Igel, Christian; Rust, Phillip; Søgaard, Anders; Pedersen, Carsten. 2022. Towards More Comprehensive Nationwide Familial Aggregation Studies in Denmark. Scandinavian Journal of Public Health. 
 
-Søgaard, Anders. 2022. Should We Ban English NLP for a Year? Conference on Empirical Methods in Natural Language Processing (EMNLP) 2022. Abu Dhabi. 
+Søgaard, Anders. 2022. Should We Ban English NLP for a Year? Conference on Empirical Methods in Natural Language Processing (EMNLP) 2022. Abu Dhabi. [PDF](https://aclanthology.org/2022.emnlp-main.351/)
 
-Jørgensen, Rasmus Kær; Caccavale, Fiammetta; Igel, Christian; Søgaard, Anders. 2022. Are Multilingual Sentiment Models Equally Right for the Right Reasons? EMNLP Workshop on Analyzing and Interpreting Neural Networks for NLP (BlackBoxNLP). Abu Dhabi. 
+Jørgensen, Rasmus Kær; Caccavale, Fiammetta; Igel, Christian; Søgaard, Anders. 2022. Are Multilingual Sentiment Models Equally Right for the Right Reasons? EMNLP Workshop on Analyzing and Interpreting Neural Networks for NLP (BlackBoxNLP). Abu Dhabi. [PDF](https://aclanthology.org/2022.blackboxnlp-1.11/)
 
 Jørgensen, Anna Katrine; Søgaard, Anders. 2022. Rawlsian AI Fairness Loopholes. AI & Ethics. [PDF](https://link.springer.com/content/pdf/10.1007/s43681-022-00226-9.pdf?pdf=button) 
 
