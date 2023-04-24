@@ -5,6 +5,8 @@ Professor in Natural Language Processing and Machine Learning, Dpt. of Computer 
 
 ### 2023
 
+Rust, Phillip; Søgaard, Anders. 2023. Differential Privacy, Linguistic Fairness, and Training Data Influence: Impossibility and Possibility Theorems for Multilingual Language Models. The 40th International Conference on Machine Learning (ICML). Honolulu, Hawaii. 
+
 Søgaard, Anders. 2023. Grounding the Vector Space of an Octopus: Word Meaning from Raw Text. Minds and Machines. [PDF](https://link.springer.com/article/10.1007/s11023-023-09622-4)
 
 Lee, Seolhwa; Søgaard, Anders. 2023. Private Meeting Summarization Without Performance Loss. 	
