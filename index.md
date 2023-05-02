@@ -7,6 +7,15 @@ Professor in Natural Language Processing and Machine Learning, Dpt. of Computer 
 
 Rust, Phillip; Søgaard, Anders. 2023. Differential Privacy, Linguistic Fairness, and Training Data Influence: Impossibility and Possibility Theorems for Multilingual Language Models. The 40th International Conference on Machine Learning (ICML). Honolulu, Hawaii. 
 
+Cui, Ruixiang; Lee, Seolhwa; Hershcovich, Daniel; Søgaard, Anders. 2023. What does the Failure to Reason with "Respectively'' in Zero/Few-Shot Settings Tell Us about Language Models? The 61st Annual Meeting of the Association for Computational Linguistics (ACL). Toronto, Canada. 
+
+Chalkidis, Ilias; Garneau, Nicolas; Goanta, Catalina; Katz, Daniel; Søgaard, Anders. 2023. LeXFiles and LegalLAMA: Facilitating English Multinational Legal Language Model Development. The 61st Annual Meeting of the Association for Computational Linguistics (ACL). Toronto, Canada.
+
+Jakobsen, Terne; Cabello, Laura; Søgaard, Anders. 2023. Being Right for Whose Right Reasons? The 61st Annual Meeting of the Association for Computational Linguistics (ACL). Toronto, Canada.
+
+Karamolegkou, Antonia; Abdou, Mostafa; Søgaard, Anders. 2023. Mapping Brains with Language Models: A Survey. The 61st Annual Meeting of the Association for Computational Linguistics (ACL). Toronto, Canada.
+
+
 Søgaard, Anders. 2023. Grounding the Vector Space of an Octopus: Word Meaning from Raw Text. Minds and Machines. [PDF](https://link.springer.com/article/10.1007/s11023-023-09622-4)
 
 Lee, Seolhwa; Søgaard, Anders. 2023. Private Meeting Summarization Without Performance Loss. 	
