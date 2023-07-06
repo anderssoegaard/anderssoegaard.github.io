@@ -5,6 +5,12 @@ Professor in Natural Language Processing and Machine Learning, Dpt. of Computer 
 
 ### 2023
 
+Li, Jiaang; Karamolegkou, Antonia; Kementchedjhieva, Yova; Abdou, Mostafa; Lehmann, Sune Lehmann; Søgaard, Anders. 2023. Large Language Models Converge on Brain-Like Word Representations. ArXiv:2306.01930. [ArXiv](https://arxiv.org/pdf/2306.01930.pdf)
+
+Li, Jiaang; Kementchedjhieva, Yova; Søgaard, Anders. 2023. Implications of the Convergence of Language and Vision Model Geometries. ArXiv:2302.06555. [ArXiv](https://arxiv.org/pdf/2302.06555.pdf)
+
+Ribeiro, Tiago; Brandl, Stephanie; Søgaard, Anders; Hollenstein, Nora. 2023. WebQAmGaze: A Multilingual Webcam Eye-Tracking-While-Reading Dataset. [ArXiv](https://arxiv.org/pdf/2303.17876.pdf)
+
 Rust, Phillip; Søgaard, Anders. 2023. Differential Privacy, Linguistic Fairness, and Training Data Influence: Impossibility and Possibility Theorems for Multilingual Language Models. The 40th International Conference on Machine Learning (ICML). Honolulu, Hawaii. 
 
 Cui, Ruixiang; Lee, Seolhwa; Hershcovich, Daniel; Søgaard, Anders. 2023. What does the Failure to Reason with "Respectively'' in Zero/Few-Shot Settings Tell Us about Language Models? The 61st Annual Meeting of the Association for Computational Linguistics (ACL). Toronto, Canada. 
@@ -13,8 +19,7 @@ Chalkidis, Ilias; Garneau, Nicolas; Goanta, Catalina; Katz, Daniel; Søgaard, An
 
 Jakobsen, Terne; Cabello, Laura; Søgaard, Anders. 2023. Being Right for Whose Right Reasons? The 61st Annual Meeting of the Association for Computational Linguistics (ACL). Toronto, Canada.
 
-Karamolegkou, Antonia; Abdou, Mostafa; Søgaard, Anders. 2023. Mapping Brains with Language Models: A Survey. The 61st Annual Meeting of the Association for Computational Linguistics (ACL). Toronto, Canada.
-
+Karamolegkou, Antonia; Abdou, Mostafa; Søgaard, Anders. 2023. Mapping Brains with Language Models: A Survey. The 61st Annual Meeting of the Association for Computational Linguistics (ACL). Toronto, Canada. [ArXiv](https://arxiv.org/pdf/2306.05126.pdf)
 
 Søgaard, Anders. 2023. Grounding the Vector Space of an Octopus: Word Meaning from Raw Text. Minds and Machines. [PDF](https://link.springer.com/article/10.1007/s11023-023-09622-4)
 
