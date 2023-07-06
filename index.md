@@ -9,7 +9,7 @@ Li, Jiaang; Karamolegkou, Antonia; Kementchedjhieva, Yova; Abdou, Mostafa; Lehma
 
 Li, Jiaang; Kementchedjhieva, Yova; Søgaard, Anders. 2023. Implications of the Convergence of Language and Vision Model Geometries. ArXiv:2302.06555. [ArXiv](https://arxiv.org/pdf/2302.06555.pdf)
 
-Ribeiro, Tiago; Brandl, Stephanie; Søgaard, Anders; Hollenstein, Nora. 2023. WebQAmGaze: A Multilingual Webcam Eye-Tracking-While-Reading Dataset. [ArXiv](https://arxiv.org/pdf/2303.17876.pdf)
+Ribeiro, Tiago; Brandl, Stephanie; Søgaard, Anders; Hollenstein, Nora. 2023. WebQAmGaze: A Multilingual Webcam Eye-Tracking-While-Reading Dataset. ArXiv:2303.17876. [ArXiv](https://arxiv.org/pdf/2303.17876.pdf)
 
 Rust, Phillip; Søgaard, Anders. 2023. Differential Privacy, Linguistic Fairness, and Training Data Influence: Impossibility and Possibility Theorems for Multilingual Language Models. The 40th International Conference on Machine Learning (ICML). Honolulu, Hawaii. 
 
