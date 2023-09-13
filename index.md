@@ -5,6 +5,8 @@ Professor in Natural Language Processing and Machine Learning, Dpt. of Computer 
 
 ### 2023
 
+Søgaard, Anders. 2023. Can Machines Be Trustworthy? AI & Ethics. [PDF]()
+
 Li, Jiaang; Karamolegkou, Antonia; Kementchedjhieva, Yova; Abdou, Mostafa; Lehmann, Sune Lehmann; Søgaard, Anders. 2023. Large Language Models Converge on Brain-Like Word Representations. ArXiv:2306.01930. [ArXiv](https://arxiv.org/pdf/2306.01930.pdf)
 
 Li, Jiaang; Kementchedjhieva, Yova; Søgaard, Anders. 2023. Implications of the Convergence of Language and Vision Model Geometries. ArXiv:2302.06555. [ArXiv](https://arxiv.org/pdf/2302.06555.pdf)
