@@ -5,7 +5,7 @@ Professor in Natural Language Processing and Machine Learning, Dpt. of Computer 
 
 ### 2023
 
-Søgaard, Anders. 2023. Can Machines Be Trustworthy? AI & Ethics. [PDF]()
+Søgaard, Anders. 2023. Can Machines Be Trustworthy? AI & Ethics. [PDF](https://link.springer.com/article/10.1007/s43681-023-00351-z)
 
 Li, Jiaang; Karamolegkou, Antonia; Kementchedjhieva, Yova; Abdou, Mostafa; Lehmann, Sune Lehmann; Søgaard, Anders. 2023. Large Language Models Converge on Brain-Like Word Representations. ArXiv:2306.01930. [ArXiv](https://arxiv.org/pdf/2306.01930.pdf)
 
