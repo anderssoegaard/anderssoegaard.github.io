@@ -13,6 +13,10 @@ Li, Jiaang; Kementchedjhieva, Yova; Søgaard, Anders. 2023. Implications of the 
 
 Ribeiro, Tiago; Brandl, Stephanie; Søgaard, Anders; Hollenstein, Nora. 2023. WebQAmGaze: A Multilingual Webcam Eye-Tracking-While-Reading Dataset. ArXiv:2303.17876. [ArXiv](https://arxiv.org/pdf/2303.17876.pdf)
 
+Karamolegkoy, Antonia; Li, Jiaang; Zhou, Li; Søgaard, Anders. 2023. Copyright Violations and Large Language Models. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2023. Singapore, Singapore. 
+
+Cabello, Laura; Søgaard, Anders. 2023. On the Independence of Association Bias and Empirical Fairness in Language Models. Northern Lights Deep Learning. Tromsø, Norway. 
+
 Rust, Phillip; Søgaard, Anders. 2023. Differential Privacy, Linguistic Fairness, and Training Data Influence: Impossibility and Possibility Theorems for Multilingual Language Models. The 40th International Conference on Machine Learning (ICML). Honolulu, Hawaii. 
 
 Cui, Ruixiang; Lee, Seolhwa; Hershcovich, Daniel; Søgaard, Anders. 2023. What does the Failure to Reason with "Respectively'' in Zero/Few-Shot Settings Tell Us about Language Models? The 61st Annual Meeting of the Association for Computational Linguistics (ACL). Toronto, Canada. 
