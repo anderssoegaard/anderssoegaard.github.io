@@ -7,9 +7,9 @@ Professor in Natural Language Processing and Machine Learning, Dpt. of Computer 
 
 Søgaard, Anders. 2023. Can Machines Be Trustworthy? AI & Ethics. [PDF](https://link.springer.com/article/10.1007/s43681-023-00351-z)
 
-Li, Jiaang; Karamolegkou, Antonia; Kementchedjhieva, Yova; Abdou, Mostafa; Lehmann, Sune Lehmann; Søgaard, Anders. 2023. Structural Similarities Between Language Models and Neural Response Measurements. NeurIPS 2023 Workshop on Symmetry and Geometry in Neural Representatio. [ArXiv](https://arxiv.org/pdf/2306.01930.pdf)
+Li, Jiaang; Karamolegkou, Antonia; Kementchedjhieva, Yova; Abdou, Mostafa; Lehmann, Sune Lehmann; Søgaard, Anders. 2023. Structural Similarities Between Language Models and Neural Response Measurements. NeurIPS 2023 Workshop on Symmetry and Geometry in Neural Representations. New Orleans, LA. [ArXiv](https://arxiv.org/pdf/2306.01930.pdf)
 
-Christiansen, Jonathan; Gammelgaard, Mathias; Søgaard, Anders. 2023. Large language models partially converge toward human-like concept organization. NeurIPS 2023 Workshop on Symmetry and Geometry in Neural Representatio. 
+Christiansen, Jonathan; Gammelgaard, Mathias; Søgaard, Anders. 2023. Large language models partially converge toward human-like concept organization. NeurIPS 2023 Workshop on Symmetry and Geometry in Neural Representations. New Orleans, LA.
 
 Li, Jiaang; Kementchedjhieva, Yova; Søgaard, Anders. 2023. Implications of the Convergence of Language and Vision Model Geometries. ArXiv:2302.06555. [ArXiv](https://arxiv.org/pdf/2302.06555.pdf)
 
