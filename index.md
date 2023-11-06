@@ -5,6 +5,10 @@ Professor in Natural Language Processing and Machine Learning, Dpt. of Computer 
 
 ### 2023
 
+Søgaard, Anders; Kappel, Klemens; Grünbaum, Thor. 2023. On Hedden's Proof that Fairness Metrics in Artificial Intelligence are Flawed. Inquiry.
+
+Søgaard, Anders. 2023. On the Opacity of Deep Neural Networks. Canadian Journal of Philosophy. 
+
 Søgaard, Anders. 2023. Can Machines Be Trustworthy? AI & Ethics. [PDF](https://link.springer.com/article/10.1007/s43681-023-00351-z)
 
 Li, Jiaang; Karamolegkou, Antonia; Kementchedjhieva, Yova; Abdou, Mostafa; Lehmann, Sune Lehmann; Søgaard, Anders. 2023. Structural Similarities Between Language Models and Neural Response Measurements. NeurIPS 2023 Workshop on Symmetry and Geometry in Neural Representations. New Orleans, LA. [ArXiv](https://arxiv.org/pdf/2306.01930.pdf)
