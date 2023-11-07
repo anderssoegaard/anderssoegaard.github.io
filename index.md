@@ -5,7 +5,7 @@ Professor in Natural Language Processing and Machine Learning, Dpt. of Computer 
 
 ### 2023
 
-Søgaard, Anders; Kappel, Klemens; Grünbaum, Thor. 2023. On Hedden's Proof that Fairness Metrics in Artificial Intelligence are Flawed. Inquiry.
+Søgaard, Anders; Kappel, Klemens; Grünbaum, Thor. 2023. On Hedden's Proof that Machine Learning Fairness Metrics are Flawed. Inquiry.
 
 Søgaard, Anders. 2023. On the Opacity of Deep Neural Networks. Canadian Journal of Philosophy. 
 
