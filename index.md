@@ -17,6 +17,8 @@ Christiansen, Jonathan; Gammelgaard, Mathias; Søgaard, Anders. 2023. Large lang
 
 Li, Jiaang; Kementchedjhieva, Yova; Søgaard, Anders. 2023. Implications of the Convergence of Language and Vision Model Geometries. ArXiv:2302.06555. [ArXiv](https://arxiv.org/pdf/2302.06555.pdf)
 
+Søgaard, Anders; Kappel, Klemens; Grünbaum, Thor. 2023. On Hedden's Proof that Machine Learning Fairness Metrics are Flawed. NeurIPS Workshop on Algorithmic Fairness Through the Lens of Time. New Orleans, LA. 
+
 Ribeiro, Tiago; Brandl, Stephanie; Søgaard, Anders; Hollenstein, Nora. 2023. WebQAmGaze: A Multilingual Webcam Eye-Tracking-While-Reading Dataset. ArXiv:2303.17876. [ArXiv](https://arxiv.org/pdf/2303.17876.pdf)
 
 Karamolegkoy, Antonia; Li, Jiaang; Zhou, Li; Søgaard, Anders. 2023. Copyright Violations and Large Language Models. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2023. Singapore, Singapore. 
