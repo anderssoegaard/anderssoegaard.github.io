@@ -2,7 +2,7 @@
 
 <img src="anders.jpg" alt="Anders" align="right" width="200"/>
 
-<div style="overflow: hidden;"> Professor in Natural Language Processing and Machine Learning, Dpt. of Computer Science, University of Copenhagen, Pioneer Centre for Artificial Intelligence, Dpt. of Philosophy, and Center for Social Data Science. Previously at University of Potsdam, Amazon Core Machine Learning, and Google Research.</div>
+<div style="overflow: hidden;"> Professor in Natural Language Processing and Machine Learning at the University of Copenhagen. Jointly affilliated with the Dpt. of Computer Science, the Dpt. of Philosophy, the Pioneer Centre for Artificial Intelligence, and the Center for Social Data Science. Previously at University of Potsdam, Amazon Core Machine Learning, and Google Research. Father of three and a published poet.</div>
 
 
 
