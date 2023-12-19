@@ -3,7 +3,7 @@ Professor in Natural Language Processing and Machine Learning, Dpt. of Computer 
 
 ## Books
 
-<img src="book1.webp" alt="Cover" width="200"/><img src="book2.jpeg" alt="Cover" width="200"/><img src="book3.jpeg" alt="Cover" width="200"/><img src="book4.jpeg" alt="Cover" width="200"/>
+<img src="book1.webp" alt="Cover" height="200"/><img src="book2.jpeg" alt="Cover" height="200"/><img src="book3.jpeg" alt="Cover" height="200"/><img src="book4.jpeg" alt="Cover" height="200"/>
 
 ## Publications
 
