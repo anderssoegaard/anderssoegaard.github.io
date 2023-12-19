@@ -1,5 +1,6 @@
 ## Anders Søgaard
- Professor in Natural Language Processing and Machine Learning, Dpt. of Computer Science, University of Copenhagen. Other affilliations: Pioneer Centre for Artificial Intelligence, Dpt. of Philosophy, and Center for Social Data Science. Previously at University of Potsdam, Amazon and Google Research. <img src="anders.jpg" alt="Anders" float="right" height="200" hspace="20" vspace="20">
+<p> Professor in Natural Language Processing and Machine Learning, Dpt. of Computer Science, University of Copenhagen. Other affilliations: Pioneer Centre for Artificial Intelligence, Dpt. of Philosophy, and Center for Social Data Science. Previously at University of Potsdam, Amazon and Google Research. <img src="anders.jpg" alt="Anders" float="right" height="200" hspace="20" vspace="20">
+</p>
 
 ## Books
 
