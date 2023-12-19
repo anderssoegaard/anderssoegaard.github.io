@@ -1,7 +1,10 @@
 ## Anders Søgaard
 <img src="anders.jpg" alt="Anders" style="float: right; border: 1px solid #000000;" height="200">
+
 <div style="overflow: hidden; min-width: 200px;"> Professor in Natural Language Processing and Machine Learning, Dpt. of Computer Science, University of Copenhagen. Other affilliations: Pioneer Centre for Artificial Intelligence, Dpt. of Philosophy, and Center for Social Data Science. Previously at University of Potsdam, Amazon and Google Research.</div>
+
 <p style="clear: both;"></p>
+
 ## Books
 
 <img src="book1.webp" alt="Cover" height="200"/> <img src="book2.jpeg" alt="Cover" height="200"/> <img src="book3.jpeg" alt="Cover" height="200"/> <img src="book4.jpeg" alt="Cover" height="200"/>
