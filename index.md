@@ -55,6 +55,8 @@ Søgaard, Anders; Hershcovich, Daniel; de Lhoneux, Miryam. 2023. A Two-Sided Dis
 
 Kementchedjhieva, Yova; Søgaard, Anders. 2023. Grammatical Error Correction through Round-Trip Machine Translation. Findings of The 16th conference of the European Chapter of the Association for Computational Linguistics (EACL). Dubrovnik, Croatia. 
 
+Jørgensen, Anna Katrine; Søgaard, Anders. 2023. Rawlsian AI Fairness Loopholes. AI & Ethics 3 (4), 1185-1192. [PDF](https://link.springer.com/content/pdf/10.1007/s43681-022-00226-9.pdf?pdf=button) 
+
 ### 2022
 
 Søgaard, Anders. 2022. Understanding Models Understanding Language. Synthese 200:433. [PDF](https://link.springer.com/content/pdf/10.1007/s11229-022-03931-4.pdf?pdf=button) 
@@ -66,8 +68,6 @@ Due, Jeppe; Pedersen, Marianne; Antonsen, Sussie; Rommedahl, Joen; Agerbo, Esben
 Søgaard, Anders. 2022. Should We Ban English NLP for a Year? Conference on Empirical Methods in Natural Language Processing (EMNLP) 2022. Abu Dhabi. [PDF](https://aclanthology.org/2022.emnlp-main.351/)
 
 Jørgensen, Rasmus Kær; Caccavale, Fiammetta; Igel, Christian; Søgaard, Anders. 2022. Are Multilingual Sentiment Models Equally Right for the Right Reasons? EMNLP Workshop on Analyzing and Interpreting Neural Networks for NLP (BlackBoxNLP). Abu Dhabi. [PDF](https://aclanthology.org/2022.blackboxnlp-1.11/)
-
-Jørgensen, Anna Katrine; Søgaard, Anders. 2022. Rawlsian AI Fairness Loopholes. AI & Ethics. [PDF](https://link.springer.com/content/pdf/10.1007/s43681-022-00226-9.pdf?pdf=button) 
 
 Søgaard, Anders. 2022. Kunstig Intelligens Bagfra [in Danish]. Aarhus Universitetsforlag. [Book](https://www.bog-ide.dk/produkt/3766501/anders-soegaard-kunstig-intelligens-bagfra) [Audio](https://mofibo.com/dk/da/authors/710694-Anders-Soegaard) 
 
