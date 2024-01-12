@@ -12,6 +12,10 @@
 
 ## Publications
 
+### 2024
+
+Søgaard, Anders. 2024. Identity Theory and Falsifiability. Acta Informatica. 
+
 ### 2023
 
 Søgaard, Anders; Kappel, Klemens; Grünbaum, Thor. 2023. On Hedden's Proof that Machine Learning Fairness Metrics are Flawed. Inquiry.
@@ -22,38 +26,36 @@ Søgaard, Anders. 2023. Can Machines Be Trustworthy? AI & Ethics. [PDF](https://
 
 Li, Jiaang; Karamolegkou, Antonia; Kementchedjhieva, Yova; Abdou, Mostafa; Lehmann, Sune Lehmann; Søgaard, Anders. 2023. Structural Similarities Between Language Models and Neural Response Measurements. NeurIPS 2023 Workshop on Symmetry and Geometry in Neural Representations. New Orleans, LA. [ArXiv](https://arxiv.org/pdf/2306.01930.pdf)
 
-Christiansen, Jonathan; Gammelgaard, Mathias; Søgaard, Anders. 2023. Large language models partially converge toward human-like concept organization. NeurIPS 2023 Workshop on Symmetry and Geometry in Neural Representations. New Orleans, LA.
+Christiansen, Jonathan; Gammelgaard, Mathias; Søgaard, Anders. 2023. Large language models partially converge toward human-like concept organization. NeurIPS 2023 Workshop on Symmetry and Geometry in Neural Representations. New Orleans, LA. [PDF](https://openreview.net/forum?id=8NA7a1mCdu&noteId=NryGX19THK)
 
 Li, Jiaang; Kementchedjhieva, Yova; Søgaard, Anders. 2023. Implications of the Convergence of Language and Vision Model Geometries. ArXiv:2302.06555. [ArXiv](https://arxiv.org/pdf/2302.06555.pdf)
 
-Søgaard, Anders; Kappel, Klemens; Grünbaum, Thor. 2023. On Hedden's Proof that Machine Learning Fairness Metrics are Flawed. NeurIPS Workshop on Algorithmic Fairness Through the Lens of Time. New Orleans, LA. 
+Søgaard, Anders; Kappel, Klemens; Grünbaum, Thor. 2023. On Hedden's Proof that Machine Learning Fairness Metrics are Flawed. NeurIPS Workshop on Algorithmic Fairness Through the Lens of Time. New Orleans, LA. [Workshop](https://www.afciworkshop.org/accepted-papers) 
 
 Ribeiro, Tiago; Brandl, Stephanie; Søgaard, Anders; Hollenstein, Nora. 2023. WebQAmGaze: A Multilingual Webcam Eye-Tracking-While-Reading Dataset. ArXiv:2303.17876. [ArXiv](https://arxiv.org/pdf/2303.17876.pdf)
 
-Karamolegkoy, Antonia; Li, Jiaang; Zhou, Li; Søgaard, Anders. 2023. Copyright Violations and Large Language Models. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2023. Singapore, Singapore. 
+Karamolegkoy, Antonia; Li, Jiaang; Zhou, Li; Søgaard, Anders. 2023. Copyright Violations and Large Language Models. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2023. Singapore, Singapore. [PDF](https://aclanthology.org/2023.emnlp-main.458/)
 
-Cabello, Laura; Søgaard, Anders. 2023. On the Independence of Association Bias and Empirical Fairness in Language Models. Northern Lights Deep Learning. Tromsø, Norway. 
+Rust, Phillip; Søgaard, Anders. 2023. Differential Privacy, Linguistic Fairness, and Training Data Influence: Impossibility and Possibility Theorems for Multilingual Language Models. The 40th International Conference on Machine Learning (ICML). Honolulu, Hawaii. [PDF](https://openreview.net/forum?id=SP6w4sVCyp)
 
-Rust, Phillip; Søgaard, Anders. 2023. Differential Privacy, Linguistic Fairness, and Training Data Influence: Impossibility and Possibility Theorems for Multilingual Language Models. The 40th International Conference on Machine Learning (ICML). Honolulu, Hawaii. 
+Cui, Ruixiang; Lee, Seolhwa; Hershcovich, Daniel; Søgaard, Anders. 2023. What does the Failure to Reason with "Respectively'' in Zero/Few-Shot Settings Tell Us about Language Models? The 61st Annual Meeting of the Association for Computational Linguistics (ACL). Toronto, Canada. [PDF](https://aclanthology.org/2023.acl-long.489.pdf)
 
-Cui, Ruixiang; Lee, Seolhwa; Hershcovich, Daniel; Søgaard, Anders. 2023. What does the Failure to Reason with "Respectively'' in Zero/Few-Shot Settings Tell Us about Language Models? The 61st Annual Meeting of the Association for Computational Linguistics (ACL). Toronto, Canada. 
+Chalkidis, Ilias; Garneau, Nicolas; Goanta, Catalina; Katz, Daniel; Søgaard, Anders. 2023. LeXFiles and LegalLAMA: Facilitating English Multinational Legal Language Model Development. The 61st Annual Meeting of the Association for Computational Linguistics (ACL). Toronto, Canada. [PDF](https://aclanthology.org/2023.acl-long.865.pdf)
 
-Chalkidis, Ilias; Garneau, Nicolas; Goanta, Catalina; Katz, Daniel; Søgaard, Anders. 2023. LeXFiles and LegalLAMA: Facilitating English Multinational Legal Language Model Development. The 61st Annual Meeting of the Association for Computational Linguistics (ACL). Toronto, Canada.
-
-Jakobsen, Terne; Cabello, Laura; Søgaard, Anders. 2023. Being Right for Whose Right Reasons? The 61st Annual Meeting of the Association for Computational Linguistics (ACL). Toronto, Canada.
+Jakobsen, Terne; Cabello, Laura; Søgaard, Anders. 2023. Being Right for Whose Right Reasons? The 61st Annual Meeting of the Association for Computational Linguistics (ACL). Toronto, Canada. [PDF](https://aclanthology.org/2023.acl-long.59/)
 
 Karamolegkou, Antonia; Abdou, Mostafa; Søgaard, Anders. 2023. Mapping Brains with Language Models: A Survey. The 61st Annual Meeting of the Association for Computational Linguistics (ACL). Toronto, Canada. [ArXiv](https://arxiv.org/pdf/2306.05126.pdf)
 
-Søgaard, Anders. 2023. Grounding the Vector Space of an Octopus: Word Meaning from Raw Text. Minds and Machines. [PDF](https://link.springer.com/article/10.1007/s11023-023-09622-4)
+Søgaard, Anders. 2023. Grounding the Vector Space of an Octopus: Word Meaning from Raw Text. Minds and Machines 33 (1), 33-54. [PDF](https://link.springer.com/article/10.1007/s11023-023-09622-4)
 
 Lee, Seolhwa; Søgaard, Anders. 2023. Private Meeting Summarization Without Performance Loss. 	
-The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval. Taipei, Taiwan. 
+The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval. Taipei, Taiwan. [PDF](https://dl.acm.org/doi/10.1145/3539618.3592042)
 
-Cabello, Laura; Jørgensen, Anna Katrine; Søgaard, Anders. 2023. On the Independence of Association Bias and Empirical Fairness in Language Models. The ACM Conference on Fairness, Accountability, and Transparency 2023. Chicago, IL. 
+Cabello, Laura; Jørgensen, Anna Katrine; Søgaard, Anders. 2023. On the Independence of Association Bias and Empirical Fairness in Language Models. The ACM Conference on Fairness, Accountability, and Transparency 2023. Chicago, IL. [PDF](https://dl.acm.org/doi/10.1145/3593013.3594004)
 
-Søgaard, Anders; Hershcovich, Daniel; de Lhoneux, Miryam. 2023. A Two-Sided Discussion of Preregistration of NLP Research. The 16th conference of the European Chapter of the Association for Computational Linguistics (EACL). Dubrovnik, Croatia. [ArXiv](https://arxiv.org/abs/2302.10086)
+Søgaard, Anders; Hershcovich, Daniel; de Lhoneux, Miryam. 2023. A Two-Sided Discussion of Preregistration of NLP Research. The 16th conference of the European Chapter of the Association for Computational Linguistics (EACL). Dubrovnik, Croatia. [PDF](https://aclanthology.org/2023.eacl-main.6/)
 
-Kementchedjhieva, Yova; Søgaard, Anders. 2023. Grammatical Error Correction through Round-Trip Machine Translation. Findings of The 16th conference of the European Chapter of the Association for Computational Linguistics (EACL). Dubrovnik, Croatia. 
+Kementchedjhieva, Yova; Søgaard, Anders. 2023. Grammatical Error Correction through Round-Trip Machine Translation. Findings of The 16th conference of the European Chapter of the Association for Computational Linguistics (EACL). Dubrovnik, Croatia. [PDF](https://aclanthology.org/2023.findings-eacl.165.pdf)
 
 Jørgensen, Anna Katrine; Søgaard, Anders. 2023. Rawlsian AI Fairness Loopholes. AI & Ethics 3 (4), 1185-1192. [PDF](https://link.springer.com/content/pdf/10.1007/s43681-022-00226-9.pdf?pdf=button) 
 
