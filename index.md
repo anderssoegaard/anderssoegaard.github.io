@@ -14,7 +14,7 @@
 
 ### 2024
 
-Søgaard, Anders. 2024. Identity Theory and Falsifiability. Acta Informatica. 
+Søgaard, Anders. 2024. Identity Theory and Falsifiability. Acta Analytica. 
 
 ### 2023
 
