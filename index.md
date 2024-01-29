@@ -16,6 +16,8 @@
 
 Søgaard, Anders. 2024. Identity Theory and Falsifiability. Acta Analytica. 
 
+Søgaard, Anders. 2024. What's Lost When a Language Dies? Intercultural Pragmatics. 
+
 ### 2023
 
 Søgaard, Anders; Kappel, Klemens; Grünbaum, Thor. 2023. On Hedden's Proof that Machine Learning Fairness Metrics are Flawed. Inquiry.
