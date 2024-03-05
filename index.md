@@ -14,15 +14,19 @@
 
 ### 2024
 
-Søgaard, Anders. 2024. Identity Theory and Falsifiability. Acta Analytica. 
+Søgaard, Anders. 2024. Identity Theory and Falsifiability. Acta Analytica. [PDF](https://link.springer.com/article/10.1007/s12136-024-00587-2)
+
+Søgaard, Anders; Kappel, Klemens; Grünbaum, Thor. 2024. On Hedden's Proof that Machine Learning Fairness Metrics are Flawed. Inquiry. [PDF](https://www.tandfonline.com/doi/full/10.1080/0020174X.2024.2315169)
 
 Søgaard, Anders. 2024. What's Lost When a Language Dies? Intercultural Pragmatics. 
 
+Søgaard, Anders. 2024. On the Opacity of Deep Neural Networks. Canadian Journal of Philosophy. 
+
+Brandl, Stephanie; Eberle, Oliver; Ribeiro, Tiago; Søgaard, Anders; Hollenstein, Nora. 2024. Evaluating Webcam-based Gaze Data as an Alternative for Human Rationale Annotations. The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (COLING-LREC). Torino, Italy. 
+
+Karamolegkou, Antonia; Rust, Philip; Cao, Yong; Cui, Ruixiang; Hershcovich, Daniel; Søgaard, Anders. 2024. Vision-Language Models under Cultural and Inclusive Considerations. ICLR Workshop on Global AI Cultures. Vienna, Austria. 
+
 ### 2023
-
-Søgaard, Anders; Kappel, Klemens; Grünbaum, Thor. 2023. On Hedden's Proof that Machine Learning Fairness Metrics are Flawed. Inquiry.
-
-Søgaard, Anders. 2023. On the Opacity of Deep Neural Networks. Canadian Journal of Philosophy. 
 
 Søgaard, Anders. 2023. Can Machines Be Trustworthy? AI & Ethics. [PDF](https://link.springer.com/article/10.1007/s43681-023-00351-z)
 
