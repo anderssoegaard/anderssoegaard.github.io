@@ -22,7 +22,7 @@ Søgaard, Anders. 2024. What's Lost When a Language Dies? Intercultural Pragmati
 
 Søgaard, Anders. 2024. On the Opacity of Deep Neural Networks. Canadian Journal of Philosophy. 
 
-Brandl, Stephanie; Eberle, Oliver; Ribeiro, Tiago; Søgaard, Anders; Hollenstein, Nora. 2024. Evaluating Webcam-based Gaze Data as an Alternative for Human Rationale Annotations. The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (COLING-LREC). Torino, Italy. 
+Brandl, Stephanie; Eberle, Oliver; Ribeiro, Tiago; Søgaard, Anders; Hollenstein, Nora. 2024. Evaluating Webcam-based Gaze Data as an Alternative for Human Rationale Annotations. The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (COLING-LREC). Torino, Italy. [ArXiv](https://arxiv.org/abs/2402.19133)
 
 Karamolegkou, Antonia; Rust, Philip; Cao, Yong; Cui, Ruixiang; Hershcovich, Daniel; Søgaard, Anders. 2024. Vision-Language Models under Cultural and Inclusive Considerations. ICLR Workshop on Global AI Cultures. Vienna, Austria. 
 
