@@ -16,6 +16,12 @@
 
 Søgaard, Anders. 2024. Identity Theory and Falsifiability. Acta Analytica. [PDF](https://link.springer.com/article/10.1007/s12136-024-00587-2)
 
+Fierro, Constanza; Garneau, Nicolas; Bugliarello, Emanuele; Kementchedjhieva, Yova; Søgaard, Anders. 2024. MuLan: A Study of Fact Mutability in Language Models. North American Chapter of the Association for Computational Linguistics (NAACL). Mexico City, Mexico. 
+
+van Zee, Anna Katrine; van Zee, Marc; Søgaard, Anders. 2024. Group Fairness in Multilingual Speech Recognition Models. Findings of the North American Chapter of the Association for Computational Linguistics (NAACL). Mexico City, Mexico. 
+
+Hansen, Victor Petrén Bach; Neerkaje, Atula Tejaswi; Sawhney, Ramit, Flek, Lucie; Søgaard, Anders. 2024. The Impact of Differential Privacy on Group Disparity Mitigation. Findings of the North American Chapter of the Association for Computational Linguistics (NAACL). Mexico City, Mexico. 
+
 Søgaard, Anders; Kappel, Klemens; Grünbaum, Thor. 2024. On Hedden's Proof that Machine Learning Fairness Metrics are Flawed. Inquiry. [PDF](https://www.tandfonline.com/doi/full/10.1080/0020174X.2024.2315169)
 
 Søgaard, Anders. 2024. What's Lost When a Language Dies? Intercultural Pragmatics. 
