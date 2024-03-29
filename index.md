@@ -14,6 +14,8 @@
 
 ### 2024
 
+Søgaard, Anders. 2024. On the Opacity of Deep Neural Networks. Canadian Journal of Philosophy. [PDF](https://www.cambridge.org/core/journals/canadian-journal-of-philosophy/article/on-the-opacity-of-deep-neural-networks/981401D86E159DAA2D7C381DF00E1284)
+
 Søgaard, Anders. 2024. Identity Theory and Falsifiability. Acta Analytica. [PDF](https://link.springer.com/article/10.1007/s12136-024-00587-2)
 
 Fierro, Constanza; Garneau, Nicolas; Bugliarello, Emanuele; Kementchedjhieva, Yova; Søgaard, Anders. 2024. MuLan: A Study of Fact Mutability in Language Models. North American Chapter of the Association for Computational Linguistics (NAACL). Mexico City, Mexico. 
@@ -24,9 +26,7 @@ Hansen, Victor Petrén Bach; Neerkaje, Atula Tejaswi; Sawhney, Ramit, Flek, Luci
 
 Søgaard, Anders; Kappel, Klemens; Grünbaum, Thor. 2024. On Hedden's Proof that Machine Learning Fairness Metrics are Flawed. Inquiry. [PDF](https://www.tandfonline.com/doi/full/10.1080/0020174X.2024.2315169)
 
-Søgaard, Anders. 2024. What's Lost When a Language Dies? Intercultural Pragmatics. 
-
-Søgaard, Anders. 2024. On the Opacity of Deep Neural Networks. Canadian Journal of Philosophy. 
+Søgaard, Anders. 2024. What's Lost When a Language Dies? Intercultural Pragmatics. [PDF](https://www.degruyter.com/document/doi/10.1515/ip-2024-2004/html)
 
 Brandl, Stephanie; Eberle, Oliver; Ribeiro, Tiago; Søgaard, Anders; Hollenstein, Nora. 2024. Evaluating Webcam-based Gaze Data as an Alternative for Human Rationale Annotations. The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (COLING-LREC). Torino, Italy. [ArXiv](https://arxiv.org/abs/2402.19133)
 
