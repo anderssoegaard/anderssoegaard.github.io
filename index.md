@@ -44,6 +44,8 @@ Li, Jiaang; Kementchedjhieva, Yova; Søgaard, Anders. 2023. Implications of the 
 
 Søgaard, Anders; Kappel, Klemens; Grünbaum, Thor. 2023. On Hedden's Proof that Machine Learning Fairness Metrics are Flawed. NeurIPS Workshop on Algorithmic Fairness Through the Lens of Time. New Orleans, LA. [Workshop](https://www.afciworkshop.org/accepted-papers) 
 
+Olsen, Henrik Palmer; Garneau, Nicolas; Panagis, Ioannis; Johan Lindholm; Søgaard, Anders. 2023. Re-Framing Case Law Citation Prediction from a Paragraph Perspective. The 36th Annual Conference on Legal Knowledge and Information Systems (JURIX). Maastricht, the Netherlands. 
+
 Ribeiro, Tiago; Brandl, Stephanie; Søgaard, Anders; Hollenstein, Nora. 2023. WebQAmGaze: A Multilingual Webcam Eye-Tracking-While-Reading Dataset. ArXiv:2303.17876. [ArXiv](https://arxiv.org/pdf/2303.17876.pdf)
 
 Karamolegkoy, Antonia; Li, Jiaang; Zhou, Li; Søgaard, Anders. 2023. Copyright Violations and Large Language Models. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2023. Singapore, Singapore. [PDF](https://aclanthology.org/2023.emnlp-main.458/)
