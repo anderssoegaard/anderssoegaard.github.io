@@ -18,7 +18,7 @@ Søgaard, Anders. 2024. On the Opacity of Deep Neural Networks. Canadian Journal
 
 Søgaard, Anders. 2024. Identity Theory and Falsifiability. Acta Analytica. [PDF](https://link.springer.com/article/10.1007/s12136-024-00587-2)
 
-Lent, Heather; Tatariya, Kushal; Dabre, Raj; Chen, Yiyi; Fekete, Marcell; Ploeger, Esther; Zhou, Li; Armstrong, Ruth-Ann; Eijansantos, Abee; Malau, Catriona; Heje, Hans Erik; Lavrinovics, Ernests; Kanojia, Diptesh; Belony, Paul; Bollman, Marcel; Gobrol, Loic; de Lhoneux, Myriam; Hershcovich, Daniel; DeGraff, Michel; Søgaard, Anders; Bjerva, Johannes. 2024. CreoleVal: Multilingual Multitask Benchmarks for Creoles. TACL. 
+Lent, Heather; Tatariya, Kushal; Dabre, Raj; Chen, Yiyi; Fekete, Marcell; Ploeger, Esther; Zhou, Li; Armstrong, Ruth-Ann; Eijansantos, Abee; Malau, Catriona; Heje, Hans Erik; Lavrinovics, Ernests; Kanojia, Diptesh; Belony, Paul; Bollman, Marcel; Gobrol, Loic; de Lhoneux, Myriam; Hershcovich, Daniel; DeGraff, Michel; Søgaard, Anders; Bjerva, Johannes. 2024. CreoleVal: Multilingual Multitask Benchmarks for Creoles. Transactions of the Association for Computational Linguistics (TACL). 
 
 Fierro, Constanza; Garneau, Nicolas; Bugliarello, Emanuele; Kementchedjhieva, Yova; Søgaard, Anders. 2024. MuLan: A Study of Fact Mutability in Language Models. North American Chapter of the Association for Computational Linguistics (NAACL). Mexico City, Mexico. 
 
