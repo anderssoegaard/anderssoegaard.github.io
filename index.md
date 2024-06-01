@@ -20,6 +20,10 @@ Søgaard, Anders. 2024. Identity Theory and Falsifiability. Acta Analytica. [PDF
 
 Lent, Heather; Tatariya, Kushal; Dabre, Raj; Chen, Yiyi; Fekete, Marcell; Ploeger, Esther; Zhou, Li; Armstrong, Ruth-Ann; Eijansantos, Abee; Malau, Catriona; Heje, Hans Erik; Lavrinovics, Ernests; Kanojia, Diptesh; Belony, Paul; Bollman, Marcel; Gobrol, Loic; de Lhoneux, Myriam; Hershcovich, Daniel; DeGraff, Michel; Søgaard, Anders; Bjerva, Johannes. 2024. CreoleVal: Multilingual Multitask Benchmarks for Creoles. Transactions of the Association for Computational Linguistics (TACL). 
 
+Schiller, Sandrine; Søgaard, Anders. 2024. The Challenge of Generative AI Optimized for Engagement. Robophilosophy Conference 2024. Aarhus, Denmark. 
+
+Smidt, Mathilde; Anegaard, Olivia; Søgaard, Anders. 2024. How Good Are We at Assessing the Trustworthiness of LLMs? Robophilosophy Conference 2024. Aarhus, Denmark. 
+
 Fierro, Constanza; Garneau, Nicolas; Bugliarello, Emanuele; Kementchedjhieva, Yova; Søgaard, Anders. 2024. MuLan: A Study of Fact Mutability in Language Models. North American Chapter of the Association for Computational Linguistics (NAACL). Mexico City, Mexico. 
 
 van Zee, Anna Katrine; van Zee, Marc; Søgaard, Anders. 2024. Group Fairness in Multilingual Speech Recognition Models. Findings of the North American Chapter of the Association for Computational Linguistics (NAACL). Mexico City, Mexico. 
