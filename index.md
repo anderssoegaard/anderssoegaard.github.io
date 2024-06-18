@@ -14,6 +14,8 @@
 
 ### 2024
 
+Dhar, Ruchira; Søgaard, Anders. 2024. From Words to Worlds: Compositionality for Cognitive Architectures. ICML 2024 Workshop on LLMs and Cognition. Vienna, Austria. 
+
 Søgaard, Anders. 2024. On the Opacity of Deep Neural Networks. Canadian Journal of Philosophy. [PDF](https://www.cambridge.org/core/journals/canadian-journal-of-philosophy/article/on-the-opacity-of-deep-neural-networks/981401D86E159DAA2D7C381DF00E1284)
 
 Søgaard, Anders. 2024. Identity Theory and Falsifiability. Acta Analytica. [PDF](https://link.springer.com/article/10.1007/s12136-024-00587-2)
