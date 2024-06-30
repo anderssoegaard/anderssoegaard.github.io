@@ -14,9 +14,13 @@
 
 ### 2024
 
+Li, Jiaang; Kementchedjhieva, Yova; Fierro, Constanza; Søgaard, Anders. 2024. Do Vision and Language Models Share Concepts? A Vector Space Alignment Study. Transactions of the Association for Computational Linguistics (TACL).
+
 Dhar, Ruchira; Søgaard, Anders. 2024. From Words to Worlds: Compositionality for Cognitive Architectures. ICML 2024 Workshop on LLMs and Cognition. Vienna, Austria. 
 
 Karamolegkou, Antonia; Rust, Phillip; Cui, Ruixiang; Cao, Yong; Søgaard, Anders; Hershcovich, Daniel. 2024. Vision-Language Models under Cultural and Inclusive Considerations. ACL Workshop on Human-Centered Large Language Modeling. Bangkok, Thailand. 
+
+Li, Jiaang; Karamolegkou, Antonia; Kementchedjhieva, Yova; Abdou, Mostafa; Lehmann, Sune Lehmann; Søgaard, Anders. 2024. Structural Similarities Between Language Models and Neural Response Measurements. ACL 2024 Cognitive Modeling and Computational Linguistics Workshop. Bangkok, Thailand. [ArXiv](https://arxiv.org/pdf/2306.01930.pdf)
 
 Søgaard, Anders. 2024. On the Opacity of Deep Neural Networks. Canadian Journal of Philosophy. [PDF](https://www.cambridge.org/core/journals/canadian-journal-of-philosophy/article/on-the-opacity-of-deep-neural-networks/981401D86E159DAA2D7C381DF00E1284)
 
