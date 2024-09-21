@@ -14,6 +14,16 @@
 
 ### 2024
 
+Peng, Qiwei; Søgaard, Anders. 2024. Concept Space Alignment in Multilingual LLMs. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2024. Miami, Florida. 
+
+Swain, Monorama; van Zee, Anna Katrine; Søgaard, Anders. 2024. On Mitigating Performance Disparities in Multilingual Speech Recognition. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2024. Miami, Florida. 
+
+Yuan, Yifei; Deng, Yang; Søgaard, Anders; Aliannejadi, Mohammad. 2024. Unlocking Markets: A Multilingual Benchmark to Cross-Market Question Answering. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2024. Miami, Florida. 
+
+Fierro, Constanza; Dhar, Ruchira; Stamatiou, Filippos; Garneau, Nicolas; Søgaard, Anders. 2024. Defining Knowledge: Bridging Epistemology and Large Language Models. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2024. Miami, Florida. 
+
+Li, Wenyan; Zhang, Chrystina; Li, Jiaang; Peng, Qiwei; Tang, Raphael; Zhou, Li; Zhang, Weijia; Hu, Guimin; Yuan, Yifei; Søgaard, Anders; Hershcovich, Daniel; Elliott, Desmond. 2024. FoodieQA: A Multimodal Dataset for Fine-Grained Understanding of Chinese Food Culture. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2024. Miami, Florida. 
+
 Li, Jiaang; Kementchedjhieva, Yova; Fierro, Constanza; Søgaard, Anders. 2024. Do Vision and Language Models Share Concepts? A Vector Space Alignment Study. Transactions of the Association for Computational Linguistics (TACL).
 
 Dhar, Ruchira; Søgaard, Anders. 2024. From Words to Worlds: Compositionality for Cognitive Architectures. ICML 2024 Workshop on LLMs and Cognition. Vienna, Austria. 
