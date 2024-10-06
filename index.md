@@ -8,7 +8,7 @@
 
 ## Academic Books
 
-<img src="book1.webp" alt="Cover" height="200"/> <img src="book2.jpeg" alt="Cover" height="200"/> <img src="book3.jpeg" alt="Cover" height="200"/> <img src="book4.jpeg" alt="Cover" height="200"/>
+<img src="book1.webp" alt="Cover" height="200"/> <img src="book2.jpeg" alt="Cover" height="200"/> <img src="book3.jpeg" alt="Cover" height="200"/> <img src="book4.jpeg" alt="Cover" height="200"/> <img src="book5.jpeg" alt="Cover" height="200"/>
 
 ## Publications
 
