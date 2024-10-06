@@ -14,6 +14,8 @@
 
 ### 2024
 
+Søgaard, Anders. 2024. Is Unsupervised Learning Somehow Truer? Minds and Machines. 
+
 Peng, Qiwei; Søgaard, Anders. 2024. Concept Space Alignment in Multilingual LLMs. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2024. Miami, Florida. 
 
 Swain, Monorama; van Zee, Anna Katrine; Søgaard, Anders. 2024. On Mitigating Performance Disparities in Multilingual Speech Recognition. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2024. Miami, Florida. 
