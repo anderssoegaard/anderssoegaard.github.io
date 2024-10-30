@@ -16,23 +16,23 @@
 
 Søgaard, Anders. 2024. Externalist XAI? Theoria. 
 
-Søgaard, Anders. 2024. Is Unsupervised Learning Somehow Truer? Minds and Machines. 
+Søgaard, Anders. 2024. Is Unsupervised Learning Somehow Truer? Minds and Machines. [PDF](https://link.springer.com/article/10.1007/s11023-024-09699-5?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20241029&utm_content=10.1007/s11023-024-09699-5)
 
-Peng, Qiwei; Søgaard, Anders. 2024. Concept Space Alignment in Multilingual LLMs. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2024. Miami, Florida. 
+Peng, Qiwei; Søgaard, Anders. 2024. Concept Space Alignment in Multilingual LLMs. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2024. Miami, Florida. [ArXiv](https://arxiv.org/abs/2410.01079)
 
 Swain, Monorama; van Zee, Anna Katrine; Søgaard, Anders. 2024. On Mitigating Performance Disparities in Multilingual Speech Recognition. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2024. Miami, Florida. 
 
-Yuan, Yifei; Deng, Yang; Søgaard, Anders; Aliannejadi, Mohammad. 2024. Unlocking Markets: A Multilingual Benchmark to Cross-Market Question Answering. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2024. Miami, Florida. 
+Yuan, Yifei; Deng, Yang; Søgaard, Anders; Aliannejadi, Mohammad. 2024. Unlocking Markets: A Multilingual Benchmark to Cross-Market Question Answering. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2024. Miami, Florida. [ArXiv](https://arxiv.org/abs/2409.16025)
 
-Fierro, Constanza; Dhar, Ruchira; Stamatiou, Filippos; Garneau, Nicolas; Søgaard, Anders. 2024. Defining Knowledge: Bridging Epistemology and Large Language Models. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2024. Miami, Florida. 
+Fierro, Constanza; Dhar, Ruchira; Stamatiou, Filippos; Garneau, Nicolas; Søgaard, Anders. 2024. Defining Knowledge: Bridging Epistemology and Large Language Models. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2024. Miami, Florida. [ArXiv](https://arxiv.org/abs/2410.02499v1)
 
-Li, Wenyan; Zhang, Chrystina; Li, Jiaang; Peng, Qiwei; Tang, Raphael; Zhou, Li; Zhang, Weijia; Hu, Guimin; Yuan, Yifei; Søgaard, Anders; Hershcovich, Daniel; Elliott, Desmond. 2024. FoodieQA: A Multimodal Dataset for Fine-Grained Understanding of Chinese Food Culture. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2024. Miami, Florida. 
+Li, Wenyan; Zhang, Chrystina; Li, Jiaang; Peng, Qiwei; Tang, Raphael; Zhou, Li; Zhang, Weijia; Hu, Guimin; Yuan, Yifei; Søgaard, Anders; Hershcovich, Daniel; Elliott, Desmond. 2024. FoodieQA: A Multimodal Dataset for Fine-Grained Understanding of Chinese Food Culture. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2024. Miami, Florida. [ArXiv](https://arxiv.org/abs/2406.11030)
 
-Li, Jiaang; Kementchedjhieva, Yova; Fierro, Constanza; Søgaard, Anders. 2024. Do Vision and Language Models Share Concepts? A Vector Space Alignment Study. Transactions of the Association for Computational Linguistics (TACL).
+Li, Jiaang; Kementchedjhieva, Yova; Fierro, Constanza; Søgaard, Anders. 2024. Do Vision and Language Models Share Concepts? A Vector Space Alignment Study. Transactions of the Association for Computational Linguistics (TACL). [ArXiv](https://arxiv.org/abs/2302.06555) [PDF](https://watermark.silverchair.com/tacl_a_00698.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA0gwggNEBgkqhkiG9w0BBwagggM1MIIDMQIBADCCAyoGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMI9jmfxioPy7M6R2AAgEQgIIC-zmCxl8RIQZObgeo3Mz-eLsJadZ1ePldR3ATTezqn8zHyqmdRrMsvlhcHXi59MgLmcd9xR7gH_Wa26GokR4T09tpMBVfFIZFcBr3-0cGNPBkHNka6GgvhS-tT1yc0eupwOm3Squ72lDXUgD-2tOkbFoEFwtCvG_uTcZaA8swBeBnKQ3J_Nr02UYj6Cd1OO6FL15CM4WvYIC7GyxACvQbj4AE6ozjFmbL2_e4csQmx1xMfNkJjFwU4ezbrfJaPgYnl5L9047dbwDKbnH14rNkzVqRt0QApGIbbozZ-OicDKp4FNVYe4xjLXq5yaQOykeoO2LcMumb9Z91cmxl3Hzn_0830WzjMSq9qcnz48r1IHwcaQwDGsfwLu_t69coC0ZsEP5V0sM3R2XoLcE27Rc82EgU1oLGxBy-G-1pZG6ShH7L4Qr1guEVJMFjBi-ZDOXHU2FxfOwEdvPgxI5Pk_gtLz8kVXu89lhRI8PDToiQPmBWxC9mrtTJwsy_M1RsVykqhp5DBpNu_eB9ZwUSvX5YSB6smQCfLmTdDKY8QShWMHHqFrfYh7gdGCKYJiFgJ7a-oCMp2XSO61MHls5KDkhXGVevs6_uNZiIdjN3qtLWPMP6YOx0zVK1YS5ekDNH_8OSS9GZ0BflIiTDhdNpn-xEEdYqZ-AdfM7KvmnJMzxdm52Ne583v7WM3Un78ULv17tIjSJ6-keT1kat4tbXsDFUIWka1zUQc-e6T6HFnxUrZfK8Wbs3wSV7GdAvOllGTEwrv03AVdTE37JJ1_Xr75n77RuH5eE4Ek26AwSO5mJ_qf2V_LBsrb45SZy4KUBdpajMoeZOKLKs9cERjo_n-ullT2sfp2FWcsDvdpvZfsx03Ch3aaTgujvqrwUZWnf9tHn9TJGDluxnr9wEgbYTD6Wmi4e9vX3TZWqNerIYZdwSET55sKrdXDAjQoee5bti360DI3Q8Ng6M4RwPt8c99F6N9TcvW55vN4vi1A_ZPtDheqTaGEHuYCKZ-eYGjA0)
 
-Dhar, Ruchira; Søgaard, Anders. 2024. From Words to Worlds: Compositionality for Cognitive Architectures. ICML 2024 Workshop on LLMs and Cognition. Vienna, Austria. 
+Dhar, Ruchira; Søgaard, Anders. 2024. From Words to Worlds: Compositionality for Cognitive Architectures. ICML 2024 Workshop on LLMs and Cognition. Vienna, Austria. [ArXiv](https://arxiv.org/abs/2407.13419)
 
-Karamolegkou, Antonia; Rust, Phillip; Cui, Ruixiang; Cao, Yong; Søgaard, Anders; Hershcovich, Daniel. 2024. Vision-Language Models under Cultural and Inclusive Considerations. ACL Workshop on Human-Centered Large Language Modeling. Bangkok, Thailand. 
+Karamolegkou, Antonia; Rust, Phillip; Cui, Ruixiang; Cao, Yong; Søgaard, Anders; Hershcovich, Daniel. 2024. Vision-Language Models under Cultural and Inclusive Considerations. ACL Workshop on Human-Centered Large Language Modeling. Bangkok, Thailand. [PDF](https://aclanthology.org/2024.hucllm-1.5/)
 
 Li, Jiaang; Karamolegkou, Antonia; Kementchedjhieva, Yova; Abdou, Mostafa; Lehmann, Sune Lehmann; Søgaard, Anders. 2024. Structural Similarities Between Language Models and Neural Response Measurements. ACL 2024 Cognitive Modeling and Computational Linguistics Workshop. Bangkok, Thailand. [ArXiv](https://arxiv.org/pdf/2306.01930.pdf)
 
