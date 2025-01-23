@@ -12,9 +12,15 @@
 
 ## Publications
 
+### 2025
+
+Karamolegkou, Antonia; Schiller Hansen, Sandrine; Christopoulou, Ariadni; Stamatiou, Filippos; Lauscher, Anne; Søgaard, Anders. 2025. Ethical Concern Identification in NLP: A Corpus of ACL Anthology Ethics Statements. Proceedings of the North American Chapter of the Association for Computational Linguistics (NAACL). Alberquerque, New Mexico.
+
+Fierro, Constanza; Foroutan, Negar; Elliott, Desmond; Søgaard, Anders. 2025. How Do Multilingual Models Remember? Investigating Multilingual Factual Recall Mechanisms. Findings of the North American Chapter of the Association for Computational Linguistics (NAACL). Alberquerque, New Mexico. 
+
 ### 2024
 
-Søgaard, Anders. 2024. Externalist XAI? Theoria. 
+Søgaard, Anders. 2024. Externalist XAI? Theoria. [PDF](https://onlinelibrary.wiley.com/doi/abs/10.1111/theo.12581)
 
 Søgaard, Anders. 2024. Is Unsupervised Learning Somehow Truer? Minds and Machines 34(4): 43. [PDF](https://link.springer.com/article/10.1007/s11023-024-09699-5?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20241029&utm_content=10.1007/s11023-024-09699-5)
 
