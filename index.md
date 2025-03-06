@@ -14,6 +14,8 @@
 
 ### 2025
 
+Yuan, Yifei; Søgaard, Anders. 2025. Revisiting the Othello World Model Hypothesis. ICLR 2025 World Models Workshop. Singapore, Singapore. 
+
 Karamolegkou, Antonia; Schiller Hansen, Sandrine; Christopoulou, Ariadni; Stamatiou, Filippos; Lauscher, Anne; Søgaard, Anders. 2025. Ethical Concern Identification in NLP: A Corpus of ACL Anthology Ethics Statements. Proceedings of the North American Chapter of the Association for Computational Linguistics (NAACL). Alberquerque, New Mexico.
 
 Fierro, Constanza; Foroutan, Negar; Elliott, Desmond; Søgaard, Anders. 2025. How Do Multilingual Models Remember? Investigating Multilingual Factual Recall Mechanisms. Findings of the North American Chapter of the Association for Computational Linguistics (NAACL). Alberquerque, New Mexico. 
