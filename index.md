@@ -14,6 +14,10 @@
 
 ### 2025
 
+Oldenburg, Ninell; Søgaard, Anders. 2025. Navigating the Informativeness-Compression Trade-Off in XAI. AI & Ethics. 
+
+Bangsgaard, Alberte Romme; Ryelund, Cecilia Kløve; Nilsson, Mathilde Marie Lind; Søgaard, Anders. 2025. Digital Friends and Empathy Blindness. Open Philosophy. 
+
 Yuan, Yifei; Søgaard, Anders. 2025. Revisiting the Othello World Model Hypothesis. ICLR 2025 World Models Workshop. Singapore, Singapore. 
 
 Karamolegkou, Antonia; Schiller Hansen, Sandrine; Christopoulou, Ariadni; Stamatiou, Filippos; Lauscher, Anne; Søgaard, Anders. 2025. Ethical Concern Identification in NLP: A Corpus of ACL Anthology Ethics Statements. Proceedings of the North American Chapter of the Association for Computational Linguistics (NAACL). Alberquerque, New Mexico.
