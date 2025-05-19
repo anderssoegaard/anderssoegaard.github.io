@@ -14,11 +14,22 @@
 
 ### 2025
 
+Søgaard, Anders. 2025. Do Language Models Have Semantics? On the Five Standard Positions. Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL). Vienna, Austria.
+
+Karamolegkou, Antonia; Nikandrou, Malvina; Pantazopoulos, Georgios; Villegas, Danae Sanchez; Rust, Phillip; Dhar, Ruchira; Hershcovich, Daniel; Søgaard, Anders. 2025. Evaluating Multimodal Language Models as Visual Assistants for Visually Impaired Users Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL). Vienna, Austria.
+
+Karamolegkou, Antonia; Eberle, Oliver; Rust, Phillip; Kauf, Carina; Søgaard, Anders. 2025. Trick or Neat: Adversarial Ambiguity and Language Model Evaluation Findings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL). Vienna, Austria.
+
+Fierro, Constanza; Foroutan, Negar; Elliott, Desmond; Søgaard, Anders. 2025. How Do Multilingual Language Models Remember Facts? Findings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL). Vienna, Austria.
+
 Oldenburg, Ninell; Søgaard, Anders. 2025. Navigating the Informativeness-Compression Trade-Off in XAI. AI & Ethics. 
 
 Bangsgaard, Alberte Romme; Ryelund, Cecilia Kløve; Nilsson, Mathilde Marie Lind; Søgaard, Anders. 2025. Digital Friends and Empathy Blindness. Open Philosophy. 
 
 Yuan, Yifei; Søgaard, Anders. 2025. Revisiting the Othello World Model Hypothesis. ICLR 2025 World Models Workshop. Singapore, Singapore. 
+
+Maji, Bubai; Swain, Monorama; Nasreen, Shazia; Majumdar, Debabrata; Guha, Rajlakshmi; Routray, Aurobinda; Søgaard, Anders. 2025. A Study on The Impact of Foundation Models on Automatic Depression
+Detection from Speech Signals. Interspeech 2025. Rotterdam, the Netherlands. 
 
 Karamolegkou, Antonia; Schiller Hansen, Sandrine; Christopoulou, Ariadni; Stamatiou, Filippos; Lauscher, Anne; Søgaard, Anders. 2025. Ethical Concern Identification in NLP: A Corpus of ACL Anthology Ethics Statements. Proceedings of the North American Chapter of the Association for Computational Linguistics (NAACL). Alberquerque, New Mexico.
 
