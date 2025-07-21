@@ -14,6 +14,8 @@
 
 ### 2025
 
+Bøcker Pedersen, Carsten; et al. 2025. Absolute and relative risks of mental disorders in families: a Danish register-based study. The Lancet Psychiatry 12 (8): 590-599. 
+
 Søgaard, Anders. 2025. Do Language Models Have Semantics? On the Five Standard Positions. Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL). Vienna, Austria.
 
 Karamolegkou, Antonia; Nikandrou, Malvina; Pantazopoulos, Georgios; Villegas, Danae Sanchez; Rust, Phillip; Dhar, Ruchira; Hershcovich, Daniel; Søgaard, Anders. 2025. Evaluating Multimodal Language Models as Visual Assistants for Visually Impaired Users Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL). Vienna, Austria.
@@ -22,9 +24,11 @@ Karamolegkou, Antonia; Eberle, Oliver; Rust, Phillip; Kauf, Carina; Søgaard, An
 
 Fierro, Constanza; Foroutan, Negar; Elliott, Desmond; Søgaard, Anders. 2025. How Do Multilingual Language Models Remember Facts? Findings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL). Vienna, Austria.
 
+Peng, Qiwei; et al. 2025. Semeval-2025 task 7: Multilingual and crosslingual fact-checked claim retrieval. The 19th International Workshop on Semantic Evaluation. Vienna, Austria. 
+
 Oldenburg, Ninell; Søgaard, Anders. 2025. Navigating the Informativeness-Compression Trade-Off in XAI. AI & Ethics. 
 
-Bangsgaard, Alberte Romme; Ryelund, Cecilia Kløve; Nilsson, Mathilde Marie Lind; Søgaard, Anders. 2025. Digital Friends and Empathy Blindness. Open Philosophy. 
+Bangsgaard, Alberte Romme; Ryelund, Cecilia Kløve; Nilsson, Mathilde Marie Lind; Søgaard, Anders. 2025. Digital Friends and Empathy Blindness. Open Philosophy 8 (1): 20250063.
 
 Yuan, Yifei; Søgaard, Anders. 2025. Revisiting the Othello World Model Hypothesis. ICLR 2025 World Models Workshop. Singapore, Singapore. 
 
@@ -35,9 +39,9 @@ Karamolegkou, Antonia; Schiller Hansen, Sandrine; Christopoulou, Ariadni; Stamat
 
 Fierro, Constanza; Foroutan, Negar; Elliott, Desmond; Søgaard, Anders. 2025. How Do Multilingual Models Remember? Investigating Multilingual Factual Recall Mechanisms. Findings of the North American Chapter of the Association for Computational Linguistics (NAACL). Alberquerque, New Mexico. 
 
-### 2024
+Søgaard, Anders. 2025. Externalist XAI? Theoria 91 (2): e12581. [PDF](https://onlinelibrary.wiley.com/doi/abs/10.1111/theo.12581)
 
-Søgaard, Anders. 2024. Externalist XAI? Theoria. [PDF](https://onlinelibrary.wiley.com/doi/abs/10.1111/theo.12581)
+### 2024
 
 Søgaard, Anders. 2024. Is Unsupervised Learning Somehow Truer? Minds and Machines 34(4): 43. [PDF](https://link.springer.com/article/10.1007/s11023-024-09699-5?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20241029&utm_content=10.1007/s11023-024-09699-5)
 
