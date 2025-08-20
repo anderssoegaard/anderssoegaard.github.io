@@ -14,6 +14,14 @@
 
 ### 2025
 
+Peng, Qiwei; Chai, Yekun; Søgaard, Anders. 2025. Understanding Subword Compositionality of Large Language Models. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2025. Suzhou, China. 
+
+Peng, Qiwei; Hu, Guimin; Chai, Yekun; Søgaard, Anders. 2025. Debiasing Multilingual LLMs in Cross-lingual Latent Space. Suzhou, China. 
+
+Chen, Xinyi; Yuan, Yifei; Li, Jiaang; Belongie, Serge; de Rijke, Marten; Søgaard, Anders. 2025. What if Othello-Playing Language Models Could See? Findings of Conference on Empirical Methods in Natural Language Processing (EMNLP) 2025. Suzhou, China. 
+
+Li, Wenyan; Tang, Raphael; Li, Chengzu; Pasti, Clemente; Snæbjarnarson, Vésteinn; Zhang, Caiqi; Vulic, Ivan; Cotterell, Ryan; Søgaard, Anders. 2025. Information Loss in Vision–Language Models. Findings of Conference on Empirical Methods in Natural Language Processing (EMNLP) 2025. Suzhou, China. 
+
 Bøcker Pedersen, Carsten; et al. 2025. Absolute and relative risks of mental disorders in families: a Danish register-based study. The Lancet Psychiatry 12 (8): 590-599. 
 
 Søgaard, Anders. 2025. Do Language Models Have Semantics? On the Five Standard Positions. Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL). Vienna, Austria.
