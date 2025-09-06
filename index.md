@@ -24,6 +24,8 @@ Li, Wenyan; Tang, Raphael; Li, Chengzu; Pasti, Clemente; Snæbjarnarson, Véstei
 
 Bøcker Pedersen, Carsten; et al. 2025. Absolute and relative risks of mental disorders in families: a Danish register-based study. The Lancet Psychiatry 12 (8): 590-599. 
 
+Dhar, Ruchira; Brandl, Stephanie; Oldenburg, Ninell; Søgaard, Anders. 2025. Beyond Technocratic XAI: The who, What and How in Explanation Design. Proceedings of the 8th AAAI/ACM Conference on AI, Ethics, and Society. Madrid, Spain. 
+
 Søgaard, Anders. 2025. Do Language Models Have Semantics? On the Five Standard Positions. Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL). Vienna, Austria.
 
 Karamolegkou, Antonia; Nikandrou, Malvina; Pantazopoulos, Georgios; Villegas, Danae Sanchez; Rust, Phillip; Dhar, Ruchira; Hershcovich, Daniel; Søgaard, Anders. 2025. Evaluating Multimodal Language Models as Visual Assistants for Visually Impaired Users Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL). Vienna, Austria.
@@ -39,6 +41,8 @@ Oldenburg, Ninell; Søgaard, Anders. 2025. Navigating the Informativeness-Compre
 Bangsgaard, Alberte Romme; Ryelund, Cecilia Kløve; Nilsson, Mathilde Marie Lind; Søgaard, Anders. 2025. Digital Friends and Empathy Blindness. Open Philosophy 8 (1): 20250063.
 
 Yuan, Yifei; Søgaard, Anders. 2025. Revisiting the Othello World Model Hypothesis. ICLR 2025 World Models Workshop. Singapore, Singapore. 
+
+Søgaard, Anders. 2025. Language acquisition in vector space. Intercultural Pragmatics 22(2): 197-202. 
 
 Maji, Bubai; Swain, Monorama; Nasreen, Shazia; Majumdar, Debabrata; Guha, Rajlakshmi; Routray, Aurobinda; Søgaard, Anders. 2025. A Study on The Impact of Foundation Models on Automatic Depression
 Detection from Speech Signals. Interspeech 2025. Rotterdam, the Netherlands. 
@@ -64,6 +68,8 @@ Fierro, Constanza; Dhar, Ruchira; Stamatiou, Filippos; Garneau, Nicolas; Søgaar
 Li, Wenyan; Zhang, Chrystina; Li, Jiaang; Peng, Qiwei; Tang, Raphael; Zhou, Li; Zhang, Weijia; Hu, Guimin; Yuan, Yifei; Søgaard, Anders; Hershcovich, Daniel; Elliott, Desmond. 2024. FoodieQA: A Multimodal Dataset for Fine-Grained Understanding of Chinese Food Culture. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2024. Miami, Florida. [ArXiv](https://arxiv.org/abs/2406.11030)
 
 Li, Jiaang; Kementchedjhieva, Yova; Fierro, Constanza; Søgaard, Anders. 2024. Do Vision and Language Models Share Concepts? A Vector Space Alignment Study. Transactions of the Association for Computational Linguistics (TACL) 12: 1232-1249. [ArXiv](https://arxiv.org/abs/2302.06555) [PDF](https://watermark.silverchair.com/tacl_a_00698.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA0gwggNEBgkqhkiG9w0BBwagggM1MIIDMQIBADCCAyoGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMI9jmfxioPy7M6R2AAgEQgIIC-zmCxl8RIQZObgeo3Mz-eLsJadZ1ePldR3ATTezqn8zHyqmdRrMsvlhcHXi59MgLmcd9xR7gH_Wa26GokR4T09tpMBVfFIZFcBr3-0cGNPBkHNka6GgvhS-tT1yc0eupwOm3Squ72lDXUgD-2tOkbFoEFwtCvG_uTcZaA8swBeBnKQ3J_Nr02UYj6Cd1OO6FL15CM4WvYIC7GyxACvQbj4AE6ozjFmbL2_e4csQmx1xMfNkJjFwU4ezbrfJaPgYnl5L9047dbwDKbnH14rNkzVqRt0QApGIbbozZ-OicDKp4FNVYe4xjLXq5yaQOykeoO2LcMumb9Z91cmxl3Hzn_0830WzjMSq9qcnz48r1IHwcaQwDGsfwLu_t69coC0ZsEP5V0sM3R2XoLcE27Rc82EgU1oLGxBy-G-1pZG6ShH7L4Qr1guEVJMFjBi-ZDOXHU2FxfOwEdvPgxI5Pk_gtLz8kVXu89lhRI8PDToiQPmBWxC9mrtTJwsy_M1RsVykqhp5DBpNu_eB9ZwUSvX5YSB6smQCfLmTdDKY8QShWMHHqFrfYh7gdGCKYJiFgJ7a-oCMp2XSO61MHls5KDkhXGVevs6_uNZiIdjN3qtLWPMP6YOx0zVK1YS5ekDNH_8OSS9GZ0BflIiTDhdNpn-xEEdYqZ-AdfM7KvmnJMzxdm52Ne583v7WM3Un78ULv17tIjSJ6-keT1kat4tbXsDFUIWka1zUQc-e6T6HFnxUrZfK8Wbs3wSV7GdAvOllGTEwrv03AVdTE37JJ1_Xr75n77RuH5eE4Ek26AwSO5mJ_qf2V_LBsrb45SZy4KUBdpajMoeZOKLKs9cERjo_n-ullT2sfp2FWcsDvdpvZfsx03Ch3aaTgujvqrwUZWnf9tHn9TJGDluxnr9wEgbYTD6Wmi4e9vX3TZWqNerIYZdwSET55sKrdXDAjQoee5bti360DI3Q8Ng6M4RwPt8c99F6N9TcvW55vN4vi1A_ZPtDheqTaGEHuYCKZ-eYGjA0)
+
+Han, Hyewon; Dhar, Ruchira; Yang, Qingqing; Benbahani, Maryam Hoseini; Ortiz, Maria; Odalele, Tolulope; Dima, Diana; Li, Hsin-Hung; Søgaard, Anders; Mohsenzadeh, Yalda. 2024. Investigating the role of modality and training objective on representational alignment between transformers and the brain. NeurIPS Workshop on UniReps: 2nd Workshop on Unifying Representations in Neural Models. Vancouver, CA. 
 
 Dhar, Ruchira; Søgaard, Anders. 2024. From Words to Worlds: Compositionality for Cognitive Architectures. ICML 2024 Workshop on LLMs and Cognition. Vienna, Austria. [ArXiv](https://arxiv.org/abs/2407.13419)
 
