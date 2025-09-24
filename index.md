@@ -8,7 +8,7 @@
 
 ## Academic Books
 
-<img src="book1.webp" alt="Cover" height="200"/> <img src="book2.jpeg" alt="Cover" height="200"/> <img src="book3.jpeg" alt="Cover" height="200"/> <img src="book4.jpeg" alt="Cover" height="200"/> <img src="book5.jpeg" alt="Cover" height="200"/>
+<img src="book1.webp" alt="Cover" height="200"/> <img src="book2.jpeg" alt="Cover" height="200"/> <img src="book3.jpeg" alt="Cover" height="200"/> <img src="book4.jpeg" alt="Cover" height="200"/> <img src="book5.jpeg" alt="Cover" height="200"/>  <img src="bog6.jpeg" alt="Cover" height="200"/>
 
 ## Publications
 
@@ -16,11 +16,13 @@
 
 Peng, Qiwei; Chai, Yekun; Søgaard, Anders. 2025. Understanding Subword Compositionality of Large Language Models. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2025. Suzhou, China. 
 
-Peng, Qiwei; Hu, Guimin; Chai, Yekun; Søgaard, Anders. 2025. Debiasing Multilingual LLMs in Cross-lingual Latent Space. Suzhou, China. 
+Peng, Qiwei; Hu, Guimin; Chai, Yekun; Søgaard, Anders. 2025. Debiasing Multilingual LLMs in Cross-lingual Latent Space. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2025. Suzhou, China. 
 
 Chen, Xinyi; Yuan, Yifei; Li, Jiaang; Belongie, Serge; de Rijke, Marten; Søgaard, Anders. 2025. What if Othello-Playing Language Models Could See? Findings of Conference on Empirical Methods in Natural Language Processing (EMNLP) 2025. Suzhou, China. 
 
 Li, Wenyan; Tang, Raphael; Li, Chengzu; Pasti, Clemente; Snæbjarnarson, Vésteinn; Zhang, Caiqi; Vulic, Ivan; Cotterell, Ryan; Søgaard, Anders. 2025. Information Loss in Vision–Language Models. Findings of Conference on Empirical Methods in Natural Language Processing (EMNLP) 2025. Suzhou, China. 
+
+Liao, Baohao; Chen, Xinyi; Rajaee, Sara; Xu, Yuhui; Herold, Christian; Søgaard, Anders; de Rijke, Maarten; Monz, Christof. 2025. Lost at the Beginning of Reasoning. NeurIPS Workshop Foundations of Reasoning in Language Models. San Diego, CA. 
 
 Bøcker Pedersen, Carsten; et al. 2025. Absolute and relative risks of mental disorders in families: a Danish register-based study. The Lancet Psychiatry 12 (8): 590-599. 
 
