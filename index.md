@@ -26,6 +26,8 @@ Liao, Baohao; Chen, Xinyi; Rajaee, Sara; Xu, Yuhui; Herold, Christian; Søgaard,
 
 Bøcker Pedersen, Carsten; et al. 2025. Absolute and relative risks of mental disorders in families: a Danish register-based study. The Lancet Psychiatry 12 (8): 590-599. 
 
+Grünbaum, Thor; Søgaard, Anders. 2025. Large language models and linguistic understanding. Artificial Intelligence, Humans and the Law. Oxford: Taylor Francis. 
+
 Dhar, Ruchira; Brandl, Stephanie; Oldenburg, Ninell; Søgaard, Anders. 2025. Beyond Technocratic XAI: The who, What and How in Explanation Design. Proceedings of the 8th AAAI/ACM Conference on AI, Ethics, and Society. Madrid, Spain. 
 
 Søgaard, Anders. 2025. Do Language Models Have Semantics? On the Five Standard Positions. Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL). Vienna, Austria.
