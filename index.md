@@ -12,6 +12,10 @@
 
 ## Publications
 
+### 2026
+
+Oldenburg, Ninell; Dhar, Ruchira; Søgaard, Anders. 2026. Realist and Pluralist Conceptions of Intelligence and Their Implications on AI (Alignment) Research. The Alignment Track of The 40th Annual AAAI Conference on Artificial Intelligence (AAAI’26). Singapore, Singapore. 
+
 ### 2025
 
 Peng, Qiwei; Chai, Yekun; Søgaard, Anders. 2025. Understanding Subword Compositionality of Large Language Models. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2025. Suzhou, China. 
@@ -23,6 +27,8 @@ Chen, Xinyi; Yuan, Yifei; Li, Jiaang; Belongie, Serge; de Rijke, Marten; Søgaar
 Li, Wenyan; Tang, Raphael; Li, Chengzu; Pasti, Clemente; Snæbjarnarson, Vésteinn; Zhang, Caiqi; Vulic, Ivan; Cotterell, Ryan; Søgaard, Anders. 2025. Information Loss in Vision–Language Models. Findings of Conference on Empirical Methods in Natural Language Processing (EMNLP) 2025. Suzhou, China. 
 
 Liao, Baohao; Chen, Xinyi; Rajaee, Sara; Xu, Yuhui; Herold, Christian; Søgaard, Anders; de Rijke, Maarten; Monz, Christof. 2025. Lost at the Beginning of Reasoning. NeurIPS Workshop Foundations of Reasoning in Language Models. San Diego, CA. 
+
+Dhar, Ruchira; Oldenburg, Ninell; Søgaard, Anders. 2025. On the Measure of a Model: From Intelligence to Generality. EurIPS 2025 Workshop on The Science of Benchmarking and Evaluating AI. Copenhagen, Denmark. 
 
 Bøcker Pedersen, Carsten; et al. 2025. Absolute and relative risks of mental disorders in families: a Danish register-based study. The Lancet Psychiatry 12 (8): 590-599. 
 
