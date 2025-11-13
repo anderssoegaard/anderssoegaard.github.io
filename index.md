@@ -20,48 +20,45 @@ Tjoan, Gregory Hok; Khang, Ly; Søgaard, Anders; Tabatabaei, Seyed Amin; de Rijk
 
 ### 2025
 
-Peng, Qiwei; Chai, Yekun; Søgaard, Anders. 2025. Understanding Subword Compositionality of Large Language Models. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2025. Suzhou, China. 
+Peng, Qiwei; Chai, Yekun; Søgaard, Anders. 2025. Understanding Subword Compositionality of Large Language Models. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2025. Suzhou, China. [PDF](https://aclanthology.org/2025.emnlp-main.1146/)
 
-Peng, Qiwei; Hu, Guimin; Chai, Yekun; Søgaard, Anders. 2025. Debiasing Multilingual LLMs in Cross-lingual Latent Space. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2025. Suzhou, China. 
+Peng, Qiwei; Hu, Guimin; Chai, Yekun; Søgaard, Anders. 2025. Debiasing Multilingual LLMs in Cross-lingual Latent Space. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2025. Suzhou, China. [PDF](https://aclanthology.org/2025.emnlp-main.1149/) 
 
-Chen, Xinyi; Yuan, Yifei; Li, Jiaang; Belongie, Serge; de Rijke, Marten; Søgaard, Anders. 2025. What if Othello-Playing Language Models Could See? Findings of Conference on Empirical Methods in Natural Language Processing (EMNLP) 2025. Suzhou, China. 
+Chen, Xinyi; Yuan, Yifei; Li, Jiaang; Belongie, Serge; de Rijke, Marten; Søgaard, Anders. 2025. What if Othello-Playing Language Models Could See? Findings of Conference on Empirical Methods in Natural Language Processing (EMNLP) 2025. Suzhou, China. [PDF](https://aclanthology.org/2025.findings-emnlp.673/)
 
-Li, Wenyan; Tang, Raphael; Li, Chengzu; Pasti, Clemente; Snæbjarnarson, Vésteinn; Zhang, Caiqi; Vulic, Ivan; Cotterell, Ryan; Søgaard, Anders. 2025. Information Loss in Vision–Language Models. Findings of Conference on Empirical Methods in Natural Language Processing (EMNLP) 2025. Suzhou, China. 
+Li, Wenyan; Tang, Raphael; Li, Chengzu; Zhang, Caiqi; Vulic, Ivan; Søgaard, Anders. 2025. Information Loss in Vision–Language Models. Findings of Conference on Empirical Methods in Natural Language Processing (EMNLP) 2025. Suzhou, China. [PDF](https://aclanthology.org/2025.findings-emnlp.1235/)
 
-Liao, Baohao; Chen, Xinyi; Rajaee, Sara; Xu, Yuhui; Herold, Christian; Søgaard, Anders; de Rijke, Maarten; Monz, Christof. 2025. Lost at the Beginning of Reasoning. NeurIPS Workshop Foundations of Reasoning in Language Models. San Diego, CA. 
+Liao, Baohao; Chen, Xinyi; Rajaee, Sara; Xu, Yuhui; Herold, Christian; Søgaard, Anders; de Rijke, Maarten; Monz, Christof. 2025. Lost at the Beginning of Reasoning. NeurIPS Workshop Foundations of Reasoning in Language Models. San Diego, CA. [ArXiv](https://arxiv.org/abs/2506.22058)
 
 Dhar, Ruchira; Oldenburg, Ninell; Søgaard, Anders. 2025. On the Measure of a Model: From Intelligence to Generality. EurIPS 2025 Workshop on The Science of Benchmarking and Evaluating AI. Copenhagen, Denmark. 
 
-Bøcker Pedersen, Carsten; et al. 2025. Absolute and relative risks of mental disorders in families: a Danish register-based study. The Lancet Psychiatry 12 (8): 590-599. 
+Bøcker Pedersen, Carsten; et al. 2025. Absolute and relative risks of mental disorders in families: a Danish register-based study. The Lancet Psychiatry 12 (8): 590-599. [PDF](https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(25)00196-8/abstract)
 
-Grünbaum, Thor; Søgaard, Anders. 2025. Large language models and linguistic understanding. Artificial Intelligence, Humans and the Law. Oxford: Taylor Francis. 
+Grünbaum, Thor; Søgaard, Anders. 2025. Large language models and linguistic understanding. Artificial Intelligence, Humans and the Law. Oxford: Taylor Francis. [Book](https://www.routledge.com/Artificial-Intelligence-Humans-and-the-Law/PalmerOlsen-LivingstonSlosser-AddoRavn-Eddebo-HultinRosenberg/p/book/9781032934556)
 
-Dhar, Ruchira; Brandl, Stephanie; Oldenburg, Ninell; Søgaard, Anders. 2025. Beyond Technocratic XAI: The who, What and How in Explanation Design. Proceedings of the 8th AAAI/ACM Conference on AI, Ethics, and Society. Madrid, Spain. 
+Dhar, Ruchira; Brandl, Stephanie; Oldenburg, Ninell; Søgaard, Anders. 2025. Beyond Technocratic XAI: The who, What and How in Explanation Design. Proceedings of the 8th AAAI/ACM Conference on AI, Ethics, and Society. Madrid, Spain. [PDF](https://ojs.aaai.org/index.php/AIES/article/view/36586/38724)
 
-Søgaard, Anders. 2025. Do Language Models Have Semantics? On the Five Standard Positions. Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL). Vienna, Austria.
+Søgaard, Anders. 2025. Do Language Models Have Semantics? On the Five Standard Positions. Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL). Vienna, Austria. [PDF](https://aclanthology.org/2025.acl-long.1258/) 
 
-Karamolegkou, Antonia; Nikandrou, Malvina; Pantazopoulos, Georgios; Villegas, Danae Sanchez; Rust, Phillip; Dhar, Ruchira; Hershcovich, Daniel; Søgaard, Anders. 2025. Evaluating Multimodal Language Models as Visual Assistants for Visually Impaired Users Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL). Vienna, Austria.
+Karamolegkou, Antonia; Nikandrou, Malvina; Pantazopoulos, Georgios; Villegas, Danae Sanchez; Rust, Phillip; Dhar, Ruchira; Hershcovich, Daniel; Søgaard, Anders. 2025. Evaluating Multimodal Language Models as Visual Assistants for Visually Impaired Users. Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL). Vienna, Austria. [PDF](https://aclanthology.org/2025.acl-long.1260/)
 
-Karamolegkou, Antonia; Eberle, Oliver; Rust, Phillip; Kauf, Carina; Søgaard, Anders. 2025. Trick or Neat: Adversarial Ambiguity and Language Model Evaluation Findings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL). Vienna, Austria.
+Karamolegkou, Antonia; Eberle, Oliver; Rust, Phillip; Kauf, Carina; Søgaard, Anders. 2025. Trick or Neat: Adversarial Ambiguity and Language Model Evaluation. Findings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL). Vienna, Austria. [PDF](https://aclanthology.org/2025.findings-acl.954/)
 
-Fierro, Constanza; Foroutan, Negar; Elliott, Desmond; Søgaard, Anders. 2025. How Do Multilingual Language Models Remember Facts? Findings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL). Vienna, Austria.
+Fierro, Constanza; Foroutan, Negar; Elliott, Desmond; Søgaard, Anders. 2025. How Do Multilingual Language Models Remember Facts? Findings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL). Vienna, Austria. [PDF](https://aclanthology.org/2025.findings-acl.827/)
 
-Peng, Qiwei; et al. 2025. Semeval-2025 task 7: Multilingual and crosslingual fact-checked claim retrieval. The 19th International Workshop on Semantic Evaluation. Vienna, Austria. 
+Peng, Qiwei; et al. 2025. Semeval-2025 task 7: Multilingual and crosslingual fact-checked claim retrieval. The 19th International Workshop on Semantic Evaluation. Vienna, Austria. [PDF](https://aclanthology.org/2025.semeval-1.323/) 
 
-Oldenburg, Ninell; Søgaard, Anders. 2025. Navigating the Informativeness-Compression Trade-Off in XAI. AI & Ethics. 
+Oldenburg, Ninell; Søgaard, Anders. 2025. Navigating the Informativeness-Compression Trade-Off in XAI. AI & Ethics 5: 4925-4942. [PDF](https://link.springer.com/article/10.1007/s43681-025-00733-5) 
 
-Bangsgaard, Alberte Romme; Ryelund, Cecilia Kløve; Nilsson, Mathilde Marie Lind; Søgaard, Anders. 2025. Digital Friends and Empathy Blindness. Open Philosophy 8 (1): 20250063.
+Bangsgaard, Alberte Romme; Ryelund, Cecilia Kløve; Nilsson, Mathilde Marie Lind; Søgaard, Anders. 2025. Digital Friends and Empathy Blindness. Open Philosophy 8 (1): 20250063. [PDF](https://www.degruyterbrill.com/document/doi/10.1515/opphil-2025-0063/html)
 
-Yuan, Yifei; Søgaard, Anders. 2025. Revisiting the Othello World Model Hypothesis. ICLR 2025 World Models Workshop. Singapore, Singapore. 
+Yuan, Yifei; Søgaard, Anders. 2025. Revisiting the Othello World Model Hypothesis. ICLR 2025 World Models Workshop. Singapore, Singapore. [ArXiv](https://arxiv.org/abs/2503.04421)
 
-Søgaard, Anders. 2025. Language acquisition in vector space. Intercultural Pragmatics 22(2): 197-202. 
+Søgaard, Anders. 2025. Language acquisition in vector space. Intercultural Pragmatics 22(2): 197-202. [PDF](https://www.degruyterbrill.com/document/doi/10.1515/ip-2025-2001/html) 
 
-Maji, Bubai; Swain, Monorama; Nasreen, Shazia; Majumdar, Debabrata; Guha, Rajlakshmi; Routray, Aurobinda; Søgaard, Anders. 2025. A Study on The Impact of Foundation Models on Automatic Depression
-Detection from Speech Signals. Interspeech 2025. Rotterdam, the Netherlands. 
+Maji, Bubai; Swain, Monorama; Nasreen, Shazia; Majumdar, Debabrata; Guha, Rajlakshmi; Routray, Aurobinda; Søgaard, Anders. 2025. A Study on The Impact of Foundation Models on Automatic Depression Detection from Speech Signals. Interspeech 2025. Rotterdam, the Netherlands. [PDF](https://www.isca-archive.org/interspeech_2025/maji25_interspeech.pdf)
 
-Karamolegkou, Antonia; Schiller Hansen, Sandrine; Christopoulou, Ariadni; Stamatiou, Filippos; Lauscher, Anne; Søgaard, Anders. 2025. Ethical Concern Identification in NLP: A Corpus of ACL Anthology Ethics Statements. Proceedings of the North American Chapter of the Association for Computational Linguistics (NAACL). Alberquerque, New Mexico.
-
-Fierro, Constanza; Foroutan, Negar; Elliott, Desmond; Søgaard, Anders. 2025. How Do Multilingual Models Remember? Investigating Multilingual Factual Recall Mechanisms. Findings of the North American Chapter of the Association for Computational Linguistics (NAACL). Alberquerque, New Mexico. 
+Karamolegkou, Antonia; Schiller Hansen, Sandrine; Christopoulou, Ariadni; Stamatiou, Filippos; Lauscher, Anne; Søgaard, Anders. 2025. Ethical Concern Identification in NLP: A Corpus of ACL Anthology Ethics Statements. Proceedings of the North American Chapter of the Association for Computational Linguistics (NAACL). Alberquerque, New Mexico. [PDF](https://aclanthology.org/2025.naacl-long.580/)
 
 Søgaard, Anders. 2025. Externalist XAI? Theoria 91 (2): e12581. [PDF](https://onlinelibrary.wiley.com/doi/abs/10.1111/theo.12581)
 
