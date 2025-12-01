@@ -20,7 +20,7 @@ Tjoan, Gregory Hok; Khang, Ly; Søgaard, Anders; Tabatabaei, Seyed Amin; de Rijk
 
 ### 2025
 
-Søgaard, Anders; Stamatiou; Filippos. 2025. Mele’s Digital Zygote: Developer Responsibility for Neural Networks. Science and Engineering Ethics 31 (6): 40.
+Søgaard, Anders; Stamatiou; Filippos. 2025. Mele’s Digital Zygote: Developer Responsibility for Neural Networks. Science and Engineering Ethics 31 (6): 40. [PDF](https://link.springer.com/article/10.1007/s11948-025-00566-9)
 
 Peng, Qiwei; Chai, Yekun; Søgaard, Anders. 2025. Understanding Subword Compositionality of Large Language Models. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2025. Suzhou, China. [PDF](https://aclanthology.org/2025.emnlp-main.1146/)
 
