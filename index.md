@@ -14,6 +14,8 @@
 
 ### 2026
 
+Karamolegkou, Antonia; et al. 2026. NLP for Social Good: A Survey and Outlook of Challenges, Opportunities and Responsible Deployment. The 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL). Rabat, Morocco. 
+
 Oldenburg, Ninell; Dhar, Ruchira; Søgaard, Anders. 2026. Realist and Pluralist Conceptions of Intelligence and Their Implications on AI (Alignment) Research. The Alignment Track of The 40th Annual AAAI Conference on Artificial Intelligence (AAAI). Singapore, Singapore. 
 
 Tjoan, Gregory Hok; Khang, Ly; Søgaard, Anders; Tabatabaei, Seyed Amin; de Rijke, Maarten; Chen, Xinyi. 2026. LiRA: A Multi-Agent Framework for Reliable and Readable Literature Review Generation. The Thirty-Eighth Annual Conference on Innovative Applications of Artificial Intelligence (IAAI). Singapore, Singapore. 
