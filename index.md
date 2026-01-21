@@ -14,6 +14,8 @@
 
 ### 2026
 
+Hatherley, Joshua; Søgaard, Anders; Ballantyne, Angela; Pauwels, Ruben. 2026. Federation opacity and the promise of federated learning in healthcare. The American Journal of Bioethics.
+
 Karamolegkou, Antonia; et al. 2026. NLP for Social Good: A Survey and Outlook of Challenges, Opportunities and Responsible Deployment. The 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL). Rabat, Morocco. 
 
 Swain, Monorama; Maji, Bubai; Mishra, Jagabandhu; Schedl, Markus; Søgaard, Anders; Jensen, Jesper Rindom. 2026. Towards fair ASR for second language speakers using fairness prompted finetuning. 2026 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP). Barcelona, Spain. 
