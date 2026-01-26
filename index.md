@@ -14,6 +14,8 @@
 
 ### 2026
 
+Li, Jiaang; et al. 2026. RAVENEA: A Benchmark for Multimodal Retrieval-Augmented Visual Culture Understanding. The 14th International Conference on Learning Representations (ICLR). Rio de Janeiro, Brazil. 
+
 Hatherley, Joshua; Søgaard, Anders; Ballantyne, Angela; Pauwels, Ruben. 2026. Federation opacity and the promise of federated learning in healthcare. The American Journal of Bioethics.
 
 Karamolegkou, Antonia; et al. 2026. NLP for Social Good: A Survey and Outlook of Challenges, Opportunities and Responsible Deployment. The 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL). Rabat, Morocco. 
