@@ -14,6 +14,8 @@
 
 ### 2026
 
+Rajcic, Nina; Scott, Ava; Søgaard, Anders. 2026. Epistemic Drift in Mind-Model Systems. Minds & Machines. 
+
 Li, Jiaang; et al. 2026. RAVENEA: A Benchmark for Multimodal Retrieval-Augmented Visual Culture Understanding. The 14th International Conference on Learning Representations (ICLR). Rio de Janeiro, Brazil. 
 
 Hatherley, Joshua; Søgaard, Anders; Ballantyne, Angela; Pauwels, Ruben. 2026. Federation opacity and the promise of federated learning in healthcare. The American Journal of Bioethics.
