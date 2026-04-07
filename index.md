@@ -14,7 +14,11 @@
 
 ### 2026
 
-Rajcic, Nina; Scott, Ava; Søgaard, Anders. 2026. Epistemic Drift in Mind-Model Systems. Minds & Machines. 
+Rajcic, Nina; Scott, Ava; Søgaard, Anders. 2026. Epistemic Drift in Mind-Model Systems. Minds & Machines 36 (1):18. [PDF](https://link.springer.com/article/10.1007/s11023-026-09772-1) 
+
+Mendozza, Alessandro; Søgaard, Anders. 2026. LLM Beliefs Are in Their Heads. Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL). San Diego, California. 
+
+Jamshidi, Neda; Søgaard, Anders; Bianchini, Monica. 2026. FrameNet-Cultures: A Benchmark for Evaluating LLMs via Cross-Cultural Frame Semantics. Findings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL). San Diego, California. 
 
 Li, Jiaang; et al. 2026. RAVENEA: A Benchmark for Multimodal Retrieval-Augmented Visual Culture Understanding. The 14th International Conference on Learning Representations (ICLR). Rio de Janeiro, Brazil. 
 
