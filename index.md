@@ -14,23 +14,27 @@
 
 ### 2026
 
+Chalkidis, Ilias; Søgaard, Anders. 2026. Brainrot: Deskilling and Addiction are Overlooked AI Risks. The 2026 ACM Conference on Fairness, Accountability, and Transparency (FAccT). Montréal, Canada
+
 Rajcic, Nina; Scott, Ava; Søgaard, Anders. 2026. Epistemic Drift in Mind-Model Systems. Minds & Machines 36 (1):18. [PDF](https://link.springer.com/article/10.1007/s11023-026-09772-1) 
 
-Mendozza, Alessandro; Søgaard, Anders. 2026. LLM Beliefs Are in Their Heads. Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL). San Diego, California. 
+Corona Mendozza, Alessandro; Søgaard, Anders. 2026. LLM Beliefs Are in Their Heads. Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL). San Diego, California. 
 
 Jamshidi, Neda; Søgaard, Anders; Bianchini, Monica. 2026. FrameNet-Cultures: A Benchmark for Evaluating LLMs via Cross-Cultural Frame Semantics. Findings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL). San Diego, California. 
 
-Li, Jiaang; et al. 2026. RAVENEA: A Benchmark for Multimodal Retrieval-Augmented Visual Culture Understanding. The 14th International Conference on Learning Representations (ICLR). Rio de Janeiro, Brazil. 
+Li, Jiaang; Yuan, Yifei; Li, Wenyan; Aliannejadi, Mohammad; Hershcovich, Daniel; Søgaard, Anders; Vulic, Ivan; Zhang, Wenxuan; Liang, Paul Pu; Deng, Yang; Belongie, Serge. 2026. RAVENEA: A Benchmark for Multimodal Retrieval-Augmented Visual Culture Understanding. The 14th International Conference on Learning Representations (ICLR). Rio de Janeiro, Brazil. [ArXiv](https://arxiv.org/abs/2505.14462)
+
+Zywot, Agata; Chen, Xinyi; Yuan, Yifei; Søgaard, Anders; de Rijke, Maarten. 2026. Can Small Agents Collaborate to Beat a Single Large Language Model? ICLR Workshop on Multi-Agent Learning and Its Opportunities in the Era of Generative AI. Rio de Janeiro, Brazil. [PDF](https://openreview.net/forum?id=RLHUTcvsA9)
 
 Hatherley, Joshua; Søgaard, Anders; Ballantyne, Angela; Pauwels, Ruben. 2026. Federation opacity and the promise of federated learning in healthcare. The American Journal of Bioethics. [PDF](https://www.tandfonline.com/doi/full/10.1080/15265161.2026.2637093?af=R)
 
-Karamolegkou, Antonia; et al. 2026. NLP for Social Good: A Survey and Outlook of Challenges, Opportunities and Responsible Deployment. The 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL). Rabat, Morocco. 
+Karamolegkou, Antonia; et al. 2026. NLP for Social Good: A Survey and Outlook of Challenges, Opportunities and Responsible Deployment. The 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL). Rabat, Morocco. [PDF](https://aclanthology.org/2026.eacl-long.238/)
 
-Swain, Monorama; Maji, Bubai; Mishra, Jagabandhu; Schedl, Markus; Søgaard, Anders; Jensen, Jesper Rindom. 2026. Towards fair ASR for second language speakers using fairness prompted finetuning. 2026 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP). Barcelona, Spain. 
+Swain, Monorama; Maji, Bubai; Mishra, Jagabandhu; Schedl, Markus; Søgaard, Anders; Jensen, Jesper Rindom. 2026. Towards fair ASR for second language speakers using fairness prompted finetuning. 2026 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP). Barcelona, Spain. [ArXiv](https://arxiv.org/abs/2510.18374)
 
-Oldenburg, Ninell; Dhar, Ruchira; Søgaard, Anders. 2026. Realist and Pluralist Conceptions of Intelligence and Their Implications on AI (Alignment) Research. The Alignment Track of The 40th Annual AAAI Conference on Artificial Intelligence (AAAI). Singapore, Singapore. 
+Oldenburg, Ninell; Dhar, Ruchira; Søgaard, Anders. 2026. Realist and Pluralist Conceptions of Intelligence and Their Implications on AI (Alignment) Research. The Alignment Track of The 40th Annual AAAI Conference on Artificial Intelligence (AAAI). Singapore, Singapore. [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/41115/45076)
 
-Tjoan, Gregory Hok; Khang, Ly; Søgaard, Anders; Tabatabaei, Seyed Amin; de Rijke, Maarten; Chen, Xinyi. 2026. LiRA: A Multi-Agent Framework for Reliable and Readable Literature Review Generation. The Thirty-Eighth Annual Conference on Innovative Applications of Artificial Intelligence (IAAI). Singapore, Singapore. 
+Tjoan, Gregory Hok; Khang, Ly; Søgaard, Anders; Tabatabaei, Seyed Amin; de Rijke, Maarten; Chen, Xinyi. 2026. LiRA: A Multi-Agent Framework for Reliable and Readable Literature Review Generation. The Thirty-Eighth Annual Conference on Innovative Applications of Artificial Intelligence (IAAI). Singapore, Singapore. [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/41489/45450)
 
 ### 2025
 
