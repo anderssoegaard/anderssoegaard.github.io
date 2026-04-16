@@ -14,7 +14,7 @@
 
 ### 2026
 
-Chalkidis, Ilias; Søgaard, Anders. 2026. Brainrot: Deskilling and Addiction are Overlooked AI Risks. The 2026 ACM Conference on Fairness, Accountability, and Transparency (FAccT). Montréal, Canada
+Chalkidis, Ilias; Søgaard, Anders. 2026. Brainrot: Deskilling and Addiction are Overlooked AI Risks. The 2026 ACM Conference on Fairness, Accountability, and Transparency (FAccT). Montréal, Canada.
 
 Rajcic, Nina; Scott, Ava; Søgaard, Anders. 2026. Epistemic Drift in Mind-Model Systems. Minds & Machines 36 (1):18. [PDF](https://link.springer.com/article/10.1007/s11023-026-09772-1) 
 
