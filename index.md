@@ -22,6 +22,8 @@ Corona Mendozza, Alessandro; Søgaard, Anders. 2026. LLM Beliefs Are in Their He
 
 Jamshidi, Neda; Søgaard, Anders; Bianchini, Monica. 2026. FrameNet-Cultures: A Benchmark for Evaluating LLMs via Cross-Cultural Frame Semantics. Findings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL). San Diego, California. 
 
+Dhar, Ruchira; Peng, Qiwei; Søgaard, Anders. 2006. Evaluating Adjective-Noun Compositionality in LLMs: Functional vs Representational Perspectives. The 15th Joint Conference on Lexical and Computational Semantics (*SEM). San Diego, California. 
+
 Li, Jiaang; Yuan, Yifei; Li, Wenyan; Aliannejadi, Mohammad; Hershcovich, Daniel; Søgaard, Anders; Vulic, Ivan; Zhang, Wenxuan; Liang, Paul Pu; Deng, Yang; Belongie, Serge. 2026. RAVENEA: A Benchmark for Multimodal Retrieval-Augmented Visual Culture Understanding. The 14th International Conference on Learning Representations (ICLR). Rio de Janeiro, Brazil. [ArXiv](https://arxiv.org/abs/2505.14462)
 
 Zywot, Agata; Chen, Xinyi; Yuan, Yifei; Søgaard, Anders; de Rijke, Maarten. 2026. Can Small Agents Collaborate to Beat a Single Large Language Model? ICLR Workshop on Multi-Agent Learning and Its Opportunities in the Era of Generative AI. Rio de Janeiro, Brazil. [PDF](https://openreview.net/forum?id=RLHUTcvsA9)
