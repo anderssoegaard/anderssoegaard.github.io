@@ -14,6 +14,12 @@
 
 ### 2026
 
+Havstein, Sigurd; Søgaard, Anders. 2026. Does Alignment Debias or Just Suppress? Evaluating Stereotypical Bias Across Base-Instruct Pairs. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2025. San Fransisco, California. 
+
+Ghorbanpour, Faeze; Fierro, Constanza; Fraser, Alexander; Søgaard, Anders. 2026. Latent-Space Intervention for Cross-Lingual Factual Consistency: Consistency Improvements without Accuracy Drops. Findings of Conference on Empirical Methods in Natural Language Processing (EMNLP) 2025. San Fransisco, California.
+
+Dhar, Ruchira; Peng, Qiwei; Søgaard, Anders. 2026. How Does IRT Generalize Across Languages? Evidence from Cross-Lingual LLM Benchmarks. Findings of Conference on Empirical Methods in Natural Language Processing (EMNLP) 2025. San Fransisco, California. 
+
 Chalkidis, Ilias; Søgaard, Anders. 2026. Brainrot: Deskilling and Addiction are Overlooked AI Risks. The 2026 ACM Conference on Fairness, Accountability, and Transparency (FAccT). Montréal, Canada.
 
 Rajcic, Nina; Scott, Ava; Søgaard, Anders. 2026. Epistemic Drift in Mind-Model Systems. Minds & Machines 36 (1):18. [PDF](https://link.springer.com/article/10.1007/s11023-026-09772-1) 
