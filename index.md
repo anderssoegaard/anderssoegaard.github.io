@@ -14,6 +14,9 @@
 
 ### 2026
 
+Williams, Iwan; Oldenburg, Ninell; Dhar, Ruchira Dhar; Hatherley, Joshua; Fierro, Constanza; Rajcic, Nina; Schiller, Sandrine; Stamatiou, Filippos; Søgaard, Anders. 2026. Mechanistic Interpretability Needs Philosophy. The 40th Conference on Neural Information Processing Systems (NeurIPS). Sydney, Australia. 
+
+
 Havstein, Sigurd; Søgaard, Anders. 2026. Does Alignment Debias or Just Suppress? Evaluating Stereotypical Bias Across Base-Instruct Pairs. Conference on Empirical Methods in Natural Language Processing (EMNLP) 2026. San Fransisco, California. 
 
 Ghorbanpour, Faeze; Fierro, Constanza; Fraser, Alexander; Søgaard, Anders. 2026. Latent-Space Intervention for Cross-Lingual Factual Consistency: Consistency Improvements without Accuracy Drops. Findings of Conference on Empirical Methods in Natural Language Processing (EMNLP) 2026. San Fransisco, California.
