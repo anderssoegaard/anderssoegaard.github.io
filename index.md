@@ -38,7 +38,7 @@ Li, Jiaang; Yuan, Yifei; Li, Wenyan; Aliannejadi, Mohammad; Hershcovich, Daniel;
 
 Zywot, Agata; Chen, Xinyi; Yuan, Yifei; Søgaard, Anders; de Rijke, Maarten. 2026. Can Small Agents Collaborate to Beat a Single Large Language Model? ICLR Workshop on Multi-Agent Learning and Its Opportunities in the Era of Generative AI. Rio de Janeiro, Brazil. [PDF](https://openreview.net/forum?id=RLHUTcvsA9)
 
-Hatherley, Joshua; Søgaard, Anders; Ballantyne, Angela; Pauwels, Ruben. 2026. Federation opacity and the promise of federated learning in healthcare. The American Journal of Bioethics. [PDF](https://www.tandfonline.com/doi/full/10.1080/15265161.2026.2637093?af=R)
+Hatherley, Joshua; Søgaard, Anders; Ballantyne, Angela; Pauwels, Ruben. 2026. Federation opacity and the promise of federated learning in healthcare. The American Journal of Bioethics 26: 119-132. [PDF](https://www.tandfonline.com/doi/full/10.1080/15265161.2026.2637093?af=R)
 
 Karamolegkou, Antonia; et al. 2026. NLP for Social Good: A Survey and Outlook of Challenges, Opportunities and Responsible Deployment. The 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL). Rabat, Morocco. [PDF](https://aclanthology.org/2026.eacl-long.238/)
 
