@@ -14,6 +14,8 @@
 
 ### 2026
 
+Hatherley, Joshua; Søgaard, Anders; Ballantyne, Angela; Pauwels, Ruben. 2026. Federation opacity makes medical machine learning’s failures harder to detect and correct. The American Journal of Bioethics.
+
 Williams, Iwan; Oldenburg, Ninell; Dhar, Ruchira Dhar; Hatherley, Joshua; Fierro, Constanza; Rajcic, Nina; Schiller, Sandrine; Stamatiou, Filippos; Søgaard, Anders. 2026. Mechanistic Interpretability Needs Philosophy. The 40th Conference on Neural Information Processing Systems (NeurIPS). Sydney, Australia. 
 
 Strandbygaard, Viktoria Silke Sofia; Søgaard, Anders. 2026. Are models getting more fair and less biased? NeurIPS Workshop on Trustworthy AI for Good. Paris, France. 
